@@ -127,7 +127,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 ## Pre-prints, reviews, and abstracts
 
-1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. “Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction.” BioHackrXiv. May 14. doi:10.37044/osf.io/b4zkp.
+1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. “Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction.” BioHackrXiv. May 14, 2020. doi:10.37044/osf.io/b4zkp.
 
 2: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer,2018, American Association for Cancer Research.
 
@@ -190,6 +190,6 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 ## Software projects
 
-1: **Noushin Nabavi**, CO-SOL: Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
+1: CO-SOL: Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
 
 
