@@ -157,13 +157,15 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 1: Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.
 
-2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
+2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.
 
-3: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial] (https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020.
+3: **Noushin Nabavi**; Initiating an Experiment, [Zenodo](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.
 
-4: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.
+4: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial] (https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020.
 
-5: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
+5: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.
+
+6: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
 
 ## Blog posts
 
