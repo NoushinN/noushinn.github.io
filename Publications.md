@@ -135,7 +135,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 4: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research February,31,32,2015
 
-5: **Nabavi, Noushin**; "Protein turnover: to self-eat or not to self-eat, that’s the question.",Journal of Postdoctoral Research January,39,46,2014
+5: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question.,Journal of Postdoctoral Research January,39,46,2014
 
 6: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling,Journal of Postdoctoral Research November,31,34,2014
 
@@ -157,7 +157,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 1: Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.
 
-2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"Boosting the volume and speed of genetic sequencing comes with challenges", [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
+2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
 
 3: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial] (https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020.
 
@@ -167,29 +167,29 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 ## Blog posts
 
-1: To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020
+1: **Noushin Nabavi**, To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020
 
-2: Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.
+2: **Noushin Nabavi**, Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.
 
-3: From messy to tidy: the case for a data science workflow
+3: **Noushin Nabavi**. From messy to tidy: the case for a data science workflow
 [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.
 
-4: Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.
+4: **Noushin Nabavi**, Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.
 
-5: Technical Considerations for Longitudinal Data Analyses
+5: **Noushin Nabavi**, Technical Considerations for Longitudinal Data Analyses
 [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), Oct 24, 2018.
 
-6: Menu for preparing data & serving it cold
+6: **Noushin Nabavi**, Menu for preparing data & serving it cold
 [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.
 
-7: Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.
+7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.
 
-8: Data Renaissance: Creating Data-driven Cultures
+8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.
 
 
 ## Software projects
 
-1: CO-SOL: Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
+1: **Noushin Nabavi**, CO-SOL: Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
 
 
