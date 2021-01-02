@@ -159,5 +159,5 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"Boosting the volume and speed of genetic sequencing comes with challenges", [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
 
-3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data", Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
+3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
 
