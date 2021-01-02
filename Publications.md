@@ -187,6 +187,17 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.
 
+## Media coverage of research
+
+1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.
+
+2: First-person account: Graduate student turns rocket scientist, [University of Toronto]
+(https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.
+
+3: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.
+
+4: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.
+
 
 ## Software projects
 
