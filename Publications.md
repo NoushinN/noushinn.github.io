@@ -161,7 +161,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 3: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [Zenodo](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.
 
-4: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial] (https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020.
+4: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020.
 
 5: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.
 
