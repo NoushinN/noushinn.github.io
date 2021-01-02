@@ -191,8 +191,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.
 
-2: First-person account: Graduate student turns rocket scientist, [University of Toronto]
-(https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.
+2: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.
 
 3: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.
 
