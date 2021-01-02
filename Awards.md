@@ -17,7 +17,7 @@ permalink: /Awards/
 | Health and Regenerative Medicine Hackathon in kind value in mentorship award | University of Victoria, Victoria, BC | 2018 |
 | Honorable mention for Brief Policy Pitch for Indigenous reconciliation | Institute of Public Administration, Victoria, BC | 2018 |
 |  Certificate of distinction for completing Summer Institute for Evidence-Based STEM Teaching from The CIRTL Network | on-line |  2018   |
-|  Entrepreneurship@UBC venture building phase 1 | University of British Columbia, Vancouver, BC | March-May 2018|
+|  Entrepreneurship@UBC venture building phase 1 | University of British Columbia, Vancouver, BC | March-May 2018|  
 |  Mitacs Accelerate Postdoctoral Fellowship Award | University of British Columbia, Vancouver, BC | 2015-2018  | 
 | Mini-MBA award, Partnership with Graduate Management Consulting Association | University of British Columbia, Vancouver, BC | 2018 |
 |  Rare Genomics Institute’s BeHEARD Technology Prize in partnership with Addgene | University of British Columbia, Vancouver, BC | 2017-2018 |
