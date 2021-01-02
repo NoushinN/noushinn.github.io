@@ -7,8 +7,8 @@ permalink: /Awards/
 
 | **Description**   |      **Location**      |  **Date** |
 |:----------|:-------------:|------:|
-
 | Canadian Mitacs Science Policy Fellowship | UVic/BC Ministry of Health, Victoria, BC | 2019-2020  |
+
 | Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project |  BC Ministry of Citizens' Services, Victoria, BC | 2019 |
 | Third place for designing prosthetic hand tools at Health and Regenerative Medicine Hackathon (donation of award to Victoria Hand Project) | University of Victoria, Victoria, BC | 2019|
 | People’s choice leadership award for Victoria Code.Hack health hackathon at Island Health | Vancouver Island Hospital, Victoria, BC   |  2019 |
