@@ -153,9 +153,11 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence,1,Pages 17-29,2017
 
-## Science policy opinions and perspectives
+## Science policy research, opinions, and perspectives
 
-1: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"Boosting the volume and speed of genetic sequencing comes with challenges", [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
+1: Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.
 
-2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data", Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
+2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"Boosting the volume and speed of genetic sequencing comes with challenges", [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), 2020.
+
+3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:"The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data", Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
 
