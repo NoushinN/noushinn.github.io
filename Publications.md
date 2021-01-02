@@ -129,19 +129,19 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. “Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction.” BioHackrXiv. May 14, 2020. doi:10.37044/osf.io/b4zkp.
 
-2: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer,2018, American Association for Cancer Research.
+2: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for Cancer Research.
 
 3: Shrestha, Raunak; **Nabavi, Noushin**; Lin, Yen-Yi; Mo, Fan; Anderson, Shawn; Volik, Stanislav; Adomat, Hans H; Lin, Dong; Xue, Hui; Dong, Xin; Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, bioRxiv, 243477, 2018, Cold Spring Harbor Laboratory.
 
-4: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research February,31,32,2015
+4: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research, February, 2015. 
 
-5: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question.,Journal of Postdoctoral Research January,39,46,2014
+5: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question, Journal of Postdoctoral Research, January, 2014.
 
-6: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling,Journal of Postdoctoral Research November,31,34,2014
+6: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling, Journal of Postdoctoral Research, November, 2014.
 
-7: **Nabavi, Noushin**; Can aging be reversed?,Journal of Postdoctoral Research,28,32,2014
+7: **Nabavi, Noushin**; Can aging be reversed? Journal of Postdoctoral Research, 2014.
 
-8: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization,Cancer,2,7,2014
+8: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization, Journal of Postdoctoral Research, 2014.
 
 ## Book chapter publications
 
