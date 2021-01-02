@@ -1,6 +1,7 @@
 ---
-layout: "publications"
-author: ""
+layout: page
+title: publications
+permalink: /publications/
 ---
 
 ## Peer-reviewed journal publications
