@@ -22,7 +22,7 @@ permalink: /Awards/
 | Mini-MBA award, Partnership with Graduate Management Consulting Association | University of British Columbia, Vancouver, BC | 2018 |
 |  Rare Genomics Institute’s BeHEARD Technology Prize in partnership with Addgene | University of British Columbia, Vancouver, BC | 2017-2018 |
 |Travel award to attend the American Association of Cancer Research conference | Washington DC, USA | 2017|
-|  Amazon Web Services Cloud Research Grant | University of British Columbia, Vancouver, BC | 2016-2017 |         |  Science Teaching Fellowship for the American Society for Microbiology | on-line | 2014-2015 |
+|  Amazon Web Services Cloud Research Grant | University of British Columbia, Vancouver, BC | 2016-2017 |          |  Science Teaching Fellowship for the American Society for Microbiology | on-line | 2014-2015 |  
 |  Siebel Stem Cell Postdoctoral Fellowship, University of California Berkeley | California, USA | 2012-2013  |
 |  Graduate Student Research Award | University of Toronto |July 2010 |
 |  Travel Award from 15th Canadian Connective Tissue Conference | Calgary, AB | July 2009  |
