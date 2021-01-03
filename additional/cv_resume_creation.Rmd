@@ -28,7 +28,7 @@ library(tidyverse)
 
 
 # Education
-```{r}
+```{r edu}
 tribble(
   ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
   "Certifications", "Data Camp", "Online", "2018-2019", "Data Analytics using R",
@@ -62,7 +62,7 @@ tribble(
 
 # Awards & Achievements
 ## Awards
-```{r}
+```{r awards}
 tribble(
   ~ award, ~ from, ~ location, ~ year,
   
@@ -125,7 +125,7 @@ tribble(
 
 # Invited presentations
 
-```{r}
+```{r presentations}
 
 tribble(
   ~name, ~event, ~location, ~year,
@@ -188,15 +188,15 @@ tribble(
 
 
 # Academic services
-```{r}
+```{r services}
 tribble(
    ~ year, ~ name, ~ description, ~ role, ~ location,
   
-"2020-2021", "Expert assessment of applications submitted", "Advisor on scientific methodology and merit", "Treasury Board of Canada Secretariat, Government of Canada", "on-line", 
+"2020-2021", "Expert assessment of applications", "Advisor on scientific methodology and merit", "Treasury Board of Canada Secretariat, Government of Canada", "on-line", 
 
 "2020", "Vice Chair of Survey and Data", " Canadian Association of Postdoctoral Scholars (CAPS)", "Develop analytics, methodologies, and partnerships", "on-line", 
 
-"2020", "Adjudicator", "Fellowship adjudication committee at Mitacs Inc.", "Evaluate Canadian Science Policy Fellowship applications", "on-line", 
+"2020", "Fellowship Adjudicator", "Adjudication committee at Mitacs Inc.", "Evaluate Canadian Science Policy Fellowship applications", "on-line", 
 
 "2019-2020", "Evaluation and program committee member", "Canadian Science Policy Centre (CSPC)", "Analyze and report conference survey data", "on-line",
 
@@ -238,10 +238,10 @@ tribble(
 
 "2003-2005", "Co-founder", "The Debating Club at University of Toronto Scarborough", "Co-found the club and organize events", "Toronto, ON",
 
-"2001-2005", "Volunteer member", "Create friendships and teach leadership development", "BestBuddies", "Toronto, ON"
+"2001-2005", "Volunteer member", "BestBuddies", "Create friendships and teach leadership development", "Toronto, ON"
 
 ) %>%
   
-  detailed_entries(year, name, description, role, location)
+  detailed_entries(name, location, description,year, role)
 
 ```
