@@ -27,6 +27,7 @@ library(tidyverse)
 •	Service-oriented team player dedicated to delivering quality services and gaining the trust of clients and stakeholders
 
 
+
 # Education
 ```{r edu}
 tribble(
@@ -244,4 +245,9 @@ tribble(
   
   detailed_entries(name, location, description,year, role)
 
+```
+
+# Publications
+```{r publications}
+bibliography_entries("noushin.bib", "Publications")
 ```
