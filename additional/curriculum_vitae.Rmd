@@ -1,4 +1,9 @@
 ---
+title: Noushin Nabavi, PhD
+author: 
+- Webpage-noushinn.github.io
+- Email-nabavinoushin@gmail.com
+date: "`r format(Sys.time(), '%B %Y')`"
 output:
   pdf_document: default
   html_document: default
