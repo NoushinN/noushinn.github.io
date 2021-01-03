@@ -1,12 +1,11 @@
 ---
+date: "`r format(Sys.time(), '%B %Y')`"
 title: Noushin Nabavi, PhD
 author: 
 - Webpage-noushinn.github.io
 - Email-nabavinoushin@gmail.com
-date: "`r format(Sys.time(), '%B %Y')`"
 output:
   pdf_document: default
-  html_document: default
 ---
 
 ## Education
@@ -42,23 +41,54 @@ Dates: 2006 – 2012
 - Analyze experimental data and integrate results to generate presentations and publications;   
 - Contribute to securing a $427K NIH grant  
 
-5: Siebel Stem Cell Fellow, University of California, Berkeley, Berkeley, CA, USA, January 2012 - July 2013
-- Implement a reproducible scientific workflow for a project related to aging: designed and carried out experiments with animal models for aging, analyzed results;   
+5: Siebel Stem Cell Fellow, University of California, Berkeley, Berkeley, CA, USA, January 2012 - July 2013  
+- Implement a reproducible scientific workflow for a project related to aging: designed and carried out experiments with animal models for aging, analyzed results;    
 - Manage a research project with graduate students and undergraduate students towards publication in a peer-review journal  
 
-6: Teaching Assistant and Research Co-Supervisor, University of Toronto, Toronto, ON, Canada,September 2005 - December 2011  
+6: Teaching Assistant and Research Co-Supervisor, University of Toronto, Toronto, ON, Canada, September 2005 - December 2011  
 - Rank the top 10% among departmental teaching assistants for 500+ hours of instruction in introductory biology laboratory, cellular molecular biology, and microbiology;   
 - Create and delivere departmental lectures to 500+ students with satisfactory responses from students;  
 - Co-supervise 10 undergraduate thesis students on successful thesis projects maintaining 100% retention rate (8 students secured successful science jobs, 2 pursued graduate studie)
 
-7: Quality Assurance Intern, Pharma Medica, Toronto, ON, Canada,June 2004 - August 2004  
+7: Quality Assurance Intern, Pharma Medica, Toronto, ON, Canada, June 2004 - August 2004  
 - Trained in the Quality Assurance (QA) and Quality Control (QC) division of Pharma Medica, a full-service contract research organization specializing in bioequivalence trials in healthy volunteers;   
 - Ensured the chronological collection and collation of various types of data from wet-lab human specimens to documentation;   
 - Sorting, aggregation, and curation of data complying with company’s QA and QC standards
 
-8: Experimental Research Intern, Sanofi Pasteur, Toronto, ON, Canada,May 2003 - January 2004  
+8: Experimental Research Intern, Sanofi Pasteur, Toronto, ON, Canada, May 2003 - January 2004  
 - Designed and carried out experiments for HIV Vaccine development;   
-- Viral transduction and purification of HIV AIDS using the chicken embryo model systems, performing high throughout ultra-purification of protein conjugates, and titration of proteins to industry-level standards (ELISA assays)  
+- Purified and titrated viral HIV AIDS proteins using the chicken embryo model systems
+- Performed high throughout ultra-purification of protein conjugates at industry-level standards (ELISA assays)  
+
+## Awards and recognitions
+
+1: Canadian Mitacs Science Policy Fellowship  UVic/BC Ministry of Health, Victoria, BC,  2019-2020   
+2: Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project   BC Ministry of Citizens' Services, Victoria, BC,  2019   
+3: Third place for designing prosthetic hand tools at Health and Regenerative Medicine Hackathon (donation of award to Victoria Hand Project)  University of Victoria, Victoria, BC,  2019  
+4: People’s choice leadership award for Victoria Code.Hack health hackathon at Island Health  Vancouver Island Hospital, Victoria, BC,     2019   
+5: Canadian Mitacs Science Policy Fellowship  UVic/BC Ministry of Citizens' Services, Victoria, BC  2018-2019    
+6: Travel award to participate and lead an analytics team at hackseq hackathon  University of British Columbia, Vancouver, BC,  2018-2019   
+7: Travel award to participate at UBC’s career panel discussing role of postdocs in industry  University of British Columbia, Vancouver, BC,  2018   
+8: Health and Regenerative Medicine Hackathon in kind value in mentorship award  University of Victoria, Victoria, BC,  2018    
+9: Honorable mention for Brief Policy Pitch for Indigenous reconciliation  Institute of Public Administration, Victoria, BC,  2018   
+10:  Certificate of distinction for completing Summer Institute for Evidence-Based STEM Teaching from The CIRTL Network  on-line,   2018     
+11: Entrepreneurship@UBC venture building phase 1  University of British Columbia, Vancouver, BC,  March-May 2018  
+12: Mitacs Accelerate Postdoctoral Fellowship Award  University of British Columbia, Vancouver, BC,  2015-2018     
+13: Mini-MBA award, Partnership with Graduate Management Consulting Association  University of British Columbia, Vancouver, BC,  2018   
+14: Rare Genomics Institute’s BeHEARD Technology Prize in partnership with Addgene  University of British Columbia, Vancouver, BC,  2017-2018   
+15: Travel award to attend the American Association of Cancer Research conference  Washington DC, USA,  2017      
+16:  Amazon Web Services Cloud Research Grant  University of British Columbia, Vancouver, BC,  2016-2017    
+17:  Science Teaching Fellowship for the American Society for Microbiology   on-line,    2014-2015     
+18:  Siebel Stem Cell Postdoctoral Fellowship, University of California Berkeley  California, USA,  2012-2013   
+19:  Graduate Student Research Award  University of Toronto, July 2010   
+20:  Travel Award from 15th Canadian Connective Tissue Conference  Calgary, AB,  July 2009    
+21:  Natural Sciences and Engineering Research Council (NSERC)-CGS  University of Toronto, Toronto, ON,  May 2009-2012    
+22:  Ontario Textbook and Technology Grant  University of Toronto, Toronto, ON, December 2008   
+23:  General Motors Women in Science and Mathematics Award  University of Toronto, Toronto, ON,  April 2008  
+24:  Travel Award from 14th Canadian Connective Tissue Conference  McGill University, Montreal, QC,  June 5-7, 2008  
+25:  Travel Award from the American Society for Cell Biology, 47th annual meeting  San Diego, CA, USA,  December 2007  
+26:  Queen Elizabeth II Aiming for the Top Tuition Scholarship  University of Toronto, Toronto, ON, September 2001   
+
 
 ## Peer-reviewed journal publications
 
@@ -312,17 +342,6 @@ Science Outreach & Mentorship
 
 24: 2001-2005: Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON
 
-## Community volunteer activities
-
-- 2019: Victoria Jazz Festival, Victoria, BC  
-- 2018: Vancouver Opera Festival volunteer, Vancouver, BC  
-- 2015-2018: Vancouver International Film Festival (VIFF), Vancouver, BC  
-- 2015-2018: International Performing arts Festival (Push), Vancouver, BC  
-- 2015-2018: Vancouver Jazz Festival, Vancouver, BC  
-- 2015-2018: Fringe Theatre Festival, Vancouver, BC  
-- 2016-2017: Vancouver Writer’s Festival, Vancouver, BC  
-- 2015-2019: Caravan World Rhythms, Vancouver/Victoria, BC  
-
 
 ## Evidence-based Teaching and Learning
 
@@ -439,31 +458,14 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 
 22: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, U.S.A. Dec. 9-13, 2006)
 
-## Awards and recognitions
 
-1: Canadian Mitacs Science Policy Fellowship  UVic/BC Ministry of Health, Victoria, BC,  2019-2020   
-2: Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project   BC Ministry of Citizens' Services, Victoria, BC,  2019   
-3: Third place for designing prosthetic hand tools at Health and Regenerative Medicine Hackathon (donation of award to Victoria Hand Project)  University of Victoria, Victoria, BC,  2019  
-4: People’s choice leadership award for Victoria Code.Hack health hackathon at Island Health  Vancouver Island Hospital, Victoria, BC,     2019   
-5: Canadian Mitacs Science Policy Fellowship  UVic/BC Ministry of Citizens' Services, Victoria, BC  2018-2019    
-6: Travel award to participate and lead an analytics team at hackseq hackathon  University of British Columbia, Vancouver, BC,  2018-2019   
-7: Travel award to participate at UBC’s career panel discussing role of postdocs in industry  University of British Columbia, Vancouver, BC,  2018   
-8: Health and Regenerative Medicine Hackathon in kind value in mentorship award  University of Victoria, Victoria, BC,  2018    
-9: Honorable mention for Brief Policy Pitch for Indigenous reconciliation  Institute of Public Administration, Victoria, BC,  2018   
-10:  Certificate of distinction for completing Summer Institute for Evidence-Based STEM Teaching from The CIRTL Network  on-line,   2018     
-11: Entrepreneurship@UBC venture building phase 1  University of British Columbia, Vancouver, BC,  March-May 2018  
-12: Mitacs Accelerate Postdoctoral Fellowship Award  University of British Columbia, Vancouver, BC,  2015-2018     
-13: Mini-MBA award, Partnership with Graduate Management Consulting Association  University of British Columbia, Vancouver, BC,  2018   
-14: Rare Genomics Institute’s BeHEARD Technology Prize in partnership with Addgene  University of British Columbia, Vancouver, BC,  2017-2018   
-15: Travel award to attend the American Association of Cancer Research conference  Washington DC, USA,  2017      
-16:  Amazon Web Services Cloud Research Grant  University of British Columbia, Vancouver, BC,  2016-2017    
-17:  Science Teaching Fellowship for the American Society for Microbiology   on-line,    2014-2015     
-18:  Siebel Stem Cell Postdoctoral Fellowship, University of California Berkeley  California, USA,  2012-2013   
-19:  Graduate Student Research Award  University of Toronto, July 2010   
-20:  Travel Award from 15th Canadian Connective Tissue Conference  Calgary, AB,  July 2009    
-21:  Natural Sciences and Engineering Research Council (NSERC)-CGS  University of Toronto, Toronto, ON,  May 2009-2012    
-22:  Ontario Textbook and Technology Grant  University of Toronto, Toronto, ON, December 2008   
-23:  General Motors Women in Science and Mathematics Award  University of Toronto, Toronto, ON,  April 2008  
-24:  Travel Award from 14th Canadian Connective Tissue Conference  McGill University, Montreal, QC,  June 5-7, 2008  
-25:  Travel Award from the American Society for Cell Biology, 47th annual meeting  San Diego, CA, USA,  December 2007  
-26:  Queen Elizabeth II Aiming for the Top Tuition Scholarship  University of Toronto, Toronto, ON, September 2001   
+## Community volunteer activities
+
+- 2019: Victoria Jazz Festival, Victoria, BC
+- 2018: Vancouver Opera Festival volunteer, Vancouver, BC
+- 2015-2018: Vancouver International Film Festival (VIFF), Vancouver, BC
+- 2015-2018: International Performing arts Festival (Push), Vancouver, BC 
+- 2015-2018: Vancouver Jazz Festival, Vancouver, BC
+- 2015-2018: Fringe Theatre Festival, Vancouver, BC
+- 2016-2017: Vancouver Writer’s Festival, Vancouver, BC
+- 2015-2019: Caravan World Rhythms, Vancouver/Victoria, BC
