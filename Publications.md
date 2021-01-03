@@ -10,8 +10,7 @@ permalink: /Publications/
 Haddadi A, Entezari M, Hushmandi K, Makvandi P, Samarghandian S, Zarrabi A,
 Ashrafizadeh M, Khan H. Pre-clinical investigation of STAT3 pathway in bladder
 cancer: Paving the way for clinical translation. Biomed Pharmacother. 2021
-Jan;133:111077. doi: 10.1016/j.biopha.2020.111077. Epub 2020 Dec 4. PMID:
-33378975.  
+Jan;133:111077. doi: 10.1016/j.biopha.2020.111077. Epub 2020 Dec 4. PMID:33378975.   
 2: Ashrafizadeh M, Hushmandi K, Rahmani Moghadam E, Zarrin V, Hosseinzadeh
 Kashani S, Bokaie S, Najafi M, Tavakol S, Mohammadinejad R, **Nabavi N**, Hsieh CL,
 Zarepour A, Zare EN, Zarrabi A, Makvandi P. Progress in Delivery of siRNA-Based
