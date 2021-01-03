@@ -1,15 +1,8 @@
 ---
-layout: cv
-title: curriculum vitae
+output:
+  pdf_document: default
+  html_document: default
 ---
-# Noushin Nabavi, PhD
-Cell biologist, data scientist, economist.
-
-<div id=webaddress>
-<a href=nabavi.noushin@gmail.com>nabavi.noushin@gmail.com</a>
- <a href=https://noushinn.github.io/>My professional webpage</a>
-</div>
-
 
 ## Education
 Degree: Bachelor of Applied Science (B.Sc.)
@@ -195,7 +188,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 5: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question, Journal of Postdoctoral Research, January, 2014.
 
-6: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling, Journal of Postdoctoral Research, November, 2014.
+6: **Nabavi, Noushin**; YAP/TAZ Join the Play with B-catenin to Orchestrate Wnt Signaling, Journal of Postdoctoral Research, November, 2014.
 
 7: **Nabavi, Noushin**; Can aging be reversed? Journal of Postdoctoral Research, 2014.
 

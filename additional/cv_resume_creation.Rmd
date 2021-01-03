@@ -124,7 +124,9 @@ tribble(
 ```
 
 # Invited presentations
+
 ```{r}
+
 tribble(
   ~name, ~event, ~location, ~year,
 
@@ -186,59 +188,60 @@ tribble(
 
 
 # Academic services
-##  Volunteer experiences
 ```{r}
 tribble(
-   ~year, ~name, ~description, ~role, ~location,
+   ~ year, ~ name, ~ description, ~ role, ~ location,
   
 "2020-2021", "Expert assessment of applications submitted", "Advisor on scientific methodology and merit", "Treasury Board of Canada Secretariat, Government of Canada", "on-line", 
 
 "2020", "Vice Chair of Survey and Data", " Canadian Association of Postdoctoral Scholars (CAPS)", "Develop analytics, methodologies, and partnerships", "on-line", 
 
-"2020", "Fellowship adjudication committee at Mitacs Inc.", "Evaluate Canadian Science Policy Fellowship applications", "on-line", 
+"2020", "Adjudicator", "Fellowship adjudication committee at Mitacs Inc.", "Evaluate Canadian Science Policy Fellowship applications", "on-line", 
 
 "2019-2020", "Evaluation and program committee member", "Canadian Science Policy Centre (CSPC)", "Analyze and report conference survey data", "on-line",
 
 "2019", "Vice Chair of Career Development", "Canadian Association of Postdoctoral Scholars (CAPS)", "Develop career development strategies for Canadian postdocs, and organization of annual general meeting", "Dalhousie University, Halifax, NS",
 
-"2019", "Participant and session facilitator", "Chief Information Officer’s", "BC Connect conference", "Victoria, BC",
+"2019", "Participant and session facilitator", "Chief Information Officer BC Connect Conference", "Organize & facilitate conference", "Victoria, BC",
 
-"2019", "Facilitator", "Policy Community of Practice, Making it Real; putting policy into practice conference", "Marriott Hotel Inner Harbour, Victoria, BC",
+"2019", "Facilitator", "Policy Community of Practice, Making it Real; putting policy into practice conference",  "Organize & facilitate the conference", "Marriott Hotel Inner Harbour, Victoria, BC",
 
-"2018-2020", "Institute of Public Administration, New Professionals (IPAC-NP)", "Data and privacy analyst", "Victoria, BC",
+"2018-2020", "Data and privacy analyst", "Institute of Public Administration, New Professionals (IPAC-NP)", "Develop analytics and reports for organization", "Victoria, BC",
 
-"2018-2019", "Hackseq hackathon", "Organizing committee and team lead", "Manage social media posts and lead teams", "University of British Columbia, Vancouver, BC",
+"2018-2019", "Organizing committee and team lead", "Hackseq hackathon",  "Manage social media posts and lead teams", "University of British Columbia, Vancouver, BC",
 
-"2018", "Career panel participation", "Exploring role of postdocs in academia and industry", "Science Outreach & Mentorship", "University of British Columbia, Vancouver, BC"
+"2018", "Career panel participant", "Science Outreach & Mentorship", "Explore role of postdocs in academia and industry", "University of British Columbia, Vancouver, BC",
 
 "2020", "Lead data scientist", "Covid-19 hackathon at Devpost", "Build for covid, and Biohackathon", "on-line",
 
-"2015-2020", "Canada Learning Code", "Participant", "Vancouver/Victoria, BC",
+"2015-2020", "Participant", "Canada Learning Code", "Support implementing programming lessons",  "Vancouver/Victoria, BC",
 
-"2018", "Victoria Health Hackathon", "Mentor", "Victoria, BC",
+"2018", "Mentor", "Victoria Health Hackathon", "Design and lead hackathon project",  "Victoria, BC",
 
-"2016", "3-Minute Thesis presentation", "Contestant", "University of British Columbia, Vancouver, BC",
+"2016", "Contestant", "3-Minute Thesis presentation", "Present research project", "University of British Columbia, Vancouver, BC",
 
-"2014", "Phillip and Sala Burton Academic High School", "Science Mentor", "San Francisco, CA",
+"2014", "Science Mentor", "Phillip and Sala Burton Academic High School", "Develop project design and mentor",  "San Francisco, CA",
 
-"2013-2014", "City College of San Francisco’ Biotechnology Program", "Instructor and Curriculum Development", "San Francisco, CA",
+"2013-2014", "Instructor and Curriculum Development", "City College of San Francisco’ Biotechnology Program", "Develop course curriculum and teach", "San Francisco, CA",
 
-"2013-2014", "Cybelle Biosciences", "Co-founder & consultant", "San Francisco, CA",
+"2013-2014", "Co-founder & consultant", "Cybelle Biosciences", "Consult business strategies", "San Francisco, CA",
 
-"2013", "Onestart America Lean Launchpad", "Competitor", "San Francisco, CA",
+"2013", "Competitor", "Onestart America Lean Launchpad", "Consult business strategies", "San Francisco, CA",
 
-"2012", "UCSF Mission Bay consulting club", "Participant", "San Francisco, CA",
+"2012", "Participant",  "UCSF Mission Bay consulting club", "Develop consultation scenarios", "San Francisco, CA",
 
-"2007", "Graduate Student Association Co-President", "University of Toronto (GSAS)", "Toronto, ON",
+"2007", "Graduate Student Association Co-President", "University of Toronto (GSAS)", "Organize and lead chapter activities at the University of Toronto Scarborough", "Toronto, ON",
 
-"2006-2011", "Let’s Talk Science (LTS)", "Volunteer member", "Toronto, ON",
+"2006-2011", "Volunteer member",  "Let’s Talk Science (LTS)", "Design, setup, and perform experiments with students", "Toronto, ON",
 
-"2006-2009", "Landmark Education", "Coach & mentor", "Toronto, ON",
+"2006-2009", "Coach & mentor",  "Landmark Education", "Coached 5 participants in the course", "Toronto, ON",
 
-"2003-2005", "Co-founder", "The Debating Club at University of Toronto Scarborough", "Toronto, ON",
+"2003-2005", "Co-founder", "The Debating Club at University of Toronto Scarborough", "Co-found the club and organize events", "Toronto, ON",
 
-"2001-2005", "Created friendships and taught leadership development", "Volunteer member", "BestBuddies", "Toronto, ON"
+"2001-2005", "Volunteer member", "Create friendships and teach leadership development", "BestBuddies", "Toronto, ON"
 
 ) %>%
   
-  detailed_entries(year, name, description, role, location,)
+  detailed_entries(year, name, description, role, location)
+
+```
