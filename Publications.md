@@ -165,29 +165,29 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 5: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.
 
-6: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.
+6: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
 
 ## Blog posts
 
-1: **Noushin Nabavi**, To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020
-2: **Noushin Nabavi**, Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.
+1: **Noushin Nabavi**, To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
+2: **Noushin Nabavi**, Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.   
 3: **Noushin Nabavi**. From messy to tidy: the case for a data science workflow
-[Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.
-4: **Noushin Nabavi**, Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.
+[Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.  
+4: **Noushin Nabavi**, Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.   
 5: **Noushin Nabavi**, Technical Considerations for Longitudinal Data Analyses
-[Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), Oct 24, 2018.
+[Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), Oct 24, 2018.   
 6: **Noushin Nabavi**, Menu for preparing data & serving it cold
-[Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.
-7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.
+[Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.   
+7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
 8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
-[Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.
+[Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.     
 
 ## Media coverage of research
 
-1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.
-2: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.
-3: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.
-4: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.
+1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
+2: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
+3: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
+4: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 
 ## Software projects
