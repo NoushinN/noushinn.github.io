@@ -249,5 +249,7 @@ tribble(
 
 # Publications
 ```{r publications}
-bibliography_entries("noushin.bib", "Publications")
+knitr::write_bib(c("forecast", "vitae", "ggquiver", "naniar", "taipan"), "packages.bib")
+bibliography_entries("noushin.bib", "Publications") %>%
+  arrange(desc(issued)) 
 ```
