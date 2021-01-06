@@ -152,7 +152,9 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 2: **Nabavi, Noushin**; Roberts, Morgan E; Crea, Francesco; Collins, Colin C; Wang, Yuzhuo; Bishop, Jennifer L; Immuno-oncology of Dormant Tumours,Tumor Dormancy and Recurrence,51-60,2017.  
 
-3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence,1,Pages 17-29,2017.  
+3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence,1,Pages 17-29,2017.
+
+4: **Noushin Nabavi**, Red, Black, and White paintings, a collection. [Amazon](https://www.amazon.com/Black-White-Paintings-Noushin-Nabavi/dp/1320121594), 2014.  
 
 ## Science policy research, opinions, and perspectives
 
@@ -181,7 +183,8 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.   
 7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
 8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
-[Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.     
+[Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.  
+9: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
 
 ## Media coverage of research
 
@@ -193,6 +196,6 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 ## Software projects
 
-1: [CO-SOL](https://buildforcovid19.io/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
+1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
 
 
