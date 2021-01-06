@@ -195,7 +195,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 3: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
 4: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
 5: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
-7: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
+6: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 
 ## Software projects
