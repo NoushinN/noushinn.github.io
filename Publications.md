@@ -184,7 +184,8 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
 8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.  
-9: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
+9: **Noushin Nabavi**, Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
+10: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
 
 ## Media coverage of research
 
