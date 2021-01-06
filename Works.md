@@ -202,7 +202,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
 
-2: Tidying Statistics Canada's tax/census data, [BC Ministry of Citizens' Services](https://github.com/bcgov/statscan-taxdata-tidying) and developing economic indeces using the tax data, [BC Ministry of Citizens' Services](https://github.com/bcgov/bc-econ-status-indices]     
+2: Tidying Statistics Canada's tax/census data, [BC Ministry of Citizens' Services](https://github.com/bcgov/statscan-taxdata-tidying) and developing economic indeces using the tax data, [BC Ministry of Citizens' Services](https://github.com/bcgov/bc-econ-status-indices)     
 
 3: Analysis of open COVID data for BC as released by Johns Hopkins University Center for Systems Science and Engineering [JHU CSSE](https://github.com/NoushinN/covid_19_analysis)   
 
