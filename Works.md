@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /Publications/
+title: Works
+permalink: /Works/
 ---
 
 [_Most of the publications below are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one_]
@@ -187,13 +187,14 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 9: **Noushin Nabavi**, Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
 10: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
 
-## Media coverage of research
+## Media coverage of research-related work 
 
-1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.   
-2: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
-3: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
-4: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
-5: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
+1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
+2: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
+3: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
+4: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
+5: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
+7: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 
 ## Software projects
