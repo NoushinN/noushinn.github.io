@@ -172,20 +172,21 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 ## Blog posts
 
-1: **Noushin Nabavi**, To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
-2: **Noushin Nabavi**, Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.   
-3: **Noushin Nabavi**. From messy to tidy: the case for a data science workflow
+1: **Noushin Nabavi**, Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.   
+2: **Noushin Nabavi**, To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
+3: **Noushin Nabavi**, Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.   
+4: **Noushin Nabavi**. From messy to tidy: the case for a data science workflow
 [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.  
-4: **Noushin Nabavi**, Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.   
-5: **Noushin Nabavi**, Technical Considerations for Longitudinal Data Analyses
+5: **Noushin Nabavi**, Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.   
+6: **Noushin Nabavi**, Technical Considerations for Longitudinal Data Analyses
 [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), Oct 24, 2018.   
-6: **Noushin Nabavi**, Menu for preparing data & serving it cold
+7: **Noushin Nabavi**, Menu for preparing data & serving it cold
 [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.   
-7: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
-8: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
+8: **Noushin Nabavi**, Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
+9: **Noushin Nabavi**, Data Renaissance: Creating Data-driven Cultures
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.  
-9: **Noushin Nabavi**, Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
-10: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
+10: **Noushin Nabavi**, Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
+11: **Noushin Nabavi**, The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
 
 ## Media coverage of research-related work 
 
@@ -200,5 +201,13 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 ## Software projects
 
 1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
+
+2: Tidying Statistics Canada's tax/census data, [BC Ministry of Citizens' Services](https://github.com/bcgov/statscan-taxdata-tidying) and developing economic indeces using the tax data, [BC Ministry of Citizens' Services](https://github.com/bcgov/bc-econ-status-indices]     
+
+3: Analysis of open COVID data for BC as released by Johns Hopkins University Center for Systems Science and Engineering [JHU CSSE](https://github.com/NoushinN/covid_19_analysis)   
+
+4: Anatomy of Morbidity as part of Hackseq Hackathon Project at [UBC](https://noushinn.github.io/Anatomy-of-Morbidity/)  
+
+
 
 
