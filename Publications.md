@@ -4,6 +4,8 @@ title: Publications
 permalink: /Publications/
 ---
 
+[_Most of the publications below are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one_]
+
 ## Peer-reviewed journal publications
 
 1: Mirzaei S, Gholami MH, Mahabady MK, **Nabavi N**, Zabolian A, Banihashemi SM,
