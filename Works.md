@@ -128,7 +128,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 ## Pre-prints, reviews, and abstracts
 
-1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. “Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction.” [BioHackrXiv](https://biohackrxiv.org/b4zkp/). May 14, 2020. doi:10.37044/osf.io/b4zkp.  
+1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction. [BioHackrXiv](https://biohackrxiv.org/b4zkp/). May 14, 2020. doi:10.37044/osf.io/b4zkp.  
 
 2: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229).
 
