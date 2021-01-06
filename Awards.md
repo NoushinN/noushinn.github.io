@@ -25,7 +25,7 @@ permalink: /Awards/
 |  Amazon Web Services Cloud Research [Grant](https://aws.amazon.com/research-credits/2016-recipients/) | University of British Columbia, Vancouver, BC | 2016-2017 |  
 |  Science Teaching Fellowship for the American Society for Microbiology |  on-line  |  2014-2015 |   
 |  Siebel Stem Cell Postdoctoral [Fellowship](https://reeis.usda.gov/web/crisprojectpages/0218571-molecular-mechanism-of-dietary-restrictions-protection-against-aging-and-diseases-of-aging.html), University of California Berkeley | California, USA | 2012-2013  |
-|  Graduate Student Research Award | University of Toronto |July 2010 |
+|  Graduate Student Research [Award](https://csmb-scbm.ca/uploads/Final2010-2011Bulletin.pdf) | University of Toronto |July 2010 |
 |  Travel Award from 15th Canadian Connective Tissue Conference | Calgary, AB | July 2009  |
 |  Natural Sciences and Engineering Research Council [(NSERC)-CGS](http://www.nserc-crsng.gc.ca/ATIP-AIPRP/Disclosure-Divulgation/2009/grants_report_avril_juin_en.xls) | University of Toronto, Toronto, ON | May 2009-2012|   
 |  Ontario Textbook and Technology Grant | University of Toronto, Toronto, ON |December 2008 |
