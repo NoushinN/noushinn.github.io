@@ -71,7 +71,7 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 **2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
 **2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC  
 
-## Invited Presentations
+## Invited Conference Presentations: selected from abstracts 
 
 1: Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, February 2021)   
 2: Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship (BC Quality Forum, February 2021)   
@@ -98,7 +98,7 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 22: Osteoblast differentiation in microgravity environments, 14th Canadian Connective Tissue Conference (CCTC) (Halifax, NS, June 5-7, 2007)  
 23: Lysosome dispersion in osteoblasts accommodates enhanced collagen production during differentiation, 13th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, May 24-26, 2006)  
 
-## Poster Presentations
+## Presentations: conference, selected from abstracts 
 
 1: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
 2: Evaluation of Depression, Anxiety, Stress and Headache Indices in Migraine Patients During Conventional Therapies Under Influence of Consciousness Fields [in lieu of S. Behbudi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
