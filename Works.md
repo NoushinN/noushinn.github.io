@@ -214,5 +214,5 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 4: Anatomy of Morbidity as part of Hackseq Hackathon Project at [UBC](https://noushinn.github.io/Anatomy-of-Morbidity/)  
 
 
-- Most of the publications above are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one
+[ Most of the publications above are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one ]
 
