@@ -24,7 +24,7 @@ permalink: /Professional Activities/
 **2020:** Lead data scientist for Covid-19 hackathon at Devpost, Build for covid, and Biohackathon  
 **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
 **2018:** Victoria Health Hackathon mentor, Victoria, BC  
-**2016:** 3-Minute Thesis presentation, UBC, Vancouver, BC  
+**2016:** 3-Minute Thesis presentation, [UBC](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC  
 **2014:** Phillip and Sala Burton Academic High School Science Mentor, San Francisco, CA  
 **2013-2014:** City College of San Francisco’s Biotechnology Program Curriculum Development, San Francisco, CA  
 **2013-2014:** Cybelle Biosciences co-founder & consultant, San Francisco, CA  
@@ -57,7 +57,7 @@ tiation research project
 **2008-2011:** Co-President and assistant secretary of Graduate Students’ Association at Scarborough  
 organizing meetings, facilitate and initiate holding of workshops and symposia on campus  
 **2007-2011:** An honorary volunteer member of Let’s Talk Science Partnership Program  
-**2002-2004:** Community outreach for Best Buddies Canada Organization  
+**2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization  
 
 
 ## Community Volunteer
@@ -69,7 +69,8 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 **2015-2018:** Vancouver Jazz Festival, Vancouver, BC  
 **2015-2018:** Fringe Theatre Festival, Vancouver, BC  
 **2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
-**2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC  
+**2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC   
+**2008**: [Tirgan](https://tirgan.ca/b/2008/organizer/Committees/marketingcommittees.html) Festival, Publishing Committee, Toronto, ON  
 
 ## Invited Conference Presentations: selected from abstracts 
 
