@@ -6,7 +6,9 @@ permalink: /Works/
 
 [_Most of the publications below are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one_]
 
-## Peer-reviewed journal publications
+## Thesis
+Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.   
+## Peer-reviewed research contributions
 
 1: Mirzaei S, Gholami MH, Mahabady MK, **Nabavi N**, Zabolian A, Banihashemi SM,
 Haddadi A, Entezari M, Hushmandi K, Makvandi P, Samarghandian S, Zarrabi A,
@@ -144,7 +146,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 8: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/738/cancer-associated-pten-structural-and-functional-characterization.htm), 2014.  
 
-## Book chapter publications
+## Book chapter contributions
 
 1: **Nabavi N**, Wei J, Lin D, Collins CC, Gout PW, Wang Y. Pre-clinical Models for
 Malignant Mesothelioma Research: From Chemical-Induced to Patient-Derived Cancer
@@ -187,16 +189,20 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.  
 10: Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
 11: The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.
+12: Photoblog, [elephile](https://elephile.tumblr.com/).  
 
 ## Media coverage of research-related work 
 
-1: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
-2: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
-3: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
-4: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
-5: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
-6: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
-
+1: Effects of Faradarmani Consciousness Field on Triticum Aestivum under Salinity Stress, [The Science of Consciousness meeting](https://www.youtube.com/watch?v=ukXhd4lZDGo), September 2020.  
+2: AI powered Healthcare Solutions Against COVID19, [Women in Big Date0](https://www.youtube.com/watch?v=QWkKINi8u4o), May 202.   
+3: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
+4: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
+5: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
+6: R-Ladies at Open Source Summit North America, IBM Developer [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.    
+7: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
+8: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
+9: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
+10: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 ## Software projects
 
