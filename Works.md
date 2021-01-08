@@ -159,7 +159,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 ## Science policy research, opinions, and perspectives
 
-1: Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.  
+1: **Noushin Nabavi**, Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.  
 
 2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.  
 
