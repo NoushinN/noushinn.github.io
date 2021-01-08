@@ -36,6 +36,30 @@ permalink: /Professional Activities/
 **2003-2005:** Co-founder of The Debating Club at University of Toronto Scarborough, Toronto, ON  
 **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
+## Learning and development activities
+**2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Vic-
+toria  
+**2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
+STEM education, and Implicit Bias in STEM education modules  
+**2018:** Software Carpentry and RLadies Instructor (online), Affiliation with Compute Canada
+**2015-2018:** Science Judge, Science Fair, University of British Columbia  
+**2017-2019:** Community Volunteer at Canada Learning Code and Ladies Learning Code  
+**2014:** Science Mentor for four students at Burton High school for preparing a poster on Arthritis for
+Fairposium project in San Francisco  
+**2014:** Science outreach facilitator for ten-day Bay Area Science Festival San Francisco  
+**2014:** Technical and scientific content writer/editor for Science Exchange San Francisco  
+**2014:** Curriculum development and hands-on laboratory teaching in City College of San Francisco’s
+Biotechnology Program, UCSF/USF Partnership for Teaching  
+**2013-2015:** Contributing writer and editor at Post Doctoral Journal; Postdocjournal.com  
+**2009-2010:** Science Fair judge for posters presented by high school students, University of Toronto  
+**2008-2011:** Co-supervised co-op students and undergraduate students on assisting with bone differen-
+tiation research project  
+**2008-2011:** Co-President and assistant secretary of Graduate Students’ Association at Scarborough  
+organizing meetings, facilitate and initiate holding of workshops and symposia on campus  
+**2007-2011:** An honorary volunteer member of Let’s Talk Science Partnership Program  
+**2002-2004:** Community outreach for Best Buddies Canada Organization  
+
+
 ## Community Volunteer
 
 **2019:** Victoria Jazz Festival, Victoria, BC  
