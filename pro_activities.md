@@ -57,20 +57,7 @@ tiation research project
 **2008-2011:** Co-President and assistant secretary of Graduate Students’ Association at Scarborough  
 organizing meetings, facilitate and initiate holding of workshops and symposia on campus  
 **2007-2011:** An honorary volunteer member of Let’s Talk Science Partnership Program  
-**2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization  
-
-
-## Community Volunteer
-
-**2019:** Victoria Jazz Festival, Victoria, BC  
-**2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
-**2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
-**2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
-**2015-2018:** Vancouver Jazz Festival, Vancouver, BC  
-**2015-2018:** Fringe Theatre Festival, Vancouver, BC  
-**2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
-**2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC   
-**2008**: [Tirgan](https://tirgan.ca/b/2008/organizer/Committees/marketingcommittees.html) Festival, Publishing Committee, Toronto, ON  
+**2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization   
 
 ## Invited Conference Presentations: selected from abstracts 
 
@@ -121,3 +108,15 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C., U.S.A., Dec. 1-5, 2007)  
 19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, Canada, October 11-13, 2007)  
 20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, U.S.A. Dec. 9-13, 2006)  
+
+## Community-level Volunteering
+
+**2019:** Victoria Jazz Festival, Victoria, BC  
+**2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
+**2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
+**2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
+**2015-2018:** Vancouver Jazz Festival, Vancouver, BC  
+**2015-2018:** Fringe Theatre Festival, Vancouver, BC  
+**2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
+**2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC   
+**2008**: [Tirgan](https://tirgan.ca/b/2008/organizer/Committees/marketingcommittees.html) Festival, Publishing Committee, Toronto, ON  
