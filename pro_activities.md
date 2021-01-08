@@ -49,8 +49,11 @@ permalink: /Professional Activities/
 
 ## Invited Presentations
 
-- Adapting to a New Normal:** The Effect of Covid-19 on the Next Generation of Scientists (Canadian Science Policy Conference, Virtual, November 16-20, 2020)  
-- Pandemics and postdocs:** COVID survey findings (Postdoc Appreciation Week, Virtual, September 17, 2020)  
+- Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, February 2021)   
+- Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship (BC Quality Forum, February 2021)   
+- Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future (BC Ministry of Health, Knowledge Exchange, Online, November 15, 2020)  
+- Adapting to a New Normal: The Effect of Covid-19 on the Next Generation of Scientists (Canadian Science Policy Conference, Virtual, November 16-20, 2020)  
+- Pandemics and postdocs: COVID survey findings (Postdoc Appreciation Week, Virtual, September 17, 2020)  
 CAPS survey findings related to COVID-19 (National meeting on postdoc affairs organized by the University of Western Ontario, Virtual, July 31, 2020)  
 - Reproducible analytic workflows in the public service (Data and Analytics Conference, Vancouver, BC, February 15, 2020)  
 - Health systems administrative data integration to support data-driven decision making (Ministry of Health’s Knowledge Exchange Talk Series, Government of BC, Victoria, BC, January 22, 2020)  
@@ -58,7 +61,7 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 - Delivering bundles of care through deciphering government programs and services (Academic Health Science Network, Victoria, BC, January 20, 2020)  
 - Open source data and data science to enable integrated data projects (Island Health, Victoria, BC, September 2019)  
 - Implementing reproducible analytic workflows in the public service (University of Victoria, Victoria, BC, August 2019)  
-- From messy to tidy:** reproducible analytic workflows for data analysis (BCDev Exchange, Victoria, BC, May 2019)  
+- From messy to tidy: reproducible analytic workflows for data analysis (BCDev Exchange, Victoria, BC, May 2019)  
 - Healing old wounds, Institute of Public Administration of Canada, Policy Pitch (Victoria Event Centre, Victoria, BC, October 2018)  
 - Expression and regulation of chondroitin sulfate in prostate cancer (American Association of Cancer Research, Chicago, IL, July 2018)  
 - BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Ottawa, ON, May 2018)  
@@ -80,13 +83,13 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 - Oncofetal glycosaminoglycan signature provides therapeutic potential for malignant mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference
 - From Basic Mechanisms to Novel Treatment - Options conference (Vancouver General Hospital, Vancouver, BC, June 2017)  
 - Comprehensive multi-omics characterization of the rare malignant peritoneal mesothelioma, 11th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2017)  
-- An oncofetal glycosaminoglycan modification provides therapeutic access to mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference:** From Basic Mechanisms to Novel Treatment Options conference (Cancun, Mexico, March 2017)  
+- An oncofetal glycosaminoglycan modification provides therapeutic access to mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment Options conference (Cancun, Mexico, March 2017)  
 - Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Birmingham, UK, May 2016)  
 - Molecular landscape of pleural mesothelioma poster presentation at 10th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2015-2016)  
 - Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA, USA, June 2013)  
 - Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA, U.S.A., Dec. 11-15, 2010)  
 - Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego, U.S.A., Dec. 5-11, 2009)  
-- In vitro Osteoclast Differentiation in Arthritis (IODA) project:** Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
+- In vitro Osteoclast Differentiation in Arthritis (IODA) project: Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
 - Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON, Canada, May 12-16, 2009)  
 - Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC, Canada, September 12, 16, 2008)  
 - Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC, Canada, July 13-20, 2008)  
