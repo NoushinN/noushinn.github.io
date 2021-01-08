@@ -1,7 +1,7 @@
 ---
-layout:** page
-title:** Professional Activities
-permalink:** /Professional Activities/
+layout: page
+title: Professional Activities
+permalink: /Professional Activities/
 ---
 
 ## Performance, Evaluation, and Improvement Committees
