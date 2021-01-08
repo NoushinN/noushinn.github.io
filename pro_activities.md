@@ -36,7 +36,7 @@ permalink: /Professional Activities/
 **2003-2005:** Co-founder of The Debating Club at University of Toronto Scarborough, Toronto, ON  
 **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
-## Learning and development activities
+## Teaching and learning development
 **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Vic-
 toria  
 **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
