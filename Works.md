@@ -129,21 +129,23 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 ## Pre-prints, reviews, and abstracts
 
-1: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction. [BioHackrXiv](https://biohackrxiv.org/b4zkp/). May 14, 2020. doi:10.37044/osf.io/b4zkp.  
+1: Mohammad Ali Taheri, Gholamreza Zarrini, Sara Torabi, **Noushin Nabavi**, Farid Semsarha, Influence of Fara-darmani Consciousness Field on Bacterial Population Growth, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.426007v1) 2021.01.08.426007; doi:10.1101/2021.01.08.426007.
 
-2: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229).
+2: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction. [BioHackrXiv](https://biohackrxiv.org/b4zkp/). May 14, 2020. doi:10.37044/osf.io/b4zkp.  
 
-3: Shrestha, Raunak; **Nabavi, Noushin**; Lin, Yen-Yi; Mo, Fan; Anderson, Shawn; Volik, Stanislav; Adomat, Hans H; Lin, Dong; Xue, Hui; Dong, Xin; Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2), 243477, 2018, Cold Spring Harbor Laboratory.  
+3: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229).
 
-4: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research, [PDJ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1049.9698&rep=rep1&type=pdf), February, 2015.   
+4: Shrestha, Raunak; **Nabavi, Noushin**; Lin, Yen-Yi; Mo, Fan; Anderson, Shawn; Volik, Stanislav; Adomat, Hans H; Lin, Dong; Xue, Hui; Dong, Xin; Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2), 243477, 2018, Cold Spring Harbor Laboratory.  
 
-5: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question, Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/Protein-turnover%3A-to-self-eat-or-not-to-self-eat%2C-Journal-Nabavi/044e23a34cca782079533fe5507f323110031932), January, 2014.  
+5: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research, [PDJ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1049.9698&rep=rep1&type=pdf), February, 2015.   
 
-6: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/758/yap-taz-join-the-play-with-%C3%9F-catenin-to-orchestrate-wnt-signaling.htm), November, 2014.  
+6: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question, Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/Protein-turnover%3A-to-self-eat-or-not-to-self-eat%2C-Journal-Nabavi/044e23a34cca782079533fe5507f323110031932), January, 2014.  
 
-7: **Nabavi, Noushin**; Can aging be reversed? Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/675/can-aging-be-reversed-.htm), 2014.  
+7: **Nabavi, Noushin**; YAP/TAZ Join the Play with β-catenin to Orchestrate Wnt Signaling, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/758/yap-taz-join-the-play-with-%C3%9F-catenin-to-orchestrate-wnt-signaling.htm), November, 2014.  
 
-8: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/738/cancer-associated-pten-structural-and-functional-characterization.htm), 2014.  
+8: **Nabavi, Noushin**; Can aging be reversed? Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/675/can-aging-be-reversed-.htm), 2014.  
+
+9: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/738/cancer-associated-pten-structural-and-functional-characterization.htm), 2014.  
 
 ## Book chapter contributions
 
