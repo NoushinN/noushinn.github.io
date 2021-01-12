@@ -6,13 +6,13 @@ permalink: /Professional Activities/
 
 ## Performance, Evaluation, and Improvement Committees
 
-**2021:** Advisor at Canadian Association of Postdoctoral Scholars (CAPS)  
+**2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))  
 **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)  
 **2020-2021:** Expert assessment of applications submitted to Treasury Board of Canada Secretariat, advisor on scientific methodology and merit, Government of Canada  
-**2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars (CAPS), developing analytics, methodologies, and partnerships  
+**2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing analytics, methodologies, and partnerships  
 **2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
 **2019-2020:** [Program committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf) member at Canadian Science Policy Centre (CSPC), helping with conference program development   
-**2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars (CAPS), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)   
+**2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)   
 **2019:** Participant and session facilitator at Chief Information Officer’s BC Connect conference, Victoria, BC  
 **2019:** Facilitator at Policy Community of Practice, Making it Real; putting policy into practice conference held at Marriott Hotel Inner Harbour, Victoria, BC  
 **2018-2019:** [Evaluation and Survey committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf) member at Canadian Science Policy Centre (CSPC), analyzing and reporting conference survey data   
