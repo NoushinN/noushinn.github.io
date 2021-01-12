@@ -195,7 +195,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 ## Media coverage of research-related work 
 
 1: Effects of Faradarmani Consciousness Field on Triticum Aestivum under Salinity Stress, [The Science of Consciousness meeting](https://www.youtube.com/watch?v=ukXhd4lZDGo), September 2020.  
-2: AI powered Healthcare Solutions Against COVID19, [Women in Big Date0](https://www.youtube.com/watch?v=QWkKINi8u4o), May 202.   
+2: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 202.   
 3: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
 4: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
 5: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
