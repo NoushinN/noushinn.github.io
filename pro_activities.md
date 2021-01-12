@@ -41,7 +41,7 @@ permalink: /Professional Activities/
 toria  
 **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
-**2018:** Software Carpentry and RLadies Instructor (online), Affiliation with Compute Canada
+**2018:** Software Carpentry and RLadies Instructor (online), Affiliation with Compute Canada  
 **2015-2018:** Science Judge, Science Fair, University of British Columbia  
 **2017-2019:** Community Volunteer at Canada Learning Code and Ladies Learning Code  
 **2014:** Science Mentor for four students at Burton High school for preparing a poster on Arthritis for
