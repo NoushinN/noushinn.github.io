@@ -24,7 +24,7 @@ permalink: /Professional Activities/
 
 **2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
 **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
-**2018:** Victoria Health Hackathon mentor, Victoria, BC  
+**2018:** Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) mentor, Victoria, BC  
 **2016:** 3-Minute Thesis presentation, [UBC](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC  
 **2014:** Phillip and Sala Burton Academic High School Science Mentor, San Francisco, CA  
 **2013-2014:** City College of San Francisco’s Biotechnology Program Curriculum Development, San Francisco, CA  
