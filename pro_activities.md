@@ -21,7 +21,7 @@ permalink: /Professional Activities/
 
 ## Science Outreach & Mentorship
 
-**2020:** Lead data scientist for Covid-19 hackathon at Devpost, Build for covid, and Biohackathon  
+**2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
 **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
 **2018:** Victoria Health Hackathon mentor, Victoria, BC  
 **2016:** 3-Minute Thesis presentation, [UBC](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC  
@@ -41,7 +41,6 @@ permalink: /Professional Activities/
 toria  
 **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
-**2018:** Software Carpentry and RLadies Instructor (online), Affiliation with Compute Canada  
 **2015-2018:** Science Judge, Science Fair, University of British Columbia  
 **2017-2019:** Community Volunteer at Canada Learning Code and Ladies Learning Code  
 **2014:** Science Mentor for four students at Burton High school for preparing a poster on Arthritis for
