@@ -11,10 +11,14 @@ permalink: /Professional Activities/
 **2020-2021:** Expert assessment of applications submitted to Treasury Board of Canada Secretariat, advisor on scientific methodology and merit, Government of Canada  
 **2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars (CAPS), developing analytics, methodologies, and partnerships  
 **2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
-**2019-2020:** Evaluation and program committee member at Canadian Science Policy Centre (CSPC), analyzing and reporting conference survey data  
-**2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars (CAPS), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)  
+**2019-2020:** [Program committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf) member at Canadian Science Policy Centre (CSPC), helping with conference program development   
+**2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars (CAPS), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)   
 **2019:** Participant and session facilitator at Chief Information Officer’s BC Connect conference, Victoria, BC  
 **2019:** Facilitator at Policy Community of Practice, Making it Real; putting policy into practice conference held at Marriott Hotel Inner Harbour, Victoria, BC  
+**2018-2019:** [Evaluation and Survey committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf) member at Canadian Science Policy Centre (CSPC), analyzing and reporting conference survey data  
+
+
+
 **2018-2020:** Data and privacy analyst at Institute of Public Administration, New Professionals (IPAC-NP), Victoria, BC  
 **2018-2019:** Hackseq hackathon organizing committee and team lead, managing social media posts and leading teams; University of British Columbia, Vancouver, BC  
 **2018:** UBC Career panel participation; exploring role of postdocs in academia and industry, Vancouver, BC  
