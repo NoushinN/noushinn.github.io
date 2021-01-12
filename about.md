@@ -14,4 +14,4 @@ From 2012 to 2015, I went to California to work on aging research projects using
 
 From 2015 to 2018, I worked on a rare cancer called malignant peritoneal mesothelioma as an Elevate Mitacs Fellow at the University of British Columbia and BC Cancer Research Centre. I assembled an international collaborative consortium with experts in the field of mesothelioma and published novel genetic variants of the disease that can help 50% of patients with a targeted drug. 
 
-Since 2018, I have transitioned to working on data-intensive science projects related to health and epidemiology in the public domain.  My diverse background in basic and applied science and statistics leads me to apply a multidisciplinary and creative approach to doing research. I deeply enjoy coding, solving complex problems, and exploring new ideas.
+Since 2018, I have transitioned to working on data-intensive science projects related to health and epidemiology in the public domain.  My diverse background in basic and applied science and statistics leads me to apply a multidisciplinary and creative approach to doing research. I deeply enjoy solving complex problems and exploring new ideas.
