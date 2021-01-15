@@ -38,8 +38,7 @@ permalink: /Professional Activities/
 **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
 ## Teaching and learning development
-**2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Vic-
-toria  
+**2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
 **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
 **2015-2018:** Science Judge, Science Fair, University of British Columbia  

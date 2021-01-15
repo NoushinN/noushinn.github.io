@@ -163,15 +163,17 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 1: **Noushin Nabavi**, Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.  
 
-2: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.  
+2: Canadian Association of Postdoctoral Scholars' Year in Review at Annual General Meeting, [CAPS-ACSP](https://www.caps-acsp.ca/wp-content/uploads/2020/09/CAPS-2020-AGM-Year-in-Review.pdf), December 2020.  
 
-3: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [Zenodo](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.  
+3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.  
 
-4: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020. 
+4: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [Zenodo](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.  
 
-5: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.  
+5: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020. 
 
-6: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
+6: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.  
+
+7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
 
 ## Blog posts
 
@@ -207,14 +209,16 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 ## Software projects
 
-1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)
+1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)  
 
-2: Tidying Statistics Canada's tax/census data, [BC Ministry of Citizens' Services](https://github.com/bcgov/statscan-taxdata-tidying) and developing economic indeces using the tax data, [BC Ministry of Citizens' Services](https://github.com/bcgov/bc-econ-status-indices)     
+2: Tidying Statistics Canada's tax/census data, [BC Ministry of Citizens' Services](https://github.com/bcgov/statscan-taxdata-tidying)   
 
-3: Analysis of open COVID data for BC as released by Johns Hopkins University Center for Systems Science and Engineering [JHU CSSE](https://github.com/NoushinN/covid_19_analysis)   
+3: Developing economic indices using national tax data, [BC Ministry of Citizens' Services](https://github.com/bcgov/bc-econ-status-indices)     
 
-4: Anatomy of Morbidity as part of Hackseq Hackathon Project at [UBC](https://noushinn.github.io/Anatomy-of-Morbidity/)  
+4: Analysis of open COVID data for BC as released by Johns Hopkins University Center for Systems Science and Engineering [JHU CSSE](https://github.com/NoushinN/covid_19_analysis)   
+
+5: Anatomy of Morbidity as part of Hackseq Hackathon Project at [UBC](https://noushinn.github.io/Anatomy-of-Morbidity/)  
 
 
-[ Most of the publications above are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me and I will send you one ]
+[Most of the publications above are in open source journals or are available at researchgate. Regardless, if you liked a copy, please write to me]
 
