@@ -20,7 +20,7 @@ library(tidyverse)
 
 # Career Highlights
 
-•	Skilled in teaching and learning workshop facilitation and moderation  
+•	Skilled in teaching and learning workshops through facilitation and moderation  
 •	Results-driven, forward-thinking accomplished Research Scientist   
 •	Demonstrated leadership and project management experience in private and public sectors  
 •	Skilled quantitative analyst proficient with SQL, R and Microsoft Office   
