@@ -4,7 +4,7 @@ position: "Economist, BC Ministry of Health"
 address: "1515 Blanshard Street, Victoria, BC"
 phone: +1 778-999-1982
 www: noushinn.github.io
-email: "nabavi.noushin@gmail.com"
+email: "nabavinoushin@gmail.com"
 twitter: nabavinoushin
 github: noushinn
 linkedin: noushin-nabavi-56b27b13
@@ -21,55 +21,54 @@ library(tidyverse)
 
 
 # Education
-Degree: **Bachelor of Applied Science (B.Sc.)**  
+Degree: **Bachelor of Applied Science (B.Sc.), Cum Laude distinction**  
 Field Of Study: Cellular and Molecular Biology  
-University of Toronto  
-Dates: 2001 – 2005  
-
+University of Toronto (2001 – 2005)      
+ 
 
 Degree: **Doctor of Philosophy (Ph.D.)**  
 Field Of Study: Cell and Systems Biology  
-University of Toronto    
+University of Toronto (2006 – 2012)        
 Thesis: Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.  
-Dates: 2006 – 2012
+
 
 # Professional Experiences
 
-1: **Economist** at Pharmaceutical Analytics Unit BC Ministry of Health  
-Victoria, BC, Canada, December 2020 - Present     
+1: **Economist** at Pharmaceutical Analytics Unit, Health System Information and Reporting  
+BC Ministry of Health, Victoria, BC, Canada, December 2020 - Present     
 * Develop product listing agreement rebates using SQL and R programming;  
 * Generate budget impact analysis for PharmaCare drug listings   
 
-2: **Canadian Mitacs Science Policy Fellow**, BC Ministry of Health  
-Victoria, BC, Canada, September 2019 - November 2020     
+2: **Canadian Mitacs Science Policy Fellow** at Research Branch, Partnership and Innovation Division  
+BC Ministry of Health, Victoria, BC, Canada, September 2019 - November 2020     
 * Link health administrative data to replicate and extend surgical quality outcome reporting;   
 * Enable program and policy evaluations through developing administrative data analytic workflows   
   
-3: **Canadian Mitacs Science Policy Fellow**, BC Ministry of Citizens' Services  
-Victoria, BC, Canada, September 2018 - September 2019     
+3: **Canadian Mitacs Science Policy Fellow** at Digital Platforms and Data Division   
+BC Ministry of Citizens' Services, Victoria, BC, Canada, September 2018 - September 2019      
  Analyze and communicate complex administrative integrated data for evidence based policy making;   
 * Build and strengthen effective stakeholder relationships with ministry clients and contractors;   
 * Manage a data science project while developing and implementing timely methodologies and performance metrics  
   
-4: **Senior Research Fellow**, University of British Columbia  
-Vancouver, BC, Canada, February 2015 - February 2018      
+4: **Senior Research Fellow** at Department of Experimental Medicine and Urologic Sciences  
+University of British Columbia, Vancouver, BC, Canada, February 2015 - February 2018      
 * Assemble and lead an international consortium of scientists for a genomics project, published 5 manuscripts and presented the results in 3 international conferences and 2 local symposia   
 * Analyze and integrate genomics, transcriptomics, and proteomics datasets using R and proprietary softwares    
 * Wrote and secured a $275K operating grant from BC Cancer Foundation for next generation sequencing tumor profiling of malignant peritoneal mesothelioma   
 
-5: **Postdoctoral Fellow**, University of California  
-San Francisco, San Francisco, CA, USA, August 2013 - December 2014   
+5: **Postdoctoral Fellow** at Department of Cellular and Molecular Pharmacology   
+University of California, San Francisco, San Francisco, CA, USA, August 2013 - December 2014   
 * Design research project and conduct experiments related to liver disease with an expert team of scientists;  
 * Analyze experimental data and integrate results to generate presentations and publications;   
 * Contribute to securing a $427K NIH grant  
 
-6: **Siebel Stem Cell Fellow**, University of California  
-Berkeley, Berkeley, CA, USA, January 2012 - July 2013   
+6: **Siebel Stem Cell Fellow** at Department of Nutritional Sciences & Toxicology   
+University of California, Berkeley, Berkeley, CA, USA, January 2012 - July 2013    
 * Implement a reproducible scientific workflow for a project related to aging: designed and carried out experiments with animal models for aging, analyzed results;    
 * Manage a research project with graduate students and undergraduate students towards publication in a peer-review journal  
 
-7: **Teaching Assistant and Research Co-Supervisor**, University of Toronto  
-Toronto, ON, Canada, September 2005 - December 2011   
+7: **Teaching Assistant and Research Co-Supervisor**, Cell and Systems Biology
+University of Toronto, Toronto, ON, Canada, September 2005 - December 2011   
 * Rank the top 10% among departmental teaching assistants for 500+ hours of instruction in introductory biology laboratory, cellular molecular biology, and microbiology;   
 * Create and delivere departmental lectures to 500+ students with satisfactory responses from students;  
 * Co-supervise 10 undergraduate thesis students on successful thesis projects maintaining 100% retention rate (8 students secured successful science jobs, 2 pursued graduate studie)
@@ -89,9 +88,9 @@ Toronto, ON, Canada, May 2003 - January 2004
 # Awards and recognitions
 
 1: Canadian Mitacs Science Policy Fellowship at  UVic/BC Ministry of Health, Victoria, BC,  2019-2020   
-2: Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project at  BC Ministry of Citizens' Services, Victoria, BC,  2019   
-3: Third place for designing prosthetic hand tools at Health and Regenerative Medicine Hackathon (donation of award to Victoria Hand Project) at University of Victoria, Victoria, BC,  2019  
-4: People’s choice leadership award for Victoria Code.Hack health hackathon at Island Health at Vancouver Island Hospital, Victoria, BC,     2019   
+2: Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project at BC Ministry of Citizens' Services, Victoria, BC, 2019   
+3: Third place for designing prosthetic hand tools at Health and Regenerative Medicine Hackathon (donation of award to Victoria Hand Project) at University of Victoria, Victoria, BC, 2019  
+4: People’s choice leadership award for Victoria Code.Hack health hackathon at Island Health at Vancouver Island Hospital, Victoria, BC,  2019   
 5: Canadian Mitacs Science Policy Fellowship at UVic/BC Ministry of Citizens' Services, Victoria, BC  2018-2019    
 6: Travel award to participate and lead an analytics team for hackseq hackathon at University of British Columbia, Vancouver, BC,  2018-2019   
 7: Travel award to participate at UBC’s career panel discussing role of postdocs in industry at University of British Columbia, Vancouver, BC,  2018   
