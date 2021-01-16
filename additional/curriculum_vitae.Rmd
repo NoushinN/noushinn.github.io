@@ -1,14 +1,26 @@
 ---
+name: Noushin Nabavi, PhD
+position: "Economist, BC Ministry of Health"
+address: "1515 Blanshard Street, Victoria, BC"
+phone: +1 778-999-1982
+www: noushinn.github.io
+email: "nabavi.noushin@gmail.com"
+twitter: nabavinoushin
+github: noushinn
+linkedin: noushin-nabavi-56b27b13
 date: "`r format(Sys.time(), '%B %Y')`"
-title: Noushin Nabavi, PhD
-author: 
-- Webpage-noushinn.github.io
-- Email-nabavinoushin@gmail.com
-output:
-  pdf_document: default
+output: vitae::awesomecv
 ---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+```
 
-## Education
+
+
+# Education
 Degree: **Bachelor of Applied Science (B.Sc.)**  
 Field Of Study: Cellular and Molecular Biology  
 University of Toronto  
@@ -21,7 +33,7 @@ University of Toronto
 Thesis: Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.  
 Dates: 2006 – 2012
 
-## Professional Experiences
+# Professional Experiences
 
 1: **Economist** at Pharmaceutical Analytics Unit BC Ministry of Health  
 Victoria, BC, Canada, December 2020 - Present     
@@ -74,7 +86,7 @@ Toronto, ON, Canada, May 2003 - January 2004
 * Purified and titrated viral HIV AIDS proteins using the chicken embryo model systems  
 * Performed high throughout ultra-purification of protein conjugates at industry-level standards (ELISA assays)  
 
-## Awards and recognitions
+# Awards and recognitions
 
 1: Canadian Mitacs Science Policy Fellowship at  UVic/BC Ministry of Health, Victoria, BC,  2019-2020   
 2: Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project at  BC Ministry of Citizens' Services, Victoria, BC,  2019   
@@ -104,7 +116,7 @@ Toronto, ON, Canada, May 2003 - January 2004
 26:  Queen Elizabeth II Aiming for the Top Tuition Scholarship at University of Toronto, Toronto, ON, September 2001   
 
 
-## Peer-reviewed research contributions  
+# Peer-reviewed research contributions  
 
 1: Mirzaei S, Gholami MH, Mahabady MK, **Nabavi N**, Zabolian A, Banihashemi SM,
 Haddadi A, Entezari M, Hushmandi K, Makvandi P, Samarghandian S, Zarrabi A,
@@ -224,7 +236,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 2008 May 7. PMID: [18463099](https://pubmed.ncbi.nlm.nih.gov/18463099/).
 
 
-## Pre-prints, reviews, and abstracts
+# Pre-prints, reviews, and abstracts
 
 1: Mohammad Ali Taheri, Gholamreza Zarrini, Sara Torabi, **Noushin Nabavi**, Farid Semsarha, Influence of Fara-darmani Consciousness Field on Bacterial Population Growth, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.426007v1) 2021.01.08.426007; doi:10.1101/2021.01.08.426007.
 
@@ -244,7 +256,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 9: **Nabavi, Noushin**; Cancer-associated PTEN: Structural and Functional Characterization, Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/738/cancer-associated-pten-structural-and-functional-characterization.htm), 2014. 
 
-## Book chapter publications
+# Book chapter publications
 
 1: **Nabavi N**, Wei J, Lin D, Collins CC, Gout PW, Wang Y. Pre-clinical Models for
 Malignant Mesothelioma Research: From Chemical-Induced to Patient-Derived Cancer
@@ -254,7 +266,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence,1,Pages 17-29,2017
 
-## Science policy research, opinions, and perspectives
+# Science policy research, opinions, and perspectives
 
 1: **Noushin Nabavi**, Healthwiser: Monitoring and evaluation of surgical outcomes; Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.  
 
@@ -270,7 +282,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
 
-## Software projects
+# Software projects
 
 1: [CO-SOL](https://buildforcovid19.io/co-sol/): Connecting Solidarity is an app that matches suppliers and demanders of resources, which are essential for survival in the fight against COVID-19, [Devpost hackathon](https://devpost.com/software/co-sol)  
 
@@ -282,7 +294,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 
 5: Anatomy of Morbidity as part of Hackseq Hackathon Project at [UBC](https://noushinn.github.io/Anatomy-of-Morbidity/)  
 
-## Blog posts
+# Blog posts
 
 1: Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.   
 2: To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
@@ -300,7 +312,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 10: Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
 
 
-## Media coverage of research
+# Media coverage of research
 
 1: Effects of Faradarmani Consciousness Field on Triticum Aestivum under Salinity Stress, [The Science of Consciousness meeting](https://www.youtube.com/watch?v=ukXhd4lZDGo), September 2020.  
 2: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 202.   
@@ -314,7 +326,7 @@ Xenografts. Front Genet. 2018 Jul 4;9:232.
 10: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 
-## Academic services
+# Academic services
 
 1: 2021: Advisor at Canadian Association of Postdoctoral Scholars CAPS-ACSP
 
@@ -372,7 +384,7 @@ Science Outreach & Mentorship
 27: 2001-2005: Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON
 
 
-## Evidence-based Teaching and Learning
+# Evidence-based Teaching and Learning
 
 1: 2020: Presentation of a demonstration project for implementing data integration workflows for data-driven decision making at the BC Ministry of Health’s knowledge translation talk series (~100 participants)
 
@@ -395,7 +407,7 @@ Science Outreach & Mentorship
 10: 2001-2005: Let’s Talk Science partnership program participant; designed and carried out hands-on science and experimental activities to engage children in K12 education system
 
 
-## Invited Presentations
+# Invited Presentations
 
 1: Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, Virtual, February 14, 2021)
 
@@ -444,7 +456,7 @@ Science Outreach & Mentorship
 
 23: Lysosome dispersion in osteoblasts accommodates enhanced collagen production during differentiation, 13th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, May 24-26, 2006)
 
-## Poster Presentations
+# Poster Presentations
 
 1: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)
 
@@ -489,13 +501,13 @@ Science Outreach & Mentorship
 22: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, U.S.A. Dec. 9-13, 2006)
 
 
-## Community volunteer activities
+# Community volunteer activities
 
-1: 2019: Victoria Jazz Festival, Victoria, BC
-2: 2018: Vancouver Opera Festival volunteer, Vancouver, BC
-3: 2015-2018: Vancouver International Film Festival (VIFF), Vancouver, BC
-4: 2015-2018: International Performing arts Festival (Push), Vancouver, BC 
-5: 2015-2018: Vancouver Jazz Festival, Vancouver, BC
-6: 2015-2018: Fringe Theatre Festival, Vancouver, BC
-7: 2016-2017: Vancouver Writer’s Festival, Vancouver, BC
-8: 2015-2019: Caravan World Rhythms, Vancouver/Victoria, BC
+1: 2019: Victoria Jazz Festival, Victoria, BC  
+2: 2018: Vancouver Opera Festival volunteer, Vancouver, BC  
+3: 2015-2018: Vancouver International Film Festival (VIFF), Vancouver, BC  
+4: 2015-2018: International Performing arts Festival (Push), Vancouver, BC  
+5: 2015-2018: Vancouver Jazz Festival, Vancouver, BC  
+6: 2015-2018: Fringe Theatre Festival, Vancouver, BC  
+7: 2016-2017: Vancouver Writer’s Festival, Vancouver, BC  
+8: 2015-2019: Caravan World Rhythms, Vancouver/Victoria, BC  
