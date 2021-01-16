@@ -25,12 +25,16 @@ Degree: **Bachelor of Applied Science (B.Sc.), Cum Laude distinction**
 Field Of Study: Cellular and Molecular Biology  
 University of Toronto (2001 – 2005)      
  
-
 Degree: **Doctor of Philosophy (Ph.D.)**  
 Field Of Study: Cell and Systems Biology  
 University of Toronto (2006 – 2012)        
 Thesis: Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.  
 
+**Certifications**:   
+- Data Analytics using R, Data Camp, Online, 2018-2019   
+- Project Management and Agile Transformation, Mitacs Inc., University of British Columbia, 2017-2019  
+- Teaching best practices, Yale Centre for Integration of Teaching and Learning, 2018   
+- Business Administration for Academics, mini-MBA, University of British Columbia, 2018  
 
 # Professional Experiences
 
