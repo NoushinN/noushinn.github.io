@@ -8,7 +8,8 @@ permalink: /Professional Activities/
 
 **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))  
 **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)  
-**2020-2021:** Expert assessment of applications submitted to Treasury Board of Canada Secretariat, advisor on scientific methodology and merit, Government of Canada  
+**2020-2021:** Expert assessment of applications submitted to Health Canada, advisor on scientific methodology and merit 
+**2020-2021:** Experimentation Works advisor at Treasury baord of Canada (EW2) initiative
 **2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing analytics, methodologies, and partnerships  
 **2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
 **2019-2020:** [Program committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf) member at Canadian Science Policy Centre (CSPC), helping with conference program development   
@@ -21,7 +22,7 @@ permalink: /Professional Activities/
 **2018:** UBC Career panel participation; exploring role of postdocs in academia and industry, Vancouver, BC  
 
 ## Science Outreach & Mentorship
-
+**2021:** Visiting Research Associate/Scientist at Vancouver Prostate Centre   
 **2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
 **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
 **2018:** Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) mentor, Victoria, BC  
