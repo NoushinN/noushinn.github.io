@@ -95,6 +95,9 @@ plugins:
   # - bootstrap
   # - material-sass
 
+enable_darkmode: true
+
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
