@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 bg: purple
 ---
+
+## About
 
 Noushin Nabavi earned her B.Sc. at the University of Toronto in Cell and Molecular Biology in 2005 with a co-op and cum laude distinction. In her first co-op term at Sanofi Pasteur, she worked on developing HIV vaccine titration assays and in the second term she worked at Pharma Medica on data quality and assurance for clinical trials. Subsequently, she earned her PhD in Cell and Systems Biology at the University of Toronto in 2012.   
 
