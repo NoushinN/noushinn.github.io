@@ -5,9 +5,9 @@
 # Name of your site (displayed in the header)
 # Site Settings
 locale : "en-US"
-name: 
+name: Noushin Nabavi, PhD
 # Short bio or description (displayed in the header)
-description: Noushin Nabavi, PhD | cell biologist | data scientist
+description: cell biologist | data scientist
 location : "British Columbia, Canada"
 repository : "NoushinN/noushinn.github.io"
 
