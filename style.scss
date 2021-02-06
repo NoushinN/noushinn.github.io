@@ -22,7 +22,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   color: $darkGray;
   background-color: #cccccc;
-  background-image: linear-gradient(teal, orange, yellow);
+
 
 }
 
@@ -59,6 +59,7 @@ h2 {
   font-size: 24px;
   background-color: #C0C0C0;
   border: double;
+  border-style: dotted;
 }
 
 h3 {
