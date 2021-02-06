@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+bg: purple
 ---
 
-Noushin Nabavi earned a B.Sc. at the University of Toronto in Cell and Molecular Biology in 2005 with a co-op and cum laude distinction. In her first co-op term at Sanofi Pasteur, she worked on developing HIV vaccine titration assays and in the second term she worked at Pharma Medica on data quality and assurance for clinical trials. Subsequently, she earned her PhD in Cell and Systems Biology at the University of Toronto in 2012.   
+Noushin Nabavi earned her B.Sc. at the University of Toronto in Cell and Molecular Biology in 2005 with a co-op and cum laude distinction. In her first co-op term at Sanofi Pasteur, she worked on developing HIV vaccine titration assays and in the second term she worked at Pharma Medica on data quality and assurance for clinical trials. Subsequently, she earned her PhD in Cell and Systems Biology at the University of Toronto in 2012.   
 
 In her thesis, she developed an account of the cellular and molecular mechanisms involved in pre-osteoblastic stem cell differentiation to bone. Her work explained why bone loss occurs in microgravity environments, and developed a model that can shed light on astronauts losing bone during space travel or explain bone loss in disuse osteoarthritic patients.   
 
