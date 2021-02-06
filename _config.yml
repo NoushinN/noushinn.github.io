@@ -13,7 +13,9 @@ repository : "NoushinN/noushinn.github.io"
 header: /images/mast.jpg
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2019/07/noushin-nabavi-profile.jpg
+avatar: https://avatars.githubusercontent.com/u/37668936?s=400&u=e4f7d5c6218a0ec4f71820f603f075805a944c03&v=4
+
+# https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2019/07/noushin-nabavi-profile.jpg
 
 #
 # Flags below are optional
