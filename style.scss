@@ -19,7 +19,7 @@ html {
 }
 
 body {
-	background: url("https://i.pinimg.com/564x/27/b1/d1/27b1d1d771ad7f6d28f21282f4481c95.jpg");
+	background: url("https://wallpaperaccess.com/full/245078.jpg");
   font-family: "Times New Roman", Times, serif;
   color: $darkGray;
   background-repeat: no-repeat;
@@ -28,6 +28,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-size: auto;
+  background-origin: content-box;
 
 }
 
