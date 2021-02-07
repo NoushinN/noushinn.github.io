@@ -21,6 +21,7 @@ html {
 body {
 	background: url("https://totalwallcovering.com/images/product/cologne-white-painted-brick-tcjs-l.jpg");
   font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
   color: $black;
   background-repeat: no-repeat;
   background-size: auto;
@@ -29,6 +30,7 @@ body {
   background-position: centre;
   background-size: cover;
   background-origin: content-box;
+  
 
 }
 
@@ -56,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 25px;
+  
   a {
     color: inherit;
   }
