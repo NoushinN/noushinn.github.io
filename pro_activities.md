@@ -4,7 +4,7 @@ title: Professional Activities
 permalink: /Professional Activities/
 ---
 
-## Evaluation & Improvement Committees {.tabset .tabset-pills}
+## Evaluation & Improvement Committees 
 
 - **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 - **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
@@ -109,7 +109,7 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, Canada, October 11-13, 2007)  
 20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, U.S.A. Dec. 9-13, 2006)  
 
-### Community-level Volunteering
+## Community-level Volunteering
 
 - **2019:** Victoria Jazz Festival, Victoria, BC  
 - **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
