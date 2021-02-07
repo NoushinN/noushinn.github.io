@@ -4,7 +4,7 @@ title: Professional Activities
 permalink: /Professional Activities/
 ---
 
-## Evaluation, and Improvement Committees
+## Evaluation & Improvement Committees
 
 **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
@@ -38,7 +38,7 @@ permalink: /Professional Activities/
 **2003-2005:** Co-founder of The Debating Club at University of Toronto Scarborough, Toronto, ON  
 **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
-## Teaching and learning development
+## Teaching & learning development
 **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
 **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
