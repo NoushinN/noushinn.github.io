@@ -68,12 +68,11 @@ h1 {
 h2 {
   font-size: 25px;
   font-stretch: expanded;
-  background-color: #D2B48C;
+  background-color: #F5F5F5;
   border: double;
-  border-style: dotted;
   text-align-last: center;
-  border-top-right-radius: 25px;
-  border-top-left-radius: 25px;
+  border-bottom-right-radius: 50px 20px;
+  border-bottom-style: dotted;
 }
 
 h3 {
