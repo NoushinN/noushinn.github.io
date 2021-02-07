@@ -4,7 +4,7 @@ title: Professional Activities
 permalink: /Professional Activities/
 ---
 
-## Evaluation & Improvement Committees
+## Evaluation & Improvement Committees {.tabset .tabset-pills}
 
 - **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 - **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
