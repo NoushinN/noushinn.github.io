@@ -8,56 +8,56 @@ permalink: /Professional Activities/
 
 - **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 - **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
-**2020-2021:** Expert assessment of applications submitted to Health Canada, advisor on scientific methodology and merit   
-**2020-2021:** Experimentation Works advisor at Treasury baord of Canada (EW2) initiative   
-**2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars    ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing analytics, methodologies, and partnerships  
-**2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
-**2019-2020:** [Program committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf) member at Canadian Science Policy Centre (CSPC), helping with conference program development   
-**2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)   
-**2019:** Participant and session facilitator at Chief Information Officer’s BC Connect conference, Victoria, BC  
-**2019:** Facilitator at Policy Community of Practice, Making it Real; putting policy into practice conference held at Marriott Hotel Inner Harbour, Victoria, BC  
-**2018-2019:** [Evaluation and Survey committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf) member at Canadian Science Policy Centre (CSPC), analyzing and reporting conference survey data   
-**2018-2020:** Data and privacy analyst at Institute of Public Administration, New Professionals (IPAC-NP), Victoria, BC  
-**2018-2019:** Hackseq hackathon organizing committee and team lead, managing social media posts and leading teams; University of British Columbia, Vancouver, BC  
-**2018:** UBC Career panel participation; exploring role of postdocs in academia and industry, Vancouver, BC  
+- **2020-2021:** Expert assessment of applications submitted to Health Canada, advisor on scientific methodology and merit   
+- **2020-2021:** Experimentation Works advisor at Treasury baord of Canada (EW2) initiative   
+- **2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars    ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing analytics, methodologies, and partnerships  
+- **2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
+- **2019-2020:** [Program committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf) member at Canadian Science Policy Centre (CSPC), helping with conference program development   
+- **2019:** Vice Chair of Career Development at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing career development strategies for Canadian postdocs, and organization of annual general meeting at Dalhousie University (Halifax, NS in November 2019)   
+- **2019:** Participant and session facilitator at Chief Information Officer’s BC Connect conference, Victoria, BC  
+- **2019:** Facilitator at Policy Community of Practice, Making it Real; putting policy into practice conference held at Marriott Hotel Inner Harbour, Victoria, BC  
+- **2018-2019:** [Evaluation and Survey committee](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf) member at Canadian Science Policy Centre (CSPC), analyzing and reporting conference survey data   
+- **2018-2020:** Data and privacy analyst at Institute of Public Administration, New Professionals (IPAC-NP), Victoria, BC  
+- **2018-2019:** Hackseq hackathon organizing committee and team lead, managing social media posts and leading teams; University of British Columbia, Vancouver, BC  
+- **2018:** UBC Career panel participation; exploring role of postdocs in academia and industry, Vancouver, BC  
 
 ## Science Outreach & Mentorship
-**2021:** Visiting Research Associate/Scientist at Vancouver Prostate Centre    
-**2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
-**2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
-**2018:** Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) mentor, Victoria, BC  
-**2016:** 3-Minute Thesis presentation, [UBC](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC  
-**2014:** Phillip and Sala Burton Academic High School Science Mentor, San Francisco, CA  
-**2013-2014:** City College of San Francisco’s Biotechnology Program Curriculum Development, San Francisco, CA  
-**2013-2014:** Cybelle Biosciences co-founder & consultant, San Francisco, CA  
-**2013:** Onestart America Lean Launchpad competitor, San Francisco, CA  
-**2012:** UCSF Mission Bay consulting club participant, San Francisco, CA  
-**2007:** Graduate Student Association Co-President at the University of Toronto (GSAS), Toronto, ON  
-**2006-2011:** Let’s Talk Science (LTS) volunteer member, Toronto, ON  
-**2006-2009:** Landmark Education coach & mentor, Toronto, ON  
-**2003-2005:** Co-founder of The Debating Club at University of Toronto Scarborough, Toronto, ON  
-**2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
+- **2021:** Visiting Research Associate/Scientist at Vancouver Prostate Centre    
+- **2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
+- **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
+- **2018:** Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) mentor, Victoria, BC  
+- **2016:** 3-Minute Thesis presentation, [UBC](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC  
+- **2014:** Phillip and Sala Burton Academic High School Science Mentor, San Francisco, CA  
+- **2013-2014:** City College of San Francisco’s Biotechnology Program Curriculum Development, San Francisco, CA  
+- **2013-2014:** Cybelle Biosciences co-founder & consultant, San Francisco, CA  
+- **2013:** Onestart America Lean Launchpad competitor, San Francisco, CA  
+- **2012:** UCSF Mission Bay consulting club participant, San Francisco, CA  
+- **2007:** Graduate Student Association Co-President at the University of Toronto (GSAS), Toronto, ON  
+- **2006-2011:** Let’s Talk Science (LTS) volunteer member, Toronto, ON  
+- **2006-2009:** Landmark Education coach & mentor, Toronto, ON  
+- **2003-2005:** Co-founder of The Debating Club at University of Toronto Scarborough, Toronto, ON  
+- **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
 ## Teaching & learning development
-**2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
-**2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
+- **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
+- **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
-**2015-2018:** Science Judge, Science Fair, University of British Columbia  
-**2017-2019:** Community Volunteer at Canada Learning Code and Ladies Learning Code  
-**2014:** Science Mentor for four students at Burton High school for preparing a poster on Arthritis for
+- **2015-2018:** Science Judge, Science Fair, University of British Columbia  
+- **2017-2019:** Community Volunteer at Canada Learning Code and Ladies Learning Code  
+- **2014:** Science Mentor for four students at Burton High school for preparing a poster on Arthritis for
 Fairposium project in San Francisco  
-**2014:** Science outreach facilitator for ten-day Bay Area Science Festival San Francisco  
-**2014:** Technical and scientific content writer/editor for Science Exchange San Francisco  
-**2014:** Curriculum development and hands-on laboratory teaching in City College of San Francisco’s
+- **2014:** Science outreach facilitator for ten-day Bay Area Science Festival San Francisco  
+- **2014:** Technical and scientific content writer/editor for Science Exchange San Francisco  
+- **2014:** Curriculum development and hands-on laboratory teaching in City College of San Francisco’s
 Biotechnology Program, UCSF/USF Partnership for Teaching  
-**2013-2015:** Contributing writer and editor at Post Doctoral Journal; Postdocjournal.com  
-**2009-2010:** Science Fair judge for posters presented by high school students, University of Toronto  
-**2008-2011:** Co-supervised co-op students and undergraduate students on assisting with bone differen-
+- **2013-2015:** Contributing writer and editor at Post Doctoral Journal; Postdocjournal.com  
+- **2009-2010:** Science Fair judge for posters presented by high school students, University of Toronto  
+- **2008-2011:** Co-supervised co-op students and undergraduate students on assisting with bone differen-
 tiation research project  
-**2008-2011:** Co-President and assistant secretary of Graduate Students’ Association at Scarborough  
+- **2008-2011:** Co-President and assistant secretary of Graduate Students’ Association at Scarborough  
 organizing meetings, facilitate and initiate holding of workshops and symposia on campus  
-**2007-2011:** An honorary volunteer member of Let’s Talk Science Partnership Program  
-**2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization   
+- **2007-2011:** An honorary volunteer member of Let’s Talk Science Partnership Program  
+- **2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization   
 
 ## Invited Conference Presentations
 
@@ -111,12 +111,12 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 
 ## Community-level Volunteering
 
-**2019:** Victoria Jazz Festival, Victoria, BC  
-**2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
-**2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
-**2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
-**2015-2018:** Vancouver Jazz Festival, Vancouver, BC  
-**2015-2018:** Fringe Theatre Festival, Vancouver, BC  
-**2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
-**2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC   
-**2008**: [Tirgan](https://tirgan.ca/b/2008/organizer/Committees/marketingcommittees.html) Festival, Publishing Committee, Toronto, ON  
+- **2019:** Victoria Jazz Festival, Victoria, BC  
+- **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
+- **2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
+- **2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
+- **2015-2018:** Vancouver Jazz Festival, Vancouver, BC  
+- **2015-2018:** Fringe Theatre Festival, Vancouver, BC  
+- **2016-2017:** Vancouver Writer’s Festival, Vancouver, BC  
+- **2015-2019:** Caravan World Rhythms, Vancouver/Victoria, BC   
+- **2008**: [Tirgan](https://tirgan.ca/b/2008/organizer/Committees/marketingcommittees.html) Festival, Publishing Committee, Toronto, ON  
