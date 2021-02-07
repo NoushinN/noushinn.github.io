@@ -21,7 +21,7 @@ html {
 body {
 	background: url("https://www.mrperswall.com/sites/default/files/styles/gallery_large/public/wallpapers/wall/E020701-0.jpg?itok=fywi8Ur3");
   font-family: "Times New Roman", Times, serif;
-  font-size: 15px;
+  font-size: 17px;
   color: $black;
   background-repeat: no-repeat;
   background-size: auto;
@@ -305,6 +305,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+<table class="w3-table w3-bordered">
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
