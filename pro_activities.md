@@ -98,16 +98,16 @@ CAPS survey findings related to COVID-19 (National meeting on postdoc affairs or
 8: Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Birmingham, UK, May 2016)  
 9: Molecular landscape of pleural mesothelioma poster presentation at 10th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2015-2016)  
 10: Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA, USA, June 2013)  
-11: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA, U.S.A., Dec. 11-15, 2010)  
-12: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego, U.S.A., Dec. 5-11, 2009)  
+11: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA, USA, Dec. 11-15, 2010)  
+12: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego, USA, Dec. 5-11, 2009)  
 13: In vitro Osteoclast Differentiation in Arthritis (IODA) project: Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
 14: Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON, Canada, May 12-16, 2009)  
 15: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC, Canada, September 12, 16, 2008)  
 16: Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC, Canada, July 13-20, 2008)  
 17: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC, Canada, September 12-16, 2008)  
-18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C., U.S.A., Dec. 1-5, 2007)  
+18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C., USA, Dec. 1-5, 2007)  
 19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, Canada, October 11-13, 2007)  
-20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, U.S.A. Dec. 9-13, 2006)  
+20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, USA Dec. 9-13, 2006)  
 
 ## Community-level Volunteering
 
