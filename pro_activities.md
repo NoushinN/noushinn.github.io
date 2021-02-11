@@ -39,6 +39,8 @@ permalink: /Professional Activities/
 - **2001-2005:** Created friendships and taught leadership development to people with intellectual and developmental disabilities at BestBuddies, Toronto, ON  
 
 ## Teaching & learning development
+- **2021:** Workshop on reproducible workflows in the public service, (EW2) Government of Canada Initiative  
+- **2020:** Workshop on experimentation in the public service, (EW2) Government of Canada Initiative  
 - **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
 - **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
