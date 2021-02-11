@@ -8,7 +8,7 @@ permalink: /Professional Activities/
 
 - **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 - **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
-- **2020-2021:** Expert assessment of applications submitted to Health Canada, advisor on scientific methodology and merit   
+- **2020-2021:** Expert assessment of applications submitted to Health  advisor on scientific methodology and merit   
 - **2020-2021:** Experimentation Works advisor at Treasury baord of Canada (EW2) initiative   
 - **2020:** Vice Chair of Survey and Data at Canadian Association of Postdoctoral Scholars    ([CAPS](https://www.caps-acsp.ca/en/about-us/)), developing analytics, methodologies, and partnerships  
 - **2020:** Fellowship adjudication committee at Mitacs Inc., evaluating Canadian Science Policy Fellowship applications   
@@ -41,7 +41,7 @@ permalink: /Professional Activities/
 ## Teaching & learning development
 - **2021:** Workshop on reproducible workflows in the public service, (EW2) Government of Canada Initiative  
 - **2020:** Workshop on experimentation in the public service, (EW2) Government of Canada Initiative  
-- **2019:** Administrative data linkage to evaluate programs and policies (Royal Jubilee Hospital, Victoria, BC, January 21, 2020)   
+- **2019:** Administrative data linkage to evaluate programs and policies, Royal Jubilee Hospital, Victoria, BC
 - **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
 - **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
 STEM education, and Implicit Bias in STEM education modules  
@@ -81,8 +81,8 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 15: Expression and regulation of chondroitin sulfate in prostate cancer (American Association of Cancer Research, Chicago, IL, July 2018)  
 16: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Ottawa, ON, May 2018)  
 17: Comprehensive molecular characterization of peritoneal mesothelioma, Vancouver Prostate Centre Friday Seminar (Vancouver, BC, February 2017)  
-18: Cytochrome P450 degradation in hepatocytes and implications in drug metabolism, UCSF Postdoctoral Symposium, Gladstone, UCSF Mission Bay (San Francisco, CA, USA, June 2014)  
-19: SIRT2’s role in stem cell biology, Berkeley Stem Cell Center Retreat, Fred Farr Forum (Asilomar, CA, USA, April 2012 and 2013)  
+18: Cytochrome P450 degradation in hepatocytes and implications in drug metabolism, UCSF Postdoctoral Symposium, Gladstone, UCSF Mission Bay (San Francisco, CA,  June 2014)  
+19: SIRT2’s role in stem cell biology, Berkeley Stem Cell Center Retreat, Fred Farr Forum (Asilomar, CA,  April 2012 and 2013)  
 20: Rab-3 mediated collagen trafficking in differentiating osteoblasts, 16th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, June 3-5, 2010)  
 21: Delineating collagen trafficking pathway in differentiating osteoblasts, 15th Canadian Connective Tissue Conference (CCTC) (Calgary, July 17-18, 2009)  
 22: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 14th Canadian Connective Tissue Conference (CCTC) (Montreal, QC, June 5-7, 2008)  
@@ -100,17 +100,17 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 7: An oncofetal glycosaminoglycan modification provides therapeutic access to mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment Options conference (Cancun, Mexico, March 2017)  
 8: Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Birmingham, UK, May 2016)  
 9: Molecular landscape of pleural mesothelioma poster presentation at 10th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2015-2016)  
-10: Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA, USA, June 2013)  
-11: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA, USA, Dec. 11-15, 2010)  
-12: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego, USA, Dec. 5-11, 2009)  
+10: Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA,  June 2013)  
+11: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA,  December 11-15, 2010)  
+12: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego,  December 5-11, 2009)  
 13: In vitro Osteoclast Differentiation in Arthritis (IODA) project: Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
-14: Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON, Canada, May 12-16, 2009)  
-15: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC, Canada, September 12, 16, 2008)  
-16: Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC, Canada, July 13-20, 2008)  
-17: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC, Canada, September 12-16, 2008)  
-18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C., USA, Dec. 1-5, 2007)  
-19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, Canada, October 11-13, 2007)  
-20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, USA Dec. 9-13, 2006)  
+14: Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON,  May 12-16, 2009)  
+15: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC,  September 12, 16, 2008)  
+16: Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC,  July 13-20, 2008)  
+17: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC,  September 12-16, 2008)  
+18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C.,  December 1-5, 2007)  
+19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, NS,  October 11-13, 2007)  
+20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, USA December 9-13, 2006)  
 
 ## Community-level Volunteering
 
