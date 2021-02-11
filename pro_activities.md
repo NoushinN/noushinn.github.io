@@ -111,7 +111,7 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 17: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC,  September 12-16, 2008)  
 18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C.,  December 1-5, 2007)  
 19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, NS,  October 11-13, 2007)  
-20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, USA December 9-13, 2006)  
+20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, December 9-13, 2006)  
 
 ## Community-level Volunteering
 
