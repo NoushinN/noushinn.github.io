@@ -41,7 +41,7 @@ permalink: /Professional Activities/
 ## Teaching & learning development
 - **2021:** Workshop on reproducible workflows in the public service, (EW2) Government of Canada Initiative  
 - **2020:** Workshop on experimentation in the public service, (EW2) Government of Canada Initiative  
-- **2020:** Workshop on doing a systematic literature search, (EW2) Government of Canada Initiative  
+- **2020:** Workshop on performing and reporting a systematic literature search, (EW2) Government of Canada Initiative  
 - **2019:** Administrative data linkage to evaluate programs and policies, Royal Jubilee Hospital, Victoria, BC
 - **2018:** Science Judge, Biomedical Engineering Entrepreneurship & Partnership day, University of Victoria  
 - **2018:** Centre for Integrated Teaching and Learning: Teaching as Research, Evidence-based teaching in
