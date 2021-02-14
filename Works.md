@@ -177,7 +177,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
 
 ## Blog posts
-1: Open and reproducible workflows in the public service, [booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.
+1: Open and reproducible workflows in the public service, [booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.  
 2: Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.  
 3: Initiating an experiment in the public service [booklet](https://noushinn.github.io/experimentation_course/), November 2021.
 4: To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
