@@ -168,7 +168,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.  
 
-4: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [Zenodo](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.  
+4: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [OpenAIRE](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.  
 
 5: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020. 
 
