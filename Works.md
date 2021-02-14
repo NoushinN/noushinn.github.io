@@ -177,23 +177,24 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
 
 ## Blog posts
-
-1: Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.   
-2: To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
-3: Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.   
-4: From messy to tidy: the case for a data science workflow
+1: Open and reproducible workflows in the public service, [booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.
+2: Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.  
+3: Initiating an experiment in the public service [booklet](https://noushinn.github.io/experimentation_course/), November 2021.
+4: To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), Apr 13, 2020.  
+5: Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), Jun 30, 2019.   
+6: From messy to tidy: the case for a data science workflow
 [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.  
-5: Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.   
-6: Technical Considerations for Longitudinal Data Analyses
+7: Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), Nov 30, 2018.   
+8: Technical Considerations for Longitudinal Data Analyses
 [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), Oct 24, 2018.   
-7:  Menu for preparing data & serving it cold
+9:  Menu for preparing data & serving it cold
 [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), Oct 19, 2018.   
-8: Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
-9: Data Renaissance: Creating Data-driven Cultures
+10: Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), Oct 6, 2018.     
+11: Data Renaissance: Creating Data-driven Cultures
 [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), Sep 21, 2018.  
-10: Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
-11: The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.   
-12: Photoblog, [elephile](https://elephile.tumblr.com/).  
+12: Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
+13: The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.   
+14: Photoblog, [elephile](https://elephile.tumblr.com/).  
 
 ## Media coverage of research-related work 
 
