@@ -134,7 +134,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 2: Ferrarini, Mariana, Vanessa Aguiar-Pulido, Eric T. Dawson, Andrea Guarracino, Andreas Gruber, **Nabavi, Noushin**, Lukas Heumos, Alexander Kanitz, et al. 2020. Global Analysis of Human Sars-cov-2 Infection and Host-virus Interaction. [BioHackrXiv](https://biohackrxiv.org/b4zkp/). May 14, 2020. doi:10.37044/osf.io/b4zkp.  
 
-3: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229).
+3: Al Nakouzi, Nader; Wang, Chris Kedong; Nelepcu, Irina; Crouzit, Coralie; **Nabavi, Noushin**; Almami, Amal; Oo, Htoo Zarni; Clausen, Thomas Mandel; Gustavsson, Tobias; Salanti, Ali; Daugaard, Mads. Expression and regulation of chondroitin sulfate in prostate cancer, 2018, American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229).
 
 4: Shrestha, Raunak; **Nabavi, Noushin**; Lin, Yen-Yi; Mo, Fan; Anderson, Shawn; Volik, Stanislav; Adomat, Hans H; Lin, Dong; Xue, Hui; Dong, Xin; Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2), 243477, 2018, Cold Spring Harbor Laboratory.  
 
@@ -152,11 +152,11 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 1: **Nabavi N**, Wei J, Lin D, Collins CC, Gout PW, Wang Y. Pre-clinical Models for
 Malignant Mesothelioma Research: From Chemical-Induced to Patient-Derived Cancer
-Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4;9:232.  
+Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4; 9:232.  
 
-2: **Nabavi, Noushin**; Roberts, Morgan E; Crea, Francesco; Collins, Colin C; Wang, Yuzhuo; Bishop, Jennifer L; Immuno-oncology of Dormant Tumours: Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 51-60,2017.  
+2: **Nabavi, Noushin**; Roberts, Morgan E; Crea, Francesco; Collins, Colin C; Wang, Yuzhuo; Bishop, Jennifer L; Immuno-oncology of Dormant Tumours: Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 51-60, 2017.  
 
-3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 17-29,2017.
+3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 17-29, 2017.
 
 4: **Noushin Nabavi**, Red, Black, and White paintings, a collection. [Amazon](https://www.amazon.com/Black-White-Paintings-Noushin-Nabavi/dp/1320121594), 2014.  
 
@@ -168,13 +168,13 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 3: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**:Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.  
 
-4: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [OpenAIRE](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), Oct 12 2020.  
+4: **Nabavi, Noushin**. “Initiating an Experiment.” Zenodo, 2020. doi:10.5281/zenodo.4083752, [OpenAIRE](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), October 2020.  
 
-5: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2, 2020. 
+5: **Noushin Nabavi**; Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2020. 
 
-6: Christine Gibb , **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 4, 2020.  
+6: Christine Gibb, **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths; Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars,  Canadian Science Policy Centre [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 2020.  
 
-7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), 2020.  
+7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), April 2020.  
 
 ## Blog posts
 1: Open and reproducible workflows in the public service, [booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.  
