@@ -138,7 +138,7 @@ J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 
 4: Shrestha, Raunak; **Nabavi, Noushin**; Lin, Yen-Yi; Mo, Fan; Anderson, Shawn; Volik, Stanislav; Adomat, Hans H; Lin, Dong; Xue, Hui; Dong, Xin; Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2), 243477, 2018, Cold Spring Harbor Laboratory.  
 
-5: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins,Journal of Postdoctoral Research, [PDJ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1049.9698&rep=rep1&type=pdf), February, 2015.   
+5: **Nabavi, Noushin**; Organelles enter the game of aging related aggregation and retention of misfolded proteins, Journal of Postdoctoral Research, [PDJ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1049.9698&rep=rep1&type=pdf), February, 2015.   
 
 6: **Nabavi, Noushin**; Protein turnover: to self-eat or not to self-eat, that’s the question, Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/Protein-turnover%3A-to-self-eat-or-not-to-self-eat%2C-Journal-Nabavi/044e23a34cca782079533fe5507f323110031932), January, 2014.  
 
@@ -198,16 +198,15 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 ## Media coverage of research-related work 
 
-1: Effects of Faradarmani Consciousness Field on Triticum Aestivum under Salinity Stress, [The Science of Consciousness meeting](https://www.youtube.com/watch?v=ukXhd4lZDGo), September 2020.  
-2: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.   
-3: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
-4: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
-5: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
-6: R-Ladies at Open Source Summit North America, IBM Developer [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.    
-7: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
-8: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
-9: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
-10: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
+1: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.   
+2: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
+3: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
+4: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
+5: R-Ladies at Open Source Summit North America, IBM Developer [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.    
+6: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
+7: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
+8: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
+9: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 ## Software projects
 
