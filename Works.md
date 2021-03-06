@@ -156,7 +156,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 
 2: **Nabavi, Noushin**; Roberts, Morgan E; Crea, Francesco; Collins, Colin C; Wang, Yuzhuo; Bishop, Jennifer L; Immuno-oncology of Dormant Tumours: Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 51-60, 2017.  
 
-3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins:Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 17-29, 2017.
+3: **Noushin Nabavi**, Susan L. Ettinger, Francesco Crea, Yuzhuo Wang, Colin C. Collins: Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy,Tumor Dormancy and Recurrence, [Cancer Drug Discovery and Development](https://link.springer.com/book/10.1007/978-3-319-59242-8), Pages 17-29, 2017.
 
 4: **Noushin Nabavi**, Red, Black, and White paintings, a collection. [Amazon](https://www.amazon.com/Black-White-Paintings-Noushin-Nabavi/dp/1320121594), 2014.  
 
