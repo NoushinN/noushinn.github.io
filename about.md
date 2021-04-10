@@ -15,4 +15,4 @@ Following graduation, she received a Siebel Stem Cell Fellowship from the Univer
 
 Dr. Nabavi returned to Canada and led a transcriptomics, proteomics, and genomics project at the BC Cancer Research Centre on the rare mesothelioma cancer from 2015 to 2018. For this, she assembled an international consortium of experts in the field, wrote successful grant applications, published in peer-reviewed journals, and presented her work in local, national and international conferences.  
 
-Since 2018, Dr. Nabavi joined the civil service as a data science and science policy fellow and later an economist. She uses health data to support evidence-based decision making and is interested in developing reproducible and applicable algorithms and metrices to solve challenging and complex problems. 
+In 2018, Dr. Nabavi joined the civil service as a data science and science policy fellow and later an economist. She uses health data to support evidence-based decision making and is interested in developing reproducible and applicable algorithms and metrices to solve challenging and complex problems. 
