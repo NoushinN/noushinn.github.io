@@ -24,22 +24,22 @@ avatar: https://avatars.githubusercontent.com/u/37668936?s=400&u=e4f7d5c6218a0ec
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:  nabavi.noushin@gmail.com
-  facebook: https://www.facebook.com/noushinnabavi.photography
+  email:
   flickr:
   github:  NoushinN
-  instagram: noushinn
   linkedin: in/noushin-nabavi/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: nabavinoushin
+  instagram: noushinn
   stackoverflow: users/10286702/noushin-nabavi
+  facebook: https://www.facebook.com/noushinnabavi.photography
   youtube: channel/UCRpThp9XB1Dm9FwZ4sH3TZQ
   googleplus: # anything in your profile username that comes after plus.google.com/
   orcid_id: 0000-0002-5471-6229
   scholar_userid: -HpjhzMAAAAJ&hl=en
   research_gate_profile: Noushin_Nabavi2
-  tumblr: elephile
+  tumblr: https://elephile.tumblr.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
