@@ -28,16 +28,16 @@ footer-links:
   facebook:
   flickr:
   github:  NoushinN
-  instagram:
+  instagram: noushinn
   linkedin: in/noushin-nabavi/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: nabavinoushin
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: "users/10286702/noushin-nabavi"
+  youtube: <channel/UCRpThp9XB1Dm9FwZ4sH3TZQ>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  orcid_id: 0000-0002-5471-6229
-  scholar_userid: -HpjhzMAAAAJ&hl=en
+  orcid_id: "0000-0002-5471-6229""
+  scholar_userid: "-HpjhzMAAAAJ&hl=en"
   research_gate_profile: Noushin_Nabavi2
 
 
