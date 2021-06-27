@@ -17,4 +17,3 @@ Dr. Nabavi returned to Canada and led a transcriptomics, proteomics, and genomic
 
 In 2018, Dr. Nabavi joined the civil service as a data science and science policy fellow and later an economist. She uses health data to support evidence-based decision making and is interested in developing reproducible and applicable algorithms and metrices to solve challenging and complex problems. 
 
-In her free time, she dabbles in the arts from photography and painting to writing and dancing.
