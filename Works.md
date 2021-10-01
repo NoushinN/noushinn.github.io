@@ -10,7 +10,12 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
-1: Ashrafizadeh M, Mirzaei S, Gholami MH, Hashemi F, Zabolian A, Raei M,
+1: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, Nabavi N, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. Epub ahead of print. PMID: 34571052.
+
+
+2: Oo HZ, Lohinai Z, Khazamipour N, Lo J, Kumar G, Pihl J, Adomat H, Nabavi N, Behmanesh H, Zhai B, Dagil R, Choudhary S, Gustavsson T, Clausen TM, Esko JD, Allen JW, Thompson MA, Tran NL, Moldvay J, Dome B, Salanti A, Al-Nakouzi N, Weiss GJ, Daugaard M. Oncofetal Chondroitin Sulfate Is a Highly Expressed Therapeutic Target in Non-Small Cell Lung Cancer. Cancers (Basel). 2021 Sep 6;13(17):4489. doi: 10.3390/cancers13174489. PMID: 34503301; PMCID: PMC8430715.
+
+3: Ashrafizadeh M, Mirzaei S, Gholami MH, Hashemi F, Zabolian A, Raei M,
 Hushmandi K, Zarrabi A, Voelcker NH, Aref AR, Hamblin MR, Varma RS,
 Samarghandian S, Arostegi IJ, Alzola M, Kumar AP, Thakur VK, Nabavi N, Makvandi
 P, Tay FR, Orive G. Hyaluronic acid-based nanoplatforms for Doxorubicin: A
@@ -18,35 +23,35 @@ review of stimuli-responsive carriers, co-delivery and resistance suppression.
 Carbohydr Polym. 2021 Nov 15;272:118491. doi: 10.1016/j.carbpol.2021.118491.
 Epub 2021 Jul 27. [PMID: 34420747](https://pubmed.ncbi.nlm.nih.gov/34420747/).
 
-2: Ashrafizadeh M, Zarrabi A, Orouei S, Zabolian A, Saleki H, Azami N, Bejandi AK, Mirzaei S, Janaghard MN, Hushmandi K, **Nabavi N**, Baradaran B, Kumar AP, Makvandi P, Samarghandian S, Khan H, Hamblin MR. Interplay between SOX9 transcription factor and microRNAs in cancer. Int J Biol Macromol. 2021 May 3:S0141-8130(21)00958-2. doi: 10.1016/j.ijbiomac.2021.04.185. [PMID: 33957202](https://linkinghub.elsevier.com/retrieve/pii/S0141813021009582).
+4: Ashrafizadeh M, Zarrabi A, Orouei S, Zabolian A, Saleki H, Azami N, Bejandi AK, Mirzaei S, Janaghard MN, Hushmandi K, **Nabavi N**, Baradaran B, Kumar AP, Makvandi P, Samarghandian S, Khan H, Hamblin MR. Interplay between SOX9 transcription factor and microRNAs in cancer. Int J Biol Macromol. 2021 May 3:S0141-8130(21)00958-2. doi: 10.1016/j.ijbiomac.2021.04.185. [PMID: 33957202](https://linkinghub.elsevier.com/retrieve/pii/S0141813021009582).
 
 
-3: Mather RL, Parolia A, Carson SE, Venalainen E, Roig-Carles D, Jaber M, Chu SC, Alborelli I, Wu R, Lin D, **Nabavi N**, Jachetti E, Colombo MP, Xue H, Pucci P, Ci X, Hawkes C, Li Y, Pandha H, Ulitsky I, Marconett C, Quagliata L, Jiang W, Romero I, Wang Y, Crea F. The evolutionarily conserved long non-coding RNA LINC00261 drives neuroendocrine prostate cancer proliferation and metastasis via distinct nuclear and cytoplasmic mechanisms. Mol Oncol. 2021 Apr 1. doi: 10.1002/1878-0261.12954. Epub ahead of print. [PMID: 33793068](https://pubmed.ncbi.nlm.nih.gov/33793068/).
+5: Mather RL, Parolia A, Carson SE, Venalainen E, Roig-Carles D, Jaber M, Chu SC, Alborelli I, Wu R, Lin D, **Nabavi N**, Jachetti E, Colombo MP, Xue H, Pucci P, Ci X, Hawkes C, Li Y, Pandha H, Ulitsky I, Marconett C, Quagliata L, Jiang W, Romero I, Wang Y, Crea F. The evolutionarily conserved long non-coding RNA LINC00261 drives neuroendocrine prostate cancer proliferation and metastasis via distinct nuclear and cytoplasmic mechanisms. Mol Oncol. 2021 Apr 1. doi: 10.1002/1878-0261.12954. Epub ahead of print. [PMID: 33793068](https://pubmed.ncbi.nlm.nih.gov/33793068/).
 
-4: Mirzaei S, Mohammadi AT, Gholami MH, Hashemi F, Zarrabi A, Zabolian A, Hushmandi K, Makvandi P, Samec M, Liskova A, Kubatka P, **Nabavi N**, Aref AR, Ashrafizadeh M, Khan H, Najafi M. Nrf2 signaling pathway in cisplatin chemotherapy: Potential involvement in organ protection and chemoresistance. Pharmacol Res. 2021 Mar 24;167:105575. doi: 10.1016/j.phrs.2021.105575. Epub ahead of print. [PMID: 33771701](https://www.sciencedirect.com/science/article/abs/pii/S0304383521001233?via%3Dihub).
+6: Mirzaei S, Mohammadi AT, Gholami MH, Hashemi F, Zarrabi A, Zabolian A, Hushmandi K, Makvandi P, Samec M, Liskova A, Kubatka P, **Nabavi N**, Aref AR, Ashrafizadeh M, Khan H, Najafi M. Nrf2 signaling pathway in cisplatin chemotherapy: Potential involvement in organ protection and chemoresistance. Pharmacol Res. 2021 Mar 24;167:105575. doi: 10.1016/j.phrs.2021.105575. Epub ahead of print. [PMID: 33771701](https://www.sciencedirect.com/science/article/abs/pii/S0304383521001233?via%3Dihub).
 
-5: Ashrafizaveh S, Ashrafizadeh M, Zarrabi A, Husmandi K, Zabolian A, Shahinozzaman M, Aref AR, Hamblin MR, **Nabavi N**, Crea F, Wang Y, Ahn KS. Long non-coding RNA in the doxorubicin resistance of cancer cells. Cancer Lett. 2021 Mar 22:S0304-3835(21)00123-3. doi: 10.1016/j.canlet.2021.03.018. Epub ahead of print. [PMID: 33766750](https://pubmed.ncbi.nlm.nih.gov/33766750/).
+7: Ashrafizaveh S, Ashrafizadeh M, Zarrabi A, Husmandi K, Zabolian A, Shahinozzaman M, Aref AR, Hamblin MR, **Nabavi N**, Crea F, Wang Y, Ahn KS. Long non-coding RNA in the doxorubicin resistance of cancer cells. Cancer Lett. 2021 Mar 22:S0304-3835(21)00123-3. doi: 10.1016/j.canlet.2021.03.018. Epub ahead of print. [PMID: 33766750](https://pubmed.ncbi.nlm.nih.gov/33766750/).
 
-6: Mirzaei S, Gholami MH, Mahabady MK, **Nabavi N**, Zabolian A, Banihashemi SM,
+8: Mirzaei S, Gholami MH, Mahabady MK, **Nabavi N**, Zabolian A, Banihashemi SM,
 Haddadi A, Entezari M, Hushmandi K, Makvandi P, Samarghandian S, Zarrabi A,
 Ashrafizadeh M, Khan H. Pre-clinical investigation of STAT3 pathway in bladder
 cancer: Paving the way for clinical translation. Biomed Pharmacother. 2021
 Jan;133:111077. doi: 10.1016/j.biopha.2020.111077. Epub 2020 Dec 4. [PMID:33378975](https://pubmed.ncbi.nlm.nih.gov/33378975/).   
 
-7: Ashrafizadeh M, Hushmandi K, Rahmani Moghadam E, Zarrin V, Hosseinzadeh
+9: Ashrafizadeh M, Hushmandi K, Rahmani Moghadam E, Zarrin V, Hosseinzadeh
 Kashani S, Bokaie S, Najafi M, Tavakol S, Mohammadinejad R, **Nabavi N**, Hsieh CL,
 Zarepour A, Zare EN, Zarrabi A, Makvandi P. Progress in Delivery of siRNA-Based
 Therapeutics Employing Nano-Vehicles for Treatment of Prostate Cancer.
 Bioengineering (Basel). 2020 Aug 10;7(3):91. doi: 10.3390/bioengineering7030091.
 PMID: 32784981; PMCID: [PMC7552721](https://pubmed.ncbi.nlm.nih.gov/32784981/).  
 
-8: Shrestha R, **Nabavi N**, Volik S, Anderson S, Haegert A, McConeghy B, Sar F,
+10: Shrestha R, **Nabavi N**, Volik S, Anderson S, Haegert A, McConeghy B, Sar F,
 Brahmbhatt S, Bell R, Le Bihan S, Wang Y, Collins C, Churg A. Well-
 Differentiated Papillary Mesothelioma of the Peritoneum Is Genetically Distinct
 from Malignant Mesothelioma. Cancers (Basel). 2020 Jun 13;12(6):1568. doi:
 10.3390/cancers12061568. PMID: 32545767; PMCID: [PMC7352777](https://pubmed.ncbi.nlm.nih.gov/32545767/).  
 
-9: Shrestha R, **Nabavi N**, Lin YY, Mo F, Anderson S, Volik S, Adomat HH, Lin D,
+11: Shrestha R, **Nabavi N**, Lin YY, Mo F, Anderson S, Volik S, Adomat HH, Lin D,
 Xue H, Dong X, Shukin R, Bell RH, McConeghy B, Haegert A, Brahmbhatt S, Li E, Oo
 HZ, Hurtado-Coll A, Fazli L, Zhou J, McConnell Y, McCart A, Lowy A, Morin GB,
 Chen T, Daugaard M, Sahinalp SC, Hach F, Le Bihan S, Gleave ME, Wang Y, Churg A,
@@ -54,18 +59,18 @@ Collins CC. BAP1 haploinsufficiency predicts a distinct immunogenic class of
 malignant peritoneal mesothelioma. Genome Med. 2019 Feb 18;11(1):8. doi:
 10.1186/s13073-019-0620-3. PMID: 30777124; PMCID: [PMC6378747](https://pubmed.ncbi.nlm.nih.gov/30777124/).  
 
-10: **Nabavi N**, Wei J, Lin D, Collins CC, Gout PW, Wang Y. Pre-clinical Models for
+12: **Nabavi N**, Wei J, Lin D, Collins CC, Gout PW, Wang Y. Pre-clinical Models for
 Malignant Mesothelioma Research: From Chemical-Induced to Patient-Derived Cancer
 Xenografts. Front Genet. 2018 Jul 4;9:232. doi: 10.3389/fgene.2018.00232. PMID:
 30022998; PMCID: [PMC6040159](https://pubmed.ncbi.nlm.nih.gov/30022998/).   
 
-11: Choi SYC, Ettinger SL, Lin D, Xue H, Ci X, **Nabavi N**, Bell RH, Mo F, Gout PW,
+13: Choi SYC, Ettinger SL, Lin D, Xue H, Ci X, **Nabavi N**, Bell RH, Mo F, Gout PW,
 Fleshner NE, Gleave ME, Collins CC, Wang Y. Targeting MCT4 to reduce lactic acid
 secretion and glycolysis for treatment of neuroendocrine prostate cancer. Cancer
 Med. 2018 Jun 14;7(7):3385–92. doi: 10.1002/cam4.1587. Epub ahead of print.
 PMID: 29905005; PMCID: [PMC6051138](https://pubmed.ncbi.nlm.nih.gov/29905005/).  
 
-12: Ramnarine VR, Alshalalfa M, Mo F, **Nabavi N**, Erho N, Takhar M, Shukin R,
+14: Ramnarine VR, Alshalalfa M, Mo F, **Nabavi N**, Erho N, Takhar M, Shukin R,
 Brahmbhatt S, Gawronski A, Kobelev M, Nouri M, Lin D, Tsai H, Lotan TL, Karnes
 RJ, Rubin MA, Zoubeidi A, Gleave ME, Sahinalp C, Wyatt AW, Volik SV, Beltran H,
 Davicioni E, Wang Y, Collins CC. The long noncoding RNA landscape of
@@ -73,36 +78,36 @@ neuroendocrine prostate cancer and its clinical implications. Gigascience. 2018
 Jun 1;7(6):giy050. doi: 10.1093/gigascience/giy050. PMID: 29757368; PMCID:
 [PMC6007253](https://pubmed.ncbi.nlm.nih.gov/29757368/).  
 
-13: Qu S, Xue H, Dong X, Lin D, Wu R, **Nabavi N**, Collins CC, Gleave ME, Gout PW,
+15: Qu S, Xue H, Dong X, Lin D, Wu R, **Nabavi N**, Collins CC, Gleave ME, Gout PW,
 Wang Y. Aneustat (OMN54) has aerobic glycolysis-inhibitory activity and also
 immunomodulatory activity as indicated by a first-generation PDX prostate cancer
 model. Int J Cancer. 2018 Jul 15;143(2):419-429. doi: 10.1002/ijc.31310. Epub
 2018 Mar 1. PMID: 29441566; PMCID: [PMC6001442](https://pubmed.ncbi.nlm.nih.gov/29441566/).  
 
-14: **Nabavi N**, Saidy NRN, Venalainen E, Haegert A, Parolia A, Xue H, Wang Y, Wu R,
+16: **Nabavi N**, Saidy NRN, Venalainen E, Haegert A, Parolia A, Xue H, Wang Y, Wu R,
 Dong X, Collins C, Crea F, Wang Y. miR-100-5p inhibition induces apoptosis in
 dormant prostate cancer cells and prevents the emergence of castration-resistant
 prostate cancer. Sci Rep. 2017 Jun 22;7(1):4079. doi:
 10.1038/s41598-017-03731-8. PMID: 28642484; PMCID: [PMC5481412](https://pubmed.ncbi.nlm.nih.gov/28642484/).  
 
-15: Lin D, Ettinger SL, Qu S, Xue H, **Nabavi N**, Choi SYC, Bell RH, Mo F, Haegert
+17: Lin D, Ettinger SL, Qu S, Xue H, **Nabavi N**, Choi SYC, Bell RH, Mo F, Haegert
 AM, Gout PW, Fleshner N, Gleave ME, Pollak M, Collins CC, Wang Y. Metabolic
 heterogeneity signature of primary treatment-naïve prostate cancer. Oncotarget.
 2017 Apr 18;8(16):25928-25941. doi: 10.18632/oncotarget.15237. PMID: 28460430;
 PMCID: [PMC5432227](https://pubmed.ncbi.nlm.nih.gov/28460430/).  
 
-16: **Nabavi N**, Bennewith KL, Churg A, Wang Y, Collins CC, Mutti L. Switching off
+18: **Nabavi N**, Bennewith KL, Churg A, Wang Y, Collins CC, Mutti L. Switching off
 malignant mesothelioma: exploiting the hypoxic microenvironment. Genes Cancer.
 2016 Nov;7(11-12):340-354. doi: 10.18632/genesandcancer.124. PMID: 28191281;
 PMCID: [PMC5302036](https://pubmed.ncbi.nlm.nih.gov/28191281/).  
 
-17: Kim SM, Wang Y, **Nabavi N**, Liu Y, Correia MA. Hepatic cytochromes P450:
+19: Kim SM, Wang Y, **Nabavi N**, Liu Y, Correia MA. Hepatic cytochromes P450:
 structural degrons and barcodes, posttranslational modifications and cellular
 adapters in the ERAD-endgame. Drug Metab Rev. 2016 Aug;48(3):405-33. doi:
 10.1080/03602532.2016.1195403. Epub 2016 Jun 20. PMID: 27320797; PMCID:
 [PMC5094896](https://pubmed.ncbi.nlm.nih.gov/27320797/).  
 
-18: Shin J, He M, Liu Y, Paredes S, Villanova L, Brown K, Qiu X, **Nabavi N**,
+20: Shin J, He M, Liu Y, Paredes S, Villanova L, Brown K, Qiu X, **Nabavi N**,
 Mohrin M, Wojnoonski K, Li P, Cheng HL, Murphy AJ, Valenzuela DM, Luo H, Kapahi
 P, Krauss R, Mostoslavsky R, Yancopoulos GD, Alt FW, Chua KF, Chen D. SIRT7
 represses Myc activity to suppress ER stress and prevent fatty liver disease.
@@ -110,36 +115,36 @@ Cell Rep. 2013 Nov 14;5(3):654-665. doi: 10.1016/j.celrep.2013.10.007. Epub 2013
 Nov 7. Erratum in: Cell Rep. 2013 Dec 12;5(5):1479. PMID: 24210820; PMCID:
 [PMC3888240](https://pubmed.ncbi.nlm.nih.gov/24210820/).  
 
-19: Pustylnik S, Fiorino C, **Nabavi N**, Zappitelli T, da Silva R, Aubin JE,
+21: Pustylnik S, Fiorino C, **Nabavi N**, Zappitelli T, da Silva R, Aubin JE,
 Harrison RE. EB1 levels are elevated in ascorbic Acid (AA)-stimulated
 osteoblasts and mediate cell-cell adhesion-induced osteoblast differentiation. J
 Biol Chem. 2013 Jul 26;288(30):22096-110. doi: 10.1074/jbc.M113.481515. Epub
 2013 Jun 5. PMID: 23740245; PMCID: [PMC3724663](https://pubmed.ncbi.nlm.nih.gov/23740245/).  
 
-20: **Nabavi N**, Pustylnik S, Harrison RE. Rab GTPase mediated procollagen
+22: **Nabavi N**, Pustylnik S, Harrison RE. Rab GTPase mediated procollagen
 trafficking in ascorbic acid stimulated osteoblasts. PLoS One. 2012;7(9):e46265.
 doi: 10.1371/journal.pone.0046265. Epub 2012 Sep 26. PMID: 23050002; PMCID:
 [PMC3458846](https://pubmed.ncbi.nlm.nih.gov/23050002/).  
 
-21: Durand M, Komarova SV, Bhargava A, Trebec-Reynolds DP, Li K, Fiorino C,
+23: Durand M, Komarova SV, Bhargava A, Trebec-Reynolds DP, Li K, Fiorino C,
 Maria O, **Nabavi N**, Manolson MF, Harrison RE, Dixon SJ, Sims SM, Mizianty MJ,
 Kurgan L, Haroun S, Boire G, de Fatima Lucena-Fernandes M, de Brum-Fernandes AJ.
 Monocytes from patients with osteoarthritis display increased osteoclastogenesis
 and bone resorption: the In Vitro Osteoclast Differentiation in Arthritis study.
 Arthritis Rheum. 2013 Jan;65(1):148-58. doi: 10.1002/art.37722. PMID: [23044761](https://pubmed.ncbi.nlm.nih.gov/23044761/).  
 
-22: **Nabavi N**, Khandani A, Camirand A, Harrison RE. Effects of microgravity on
+24: **Nabavi N**, Khandani A, Camirand A, Harrison RE. Effects of microgravity on
 osteoclast bone resorption and osteoblast cytoskeletal organization and
 adhesion. Bone. 2011 Nov;49(5):965-74. doi: 10.1016/j.bone.2011.07.036. Epub
 2011 Aug 2. PMID:[21839189](https://pubmed.ncbi.nlm.nih.gov/21839189/).  
 
-23: Hassanzadeh A, Nitsche M, Armstrong S, **Nabavi N**, Harrison R, Dixon SJ,
+25: Hassanzadeh A, Nitsche M, Armstrong S, **Nabavi N**, Harrison R, Dixon SJ,
 Langbein U, Mittler S. Optical waveguides formed by silver ion exchange in
 Schott SG11 glass for waveguide evanescent field fluorescence microscopy:
 evanescent images of HEK293 cells. J Biomed Opt. 2010 May-Jun;15(3):036018. doi:
 10.1117/1.3443796. PMID:[20615020](https://pubmed.ncbi.nlm.nih.gov/20615020/).  
 
-24: **Nabavi N**, Urukova Y, Cardelli M, Aubin JE, Harrison RE. Lysosome dispersion
+26: **Nabavi N**, Urukova Y, Cardelli M, Aubin JE, Harrison RE. Lysosome dispersion
 in osteoblasts accommodates enhanced collagen production during differentiation.
 J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 2008 May 7. PMID: [18463099](https://pubmed.ncbi.nlm.nih.gov/18463099/).
