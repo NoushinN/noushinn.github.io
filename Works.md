@@ -10,10 +10,10 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
-1: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, Nabavi N, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. Epub ahead of print. PMID: 34571052.
+1: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, Nabavi N, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. Epub ahead of print. [PMID: 34571052](https://pubmed.ncbi.nlm.nih.gov/34571052/).
 
 
-2: Oo HZ, Lohinai Z, Khazamipour N, Lo J, Kumar G, Pihl J, Adomat H, Nabavi N, Behmanesh H, Zhai B, Dagil R, Choudhary S, Gustavsson T, Clausen TM, Esko JD, Allen JW, Thompson MA, Tran NL, Moldvay J, Dome B, Salanti A, Al-Nakouzi N, Weiss GJ, Daugaard M. Oncofetal Chondroitin Sulfate Is a Highly Expressed Therapeutic Target in Non-Small Cell Lung Cancer. Cancers (Basel). 2021 Sep 6;13(17):4489. doi: 10.3390/cancers13174489. PMID: 34503301; PMCID: PMC8430715.
+2: Oo HZ, Lohinai Z, Khazamipour N, Lo J, Kumar G, Pihl J, Adomat H, Nabavi N, Behmanesh H, Zhai B, Dagil R, Choudhary S, Gustavsson T, Clausen TM, Esko JD, Allen JW, Thompson MA, Tran NL, Moldvay J, Dome B, Salanti A, Al-Nakouzi N, Weiss GJ, Daugaard M. Oncofetal Chondroitin Sulfate Is a Highly Expressed Therapeutic Target in Non-Small Cell Lung Cancer. Cancers (Basel). 2021 Sep 6;13(17):4489. doi: 10.3390/cancers13174489. [PMID: 34503301](https://pubmed.ncbi.nlm.nih.gov/34503301/).
 
 3: Ashrafizadeh M, Mirzaei S, Gholami MH, Hashemi F, Zabolian A, Raei M,
 Hushmandi K, Zarrabi A, Voelcker NH, Aref AR, Hamblin MR, Varma RS,
