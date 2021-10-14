@@ -31,9 +31,10 @@ University of Toronto (2006 – 2012)
 Thesis: Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.  
 
 **Certifications**:   
-- Data Analytics using R, Data Camp, Online, 2018-2019   
+- Data Analytics using R, Data Camp and Coursera, Online, 2018-2021  
 - Project Management and Agile Transformation, Mitacs Inc., University of British Columbia, 2017-2019  
-- Teaching best practices, Yale Centre for Integration of Teaching and Learning, 2018   
+- Teaching best practices, Yale Centre for Integration of Teaching and Learning, 2018  
+- Certificate Program in Advanced Teaching and Learning at University of British Columbia, 2018
 - Business Administration for Academics, mini-MBA, University of British Columbia, 2018  
 
 # Professional Experiences
@@ -106,3 +107,10 @@ University of Toronto, Toronto, ON, Canada, September 2005 - December 2011
 24:  Travel Award from 14th Canadian Connective Tissue Conference at McGill University, Montreal, QC,  June 5-7, 2008  
 25:  Travel Award from the American Society for Cell Biology, 47th annual meeting,  San Diego, CA, USA,  December 2007  
 26:  Queen Elizabeth II Aiming for the Top Tuition Scholarship at University of Toronto, Toronto, ON, September 2001   
+
+# Publications
+```{r publications}
+knitr::write_bib(c("forecast", "vitae", "ggquiver", "naniar", "taipan"), "packages.bib")
+bibliography_entries("noushin.bib", "Publications") %>%
+  arrange(desc(issued)) 
+```
