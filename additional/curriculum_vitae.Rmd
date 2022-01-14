@@ -1,6 +1,6 @@
 ---
 name: Noushin Nabavi, PhD
-position: "Economist, BC Ministry of Health"
+current position: "Economist, BC Ministry of Health"
 address: "1515 Blanshard Street, Victoria, BC"
 phone: +1 778-999-1982
 www: noushinn.github.io
