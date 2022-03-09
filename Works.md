@@ -6,7 +6,7 @@ permalink: /Works/
 
 
 ## Thesis
-- Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf), 2012.   
+- Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, 2012, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf).
 
 ## Peer-reviewed research contributions
 
