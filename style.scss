@@ -20,10 +20,12 @@ html {
 }
 
 body {
+  background: url("https://previews.123rf.com/images/kozyrina/kozyrina1502/kozyrina150200026/36488751-tarjeta-de-invitaci%C3%B3n-de-la-vendimia-con-el-patr%C3%B3n-persa-.jpg");
   font-family: Sofia, serif;
   font-size: 17px;
   color: $black;
   background-repeat: no-repeat;
+  background-blend-mode: lighten;
   background-size: auto;
   background-attachment: fixed;
   background-position: centre;
