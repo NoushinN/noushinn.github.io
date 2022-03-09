@@ -109,5 +109,5 @@ exclude:
   - README.md
   - CNAME
 
-theme  : "minimal-mistakes-jekyll"
+theme  : "minimal-mistakes"
 minimal_mistakes_skin    : "plum" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
