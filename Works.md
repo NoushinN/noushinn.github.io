@@ -10,17 +10,17 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
-1: Mirzaei, S., Gholami, M.H., Hushmandi, K. et al. The long and short non-coding RNAs modulating EZH2 signaling in cancer. J Hematol Oncol 15, 18 (2022). doi: 10.1186/s13045-022-01235-1 [PMID](https://rdcu.be/cIyVW)
+1: Sepideh Mirzaei, Mohammad Hossein Gholami, Kiavash Hushmandi, Farid Hshemi, Amirhossein Zabolian, Israel Canadas, Ali Zarrabi, **Nabavi N**, Amir Reza Aref, Francesco Crea, Yuzhuo Wang, Milad Ashrafizadeh, Alan Prem Kumar. The long and short non-coding RNAs modulating EZH2 signaling in cancer. J Hematol Oncol 15, 18 (2022). doi: 10.1186/s13045-022-01235-1 [PMID](https://rdcu.be/cIyVW)
 
 
-2: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, Nabavi N, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. [PMID: 34571052](https://pubmed.ncbi.nlm.nih.gov/34571052/).
+2: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, **Nabavi N**, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. [PMID: 34571052](https://pubmed.ncbi.nlm.nih.gov/34571052/).
 
 
-3: Oo HZ, Lohinai Z, Khazamipour N, Lo J, Kumar G, Pihl J, Adomat H, Nabavi N, Behmanesh H, Zhai B, Dagil R, Choudhary S, Gustavsson T, Clausen TM, Esko JD, Allen JW, Thompson MA, Tran NL, Moldvay J, Dome B, Salanti A, Al-Nakouzi N, Weiss GJ, Daugaard M. Oncofetal Chondroitin Sulfate Is a Highly Expressed Therapeutic Target in Non-Small Cell Lung Cancer. Cancers (Basel). 2021 Sep 6;13(17):4489. doi: 10.3390/cancers13174489. [PMID: 34503301](https://pubmed.ncbi.nlm.nih.gov/34503301/).
+3: Oo HZ, Lohinai Z, Khazamipour N, Lo J, Kumar G, Pihl J, Adomat H, **Nabavi N**, Behmanesh H, Zhai B, Dagil R, Choudhary S, Gustavsson T, Clausen TM, Esko JD, Allen JW, Thompson MA, Tran NL, Moldvay J, Dome B, Salanti A, Al-Nakouzi N, Weiss GJ, Daugaard M. Oncofetal Chondroitin Sulfate Is a Highly Expressed Therapeutic Target in Non-Small Cell Lung Cancer. Cancers (Basel). 2021 Sep 6;13(17):4489. doi: 10.3390/cancers13174489. [PMID: 34503301](https://pubmed.ncbi.nlm.nih.gov/34503301/).
 
 4: Ashrafizadeh M, Mirzaei S, Gholami MH, Hashemi F, Zabolian A, Raei M,
 Hushmandi K, Zarrabi A, Voelcker NH, Aref AR, Hamblin MR, Varma RS,
-Samarghandian S, Arostegi IJ, Alzola M, Kumar AP, Thakur VK, Nabavi N, Makvandi
+Samarghandian S, Arostegi IJ, Alzola M, Kumar AP, Thakur VK, **Nabavi N**, Makvandi
 P, Tay FR, Orive G. Hyaluronic acid-based nanoplatforms for Doxorubicin: A
 review of stimuli-responsive carriers, co-delivery and resistance suppression.
 Carbohydr Polym. 2021 Nov 15;272:118491. doi: 10.1016/j.carbpol.2021.118491.
