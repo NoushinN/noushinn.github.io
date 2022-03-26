@@ -9,7 +9,10 @@ permalink: /Works/
 - Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, 2012, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf).
 
 ## Peer-reviewed research contributions
-1: Ashrafizadeh M, Paskeh MDA, Mirzaei S, Gholami MH, Zarrabi A, Hashemi F, Hushmandi K, Hashemi M, **Nabavi N**, Crea F, Ren J, Klionsky DJ, Kumar AP, Wang Y. Targeting autophagy in prostate cancer: preclinical and clinical evidence for therapeutic response. J Exp Clin Cancer Res 41, 105 (2022). doi.org/10.1186/s13046-022-02293-6. [PMID: 35317831](https://pubmed.ncbi.nlm.nih.gov/35317831/)
+1: Ashrafizadeh M, Paskeh MDA, Mirzaei S, Gholami MH, Zarrabi A, Hashemi F, Hushmandi K, Hashemi M, **Nabavi N**, Crea F, Ren J, Klionsky DJ, Kumar AP, Wang Y. Targeting autophagy in prostate cancer: preclinical and clinical evidence for therapeutic response. J Exp Clin Cancer Res 41, 105 (2022). doi: 10.1186/s13046-022-02293-6. [PMID: 35317831](https://pubmed.ncbi.nlm.nih.gov/35317831/)
+
+2: Mirzaei S, Gholami MH, Hushmandi K, Hshemi F, Zabolian A, Canadas I, Zarrabi A, **Nabavi N**, Aref AR, Crea F, Wang Y, Ashrafizadeh M, Kumar AP. The long and short non-coding RNAs modulating EZH2 signaling in cancer. J Hematol Oncol. 2022 Mar 2;15(1):18. doi: 10.1186/s13045-022-01235-1.
+[PMID: 35236381](https://pubmed.ncbi.nlm.nih.gov/35236381/)
 
 
 3: Ashrafizadeh M, Zarrabi A, Mirzaei S, Hashemi F, Samarghandian S, Zabolian A, Hushmandi K, Ang HL, Sethi G, Kumar AP, Ahn KS, **Nabavi N**, Khan H, Makvandi P, Varma RS. Use of Gallic acid for cancer treatment: Molecular mechanisms and improvement of efficacy by nanoformulations. Food Chem Toxicol. 2021 Sep 24:112576. doi: 10.1016/j.fct.2021.112576. [PMID: 34571052](https://pubmed.ncbi.nlm.nih.gov/34571052/).
