@@ -10,9 +10,9 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 1: Entezari M, Ghanbarirad M, Taheriazam A, Sadrkhanloo M, Zabolian A, Goharrizi MASB, Hushmandi K, Aref AR, Ashrafizadeh M, Zarrabi A, **Nabavi N**, Rabiee N, Hashemi M, Samarghandian S. Long non-coding RNAs and exosomal lncRNAs: Potential functions in lung cancer progression, drug resistance and tumor microenvironment remodeling. Biomed Pharmacother. 2022 Apr 22. doi: 10.1016/j.biopha.2022.112963. 
- [PMID: 35468579](https://pubmed.ncbi.nlm.nih.gov/35439408/)
+ [PMID: 35468579](https://pubmed.ncbi.nlm.nih.gov/35468579/)
  
-2: Madamsetty VS, Mohammadinejad R, Uzieliene I, **Nabavi N**, Dehshahri A, García-Couce J, Tavakol S, Moghassemi S, Dadashzadeh A, Makvandi P, Pardakhty A, Aghaei Afshar A, Seyfoddin A. Dexamethasone: Insights into Pharmacological Aspects, Therapeutic Mechanisms, and Delivery Systems.ACS Biomater Sci Eng. 2022 Apr 19. doi: 10.1021/acsbiomaterials.2c00026. [PMID 35439408](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.2c00026)
+2: Madamsetty VS, Mohammadinejad R, Uzieliene I, **Nabavi N**, Dehshahri A, García-Couce J, Tavakol S, Moghassemi S, Dadashzadeh A, Makvandi P, Pardakhty A, Aghaei Afshar A, Seyfoddin A. Dexamethasone: Insights into Pharmacological Aspects, Therapeutic Mechanisms, and Delivery Systems.ACS Biomater Sci Eng. 2022 Apr 19. doi: 10.1021/acsbiomaterials.2c00026. [PMID 35439408](https://pubmed.ncbi.nlm.nih.gov/35439408/)
 
 
 3: Ashrafizadeh M, Paskeh MDA, Mirzaei S, Gholami MH, Zarrabi A, Hashemi F, Hushmandi K, Hashemi M, **Nabavi N**, Crea F, Ren J, Klionsky DJ, Kumar AP, Wang Y. Targeting autophagy in prostate cancer: preclinical and clinical evidence for therapeutic response. J Exp Clin Cancer Res 41, 105 (2022). doi: 10.1186/s13046-022-02293-6. [PMID: 35317831](https://pubmed.ncbi.nlm.nih.gov/35317831/)
