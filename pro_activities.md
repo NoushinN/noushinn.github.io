@@ -6,7 +6,7 @@ permalink: /Professional Activities/
 
 ## Evaluation & Improvement Committees 
 
-- **2021:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
+- **2021-2022:** Advisor at Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/))    
 - **2021:** Participating Member at International Consortium of Research Staff Associations (ICORSAs)    
 - **2020-2021:** Expert assessment of applications submitted to Health Canada for funding on scientific methodology and merit   
 - **2020-2021:** Experimentation Works advisor at Treasury baord of Canada (EW2) initiative   
@@ -115,6 +115,7 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 
 ## Community-level Volunteering
 
+- **2022:** Victoria Jazz Festival, Victoria, BC 
 - **2019:** Victoria Jazz Festival, Victoria, BC  
 - **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
 - **2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
