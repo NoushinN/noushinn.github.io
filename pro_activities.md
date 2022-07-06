@@ -24,7 +24,6 @@ permalink: /Professional Activities/
 ## Science Outreach & Mentorship
 
 - **2021-2022:** Visiting Research Associate/Scientist at Vancouver Prostate Centre 
-- **2021:** Best of the Wwest podcast at [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html),  Vancouver/Victoria, BC 
 - **2020:** Lead data scientist for Covid-19 hackathon at Devpost, [Build for covid](https://devpost.com/software/co-sol), and Biohackathon  
 - **2015-2020:** Canada Learning Code, Vancouver/Victoria, BC  
 - **2018:** Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) mentor, Victoria, BC  
