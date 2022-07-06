@@ -238,16 +238,16 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 14: Photoblog, [elephile](https://elephile.tumblr.com/).  
 
 ## Media coverage of research-related work 
-
-1: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.   
-2: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
-3: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
-4: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
-5: R-Ladies at Open Source Summit North America, IBM Developer [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.    
-6: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
-7: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
-8: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
-9: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
+1: Best of the Wwest podcast at [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.
+2: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.   
+3: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
+4: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
+5: Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) October 2018.   
+6: R-Ladies at Open Source Summit North America, IBM Developer [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.    
+7: Supporting Rare Disease Research with [BeHeard Technology award](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.  
+8: First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), Jan 28, 2008.  
+9: Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.  
+10: Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), Sep 24, 2007.  
 
 ## Software projects
 
