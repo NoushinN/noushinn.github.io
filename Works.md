@@ -238,7 +238,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 14: Photoblog, [elephile](https://elephile.tumblr.com/).  
 
 ## Media coverage of research-related work 
-1: Best of the Wwest podcast at [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.
+1: Best of the Wwest podcast at [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.  
 2: AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.   
 3: CO SOL video for [Zurich hackathon](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.  
 4: New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.  
