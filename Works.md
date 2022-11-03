@@ -239,7 +239,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 12: Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.   
 13: The legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 01, 2014.   
 14: Photoblog, [elephile](https://elephile.tumblr.com/).    
-15: Blog, 2008-2017, [elephile](https://elephile.blogspot.com/).
+15: Blog, [elephile](https://elephile.blogspot.com/), 2008-2017.  
 
 ## Media coverage of research-related work 
 1: Best of the Wwest podcast at [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.  
