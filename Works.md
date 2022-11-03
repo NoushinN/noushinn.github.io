@@ -164,7 +164,7 @@ Schott SG11 glass for waveguide evanescent field fluorescence microscopy:
 evanescent images of HEK293 cells. J Biomed Opt. 2010 May-Jun;15(3):036018. doi:
 10.1117/1.3443796. PMID:[20615020](https://pubmed.ncbi.nlm.nih.gov/20615020/).  
 
-- **Nabavi N**, Urukova Y, Cardelli M, Aubin JE, Harrison RE. Lysosome dispersion
+-**Nabavi N**, Urukova Y, Cardelli M, Aubin JE, Harrison RE. Lysosome dispersion
 in osteoblasts accommodates enhanced collagen production during differentiation.
 J Biol Chem. 2008 Jul 11;283(28):19678-90. doi: 10.1074/jbc.M802517200. Epub
 2008 May 7. PMID: [18463099](https://pubmed.ncbi.nlm.nih.gov/18463099/).
