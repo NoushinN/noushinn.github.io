@@ -118,7 +118,7 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 
 - **2022:** Harbour Blues 'n' Roots, Victoria, BC  
 - **2022:** Fringe Theatre Festival, Victoria, BC  
-- **2019,2022:** Victoria Jazz Festival, Victoria, BC 
+- **2019, 2022:** Victoria Jazz Festival, Victoria, BC 
 - **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
 - **2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
 - **2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
