@@ -220,7 +220,7 @@ Xenografts. [Front Genet](https://pubmed.ncbi.nlm.nih.gov/30022998/). 2018 Jul 4
 7: McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R; Woolfson, Kathlyn N; **Nabavi, Noushin**: The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data; Policy Memo, [JSPC](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), April 2020.  
 
 ## Blog posts
-1: Iran is using every effort to crush protesters intent on a revolution — except hearing them out
+1: On the Woman, Life, Freedom movement in Iran
 , [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8), November 2022.  
 2: Open and reproducible workflows in the public service, [booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.  
 3: Make a résumé using code, [blog](https://noushinn.github.io/resume/), Jan 2021.  
