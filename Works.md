@@ -10,6 +10,8 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
+-  Hashemi M, Mirdamadi MSA, Talebi Y, Khaniabad N, Banaei G, Daneii P, Gholami S, Ghorbani A, Tavakolpournegari A, Farsani ZM, Zarrabi A, **Nabavi N**, Zandieh MA, Rashidi M, Taheriazam A, Entezari M, Khan H. Pre-clinical and clinical importance of miR-21 in human cancers: Tumorigenesis, therapy response, delivery approaches and targeting agents. Pharmacol Res. 2022 Nov 21:106568. doi: 10.1016/j.phrs.2022.106568. [PMID: 36423787](https://pubmed.ncbi.nlm.nih.gov/36423787/) 
+
 - Hashemi M, Hasani S, Hajimazdarany S, Mirmazloomi SR, Makvandy S, Zabihi A, Goldoost Y, Gholinia N, Kakavand A, Tavakolpournegari A, Salimimoghadam S, **Nabavi N**, Zarrabi A, Taheriazam A, Entezari M, Hushmandi K. Non-coding RNAs targeting notch signaling pathway in cancer: From proliferation to cancer therapy resistance. Int J Biol Macromol. 2022 Sep. 30:S0141-8130(22)02142-0. doi: 10.1016/j.ijbiomac.2022.09.203. [PMID: 36191781](https://pubmed.ncbi.nlm.nih.gov/36191781/) 
 
 - Mirzaei S, Paskeh MDA, Okina E, Gholami MH, Hushmandi K, Hashemi M, Kalu A, Zarrabi A, **Nabavi N**, Rabiee N, Sharifi E, Karimi-Maleh H, Ashrafizadeh M, Kumar AP, Wang Y. Molecular Landscape of LncRNAs in Prostate Cancer: A focus on pathways and therapeutic targets for intervention. J Exp Clin Cancer Res. 2022 Jul 1;41(1):214. doi: 10.1186/s13046-022-02406-1. [PMID: 35773731](https://pubmed.ncbi.nlm.nih.gov/35773731/).
