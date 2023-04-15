@@ -10,6 +10,15 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
+- Hashemi M, Zandieh MA, Ziaolhagh S, Mojtabavi S, Sadi FH, Koohpar ZK, Ghanbarirad M, Haghighatfard A, Behroozaghdam M, Khorrami R, **Nabavi N**, Ren J, Reiter RJ, Salimimoghadam S, Rashidi M, Hushmandi K, Taheriazam A, Entezari M. Nrf2 signaling in diabetic nephropathy, cardiomyopathy and neuropathy: Therapeutic targeting, challenges and future prospective. Biochim Biophys Acta Mol Basis Dis. 2023 Apr 5;1869(5):166714. doi: 10.1016/j.bbadis.2023.166714. Epub ahead of print. [PMID: 37028606](https://pubmed.ncbi.nlm.nih.gov/37028606/)    
+
+- Almajidi YQ, Kadhim MM, Alsaikhan F, Turki Jalil A, Hassan Sayyid N, Alexis Ramírez-Coronel A, Hassan Jawhar Z, Gupta J, **Nabavi N**, Yu W, Ertas YN. Doxorubicin-loaded micelles in tumor cell-specific chemotherapy. Environ Res. 2023 Mar 21;227:115722. doi: 10.1016/j.envres.2023.115722. Epub ahead of print. [PMID: 36948284](https://pubmed.ncbi.nlm.nih.gov/36948284/)   
+
+- Sabouni E, Nejad MM, Mojtabavi S, Khoshduz S, Mojtabavi M, Nadafzadeh N, Nikpanjeh N, Mirzaei S, Hashemi M, Aref AR, Khorrami R, **Nabavi N**, Ertas YN, Salimimoghadam S, Zandieh MA, Rahmanian P, Taheriazam A, Hushmandi K. Unraveling the function of epithelial-mesenchymal transition (EMT) in colorectal cancer: Metastasis, therapy response, and revisiting molecular pathways. Biomed Pharmacother. 2023 Apr;160:114395. doi: 10.1016/j.biopha.2023.114395. Epub 2023 Feb 15. [PMID: 36804124](https://pubmed.ncbi.nlm.nih.gov/36804124/)     
+
+- Hashemi M, Zandieh MA, Talebi Y, Rahmanian P, Shafiee SS, Nejad MM, Babaei R, Sadi FH, Rajabi R, Abkenar ZO, Rezaei S, Ren J, **Nabavi N**, Khorrami R, Rashidi M, Hushmandi K, Entezari M, Taheriazam A. Paclitaxel and docetaxel resistance in prostate cancer: Molecular mechanisms and possible therapeutic strategies. Biomed Pharmacother. 2023 Apr;160:114392. doi: 10.1016/j.biopha.2023.114392. Epub 2023 Feb 15. [PMID: 36804123](https://pubmed.ncbi.nlm.nih.gov/36804123/)  
+
+
 -  Hashemi M, Mirdamadi MSA, Talebi Y, Khaniabad N, Banaei G, Daneii P, Gholami S, Ghorbani A, Tavakolpournegari A, Farsani ZM, Zarrabi A, **Nabavi N**, Zandieh MA, Rashidi M, Taheriazam A, Entezari M, Khan H. Pre-clinical and clinical importance of miR-21 in human cancers: Tumorigenesis, therapy response, delivery approaches and targeting agents. Pharmacol Res. 2022 Nov 21:106568. doi: 10.1016/j.phrs.2022.106568. [PMID: 36423787](https://pubmed.ncbi.nlm.nih.gov/36423787/) 
 
 - Hashemi M, Hasani S, Hajimazdarany S, Mirmazloomi SR, Makvandy S, Zabihi A, Goldoost Y, Gholinia N, Kakavand A, Tavakolpournegari A, Salimimoghadam S, **Nabavi N**, Zarrabi A, Taheriazam A, Entezari M, Hushmandi K. Non-coding RNAs targeting notch signaling pathway in cancer: From proliferation to cancer therapy resistance. Int J Biol Macromol. 2022 Sep. 30:S0141-8130(22)02142-0. doi: 10.1016/j.ijbiomac.2022.09.203. [PMID: 36191781](https://pubmed.ncbi.nlm.nih.gov/36191781/) 
