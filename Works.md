@@ -10,6 +10,61 @@ permalink: /Works/
 
 ## Peer-reviewed research contributions
 
+- Rezaee A, Tehrany PM, Tirabadi FJ, Sanadgol N, Karimi AS, Ajdari A, Eydivandi
+S, Etemad S, Rajabi R, Rahmanian P, Khorrami R, **Nabavi N**, Aref AR, Fan X, Zou R,
+Rashidi M, Zandieh MA, Hushmandi K. Epigenetic regulation of temozolomide
+resistance in human cancers with an emphasis on brain tumors: Function of non-
+coding RNAs. Biomed Pharmacother. 2023 Jul 25;165:115187. doi:
+10.1016/j.biopha.2023.115187. [PMID: 37499452](https://pubmed.ncbi.nlm.nih.gov/37499452/)  
+
+- Rezaei S, Nikpanjeh N, Rezaee A, Gholami S, Hashemipour R, Biavarz N, Yousefi
+F, Tashakori A, Salmani F, Rajabi R, Khorrami R, **Nabavi N**, Ren J, Salimimoghadam
+S, Rashidi M, Zandieh MA, Hushmandi K, Wang Y. PI3K/Akt signaling in urological
+cancers: Tumorigenesis function, therapeutic potential, and therapy response
+regulation. Eur J Pharmacol. 2023 Jul 23;955:175909. doi:
+10.1016/j.ejphar.2023.175909. [PMID: 37490949](https://pubmed.ncbi.nlm.nih.gov/37490949/)  
+
+- Hashemi M, Gholami S, Raesi R, Sarhangi S, Mahmoodieh B, Koohpar ZK,
+Goharrizi MASB, Behroozaghdam M, Entezari M, Salimimoghadam S, Zha W, Rashidi M,
+Abdi S, Taheriazam A, **Nabavi N**. Biological and therapeutic viewpoints towards
+role of miR-218 in human cancers: Revisiting molecular interactions and future
+clinical translations. Cell Signal. 2023 Sep;109:110786. doi:
+10.1016/j.cellsig.2023.110786. [PMID: 37380085](https://pubmed.ncbi.nlm.nih.gov/37380085/)  
+
+- Hashemi M, Abbaszadeh S, Rashidi M, Amini N, Talebi Anaraki K, Motahhary M,
+Khalilipouya E, Harif Nashtifani A, Shafiei S, Ramezani Farani M, **Nabavi N**,
+Salimimoghadam S, Aref AR, Raesi R, Taheriazam A, Entezari M, Zha W. STAT3 as a
+newly emerging target in colorectal cancer therapy: Tumorigenesis, therapy
+response, and pharmacological/nanoplatform strategies. Environ Res. 2023 Jun
+20;233:116458. doi: 10.1016/j.envres.2023.116458. [PMID: 37348629](https://pubmed.ncbi.nlm.nih.gov/37348629/)  
+
+- Karimi K, Mojtabavi S, Tehrany PM, Nejad MM, Rezaee A, Mohtashamian S, Hamedi
+E, Yousefi F, Salmani F, Zandieh MA, **Nabavi N**, Rabiee N, Ertas YN,
+Salimimoghadam S, Rashidi M, Rahmanian P, Hushmandi K, Yu W. Chitosan-based
+nanoscale delivery systems in hepatocellular carcinoma: Versatile bio-platform
+with theranostic application. Int J Biol Macromol. 2023 Jul 1;242(Pt 3):124935.
+doi: 10.1016/j.ijbiomac.2023.124935. [PMID: 37230442](https://pubmed.ncbi.nlm.nih.gov/37230442/)  
+
+- Hashemi M, Sabouni E, Rahmanian P, Entezari M, Mojtabavi M, Raei B, Zandieh
+MA, Behroozaghdam M, Mirzaei S, Hushmandi K, Nabavi N, Salimimoghadam S, Ren J,
+Rashidi M, Raesi R, Taheriazam A, Alexiou A, Papadakis M, Tan SC. Deciphering
+STAT3 signaling potential in hepatocellular carcinoma: tumorigenesis, treatment
+resistance, and pharmacological significance. Cell Mol Biol Lett. 2023 Apr
+21;28(1):33. doi: 10.1186/s11658-023-00438-9. [PMID: 37085753](https://pubmed.ncbi.nlm.nih.gov/37085753/)  
+
+- Al-Rashidi RR, Noraldeen SAM, Kareem AK, Mahmoud AK, Kadhum WR, Ramírez-
+Coronel AA, Iswanto AH, Obaid RF, Jalil AT, Mustafa YF, **Nabavi N**, Wang Y, Wang
+L. Malignant function of nuclear factor-kappaB axis in prostate cancer:
+Molecular interactions and regulation by non-coding RNAs. Pharmacol Res. 2023
+Apr 17;194:106775. doi: 10.1016/j.phrs.2023.106775. [PMID: 37075872](https://pubmed.ncbi.nlm.nih.gov/37075872/)  
+
+- Ebrahimi N, Far NP, Fakhr SS, Faghihkhorasani F, Miraghel SA, Chaleshtori SR,
+Rezaei-Tazangi F, Beiranvand S, Baziyar P, Manavi MS, Zarrabi A, **Nabavi N**, Ren
+J, Aref AR. The endocannabinoid system, a new gatekeeper in the pharmacology of
+human hepatocellular carcinoma. Environ Res. 2023 Jul 1;228:115914. doi:
+10.1016/j.envres.2023.115914. [PMID: 37062475](https://pubmed.ncbi.nlm.nih.gov/37062475/)  
+
+
 - Hashemi M, Zandieh MA, Ziaolhagh S, Mojtabavi S, Sadi FH, Koohpar ZK, Ghanbarirad M, Haghighatfard A, Behroozaghdam M, Khorrami R, **Nabavi N**, Ren J, Reiter RJ, Salimimoghadam S, Rashidi M, Hushmandi K, Taheriazam A, Entezari M. Nrf2 signaling in diabetic nephropathy, cardiomyopathy and neuropathy: Therapeutic targeting, challenges and future prospective. Biochim Biophys Acta Mol Basis Dis. 2023 Apr 5;1869(5):166714. doi: 10.1016/j.bbadis.2023.166714. Epub ahead of print. [PMID: 37028606](https://pubmed.ncbi.nlm.nih.gov/37028606/)    
 
 - Almajidi YQ, Kadhim MM, Alsaikhan F, Turki Jalil A, Hassan Sayyid N, Alexis Ramírez-Coronel A, Hassan Jawhar Z, Gupta J, **Nabavi N**, Yu W, Ertas YN. Doxorubicin-loaded micelles in tumor cell-specific chemotherapy. Environ Res. 2023 Mar 21;227:115722. doi: 10.1016/j.envres.2023.115722. Epub ahead of print. [PMID: 36948284](https://pubmed.ncbi.nlm.nih.gov/36948284/)   
