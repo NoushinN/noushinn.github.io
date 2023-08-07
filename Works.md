@@ -46,7 +46,7 @@ with theranostic application. Int J Biol Macromol. 2023 Jul 1;242(Pt 3):124935.
 doi: 10.1016/j.ijbiomac.2023.124935. [PMID: 37230442](https://pubmed.ncbi.nlm.nih.gov/37230442/)  
 
 - Hashemi M, Sabouni E, Rahmanian P, Entezari M, Mojtabavi M, Raei B, Zandieh
-MA, Behroozaghdam M, Mirzaei S, Hushmandi K, Nabavi N, Salimimoghadam S, Ren J,
+MA, Behroozaghdam M, Mirzaei S, Hushmandi K, **Nabavi N**, Salimimoghadam S, Ren J,
 Rashidi M, Raesi R, Taheriazam A, Alexiou A, Papadakis M, Tan SC. Deciphering
 STAT3 signaling potential in hepatocellular carcinoma: tumorigenesis, treatment
 resistance, and pharmacological significance. Cell Mol Biol Lett. 2023 Apr
