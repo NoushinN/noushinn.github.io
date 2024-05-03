@@ -65,7 +65,7 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 - **2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization   
 
 ## Invited Conference Presentations
-1: Experimental Evidence of Biological Dark Energy and Transfer of Information (The Science of Consciousness, Tucson, AZ, April 2024)
+1: Experimental Evidence of Biological Dark Energy and Transfer of Information (The Science of Consciousness, Tucson, AZ, April 2024)  
 2: Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, February 2021)   
 3: Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship (BC Quality Forum, February 2021)   
 4: Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future (BC Ministry of Health, Knowledge Exchange, Online, November 15, 2020)  
