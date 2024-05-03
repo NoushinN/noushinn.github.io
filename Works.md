@@ -9,6 +9,104 @@ permalink: /Works/
 - Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, 2012, [UofT library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf).
 
 ## Peer-reviewed research contributions
+- Samaei SS, Daryab M, Gholami S, Rezaee A, Fatehi N, Roshannia R, Hashemi S,
+Javani N, Rahmanian P, Amani-Beni R, Zandieh MA, **Nabavi N**, Rashidi M, Malgard N,
+Hashemi M, Taheriazam A. Multifunctional and stimuli-responsive liposomes in
+hepatocellular carcinoma diagnosis and therapy. Transl Oncol. 2024 Apr
+30;45:101975. doi: 10.1016/j.tranon.2024.101975. [PMID:
+38692195](https://pubmed.ncbi.nlm.nih.gov/38692195/)
+
+- Hashem M, Mohandesi Khosroshahi E, Aliahmady M, Ghanei M, Soofi Rezaie Y,
+Alsadat Jafari Y, Rezaei F, Khodaparast Eskadehi R, Kia Kojoori K, Jamshidian F,
+**Nabavi N**, Rashidi M, Hasani Sadi F, Taheriazam A, Entezari M. Non-coding RNA
+transcripts, incredible modulators of cisplatin chemo-resistance in bladder
+cancer through operating a broad spectrum of cellular processes and signaling
+mechanism. Noncoding RNA Res. 2024 Jan 22;9(2):560-582. doi:
+10.1016/j.ncrna.2024.01.009. [PMID: 38515791](https://pubmed.ncbi.nlm.nih.gov/38515791/)
+
+- Hashemi M, Daneii P, Asadalizadeh M, Tabari K, Matinahmadi A, Bidoki SS,
+Motlagh YSM, Jafari AM, Ghorbani A, Dehghanpour A, **Nabavi N**, Tan SC, Rashidi M,
+Taheriazam A, Entezari M, Goharrizi MASB. Epigenetic regulation of
+hepatocellular carcinoma progression: MicroRNAs as therapeutic, diagnostic and
+prognostic factors. Int J Biochem Cell Biol. 2024 May;170:106566. doi:
+10.1016/j.biocel.2024.106566. Epub 2024 Mar 20. [PMID: 38513802](https://pubmed.ncbi.nlm.nih.gov/38513802/)
+
+- Ebrahimi N, Manavi MS, Faghihkhorasani F, Fakhr SS, Baei FJ, Khorasani FF,
+Zare MM, Far NP, Rezaei-Tazangi F, Ren J, Reiter RJ, **Nabavi N**, Aref AR, Chen C,
+Ertas YN, Lu Q. Harnessing function of EMT in cancer drug resistance: a
+metastasis regulator determines chemotherapy response. Cancer Metastasis Rev.
+2024 Mar;43(1):457-479. doi: 10.1007/s10555-023-10162-7. Epub 2024 Jan 16. [PMID:
+38227149](https://pubmed.ncbi.nlm.nih.gov/38227149/)
+
+- Baniasadi M, Talebi S, Mokhtari K, Zabolian AH, Khosroshahi EM, Entezari M,
+Dehkhoda F, **Nabavi N**, Hashemi M. Role of non-coding RNAs in osteoporosis. Pathol
+Res Pract. 2024 Jan;253:155036. doi: 10.1016/j.prp.2023.155036. Epub 2023 Dec
+13. [PMID: 38134836](https://pubmed.ncbi.nlm.nih.gov/38134836/)
+
+- Karimi B, Mokhtari K, Rozbahani H, Peymani M, **Nabavi N**, Entezari M, Rashidi
+M, Taheriazam A, Ghaedi K, Hashemi M. Pathological roles of miRNAs and
+pseudogene-derived lncRNAs in human cancers, and their comparison as
+prognosis/diagnosis biomarkers. Pathol Res Pract. 2024 Jan;253:155014. doi:
+10.1016/j.prp.2023.155014. Epub 2023 Dec 12. [PMID: 38128189](https://pubmed.ncbi.nlm.nih.gov/38128189/)
+
+- Hashemi M, Nazdari N, Gholamiyan G, Paskeh MDA, Jafari AM, Nemati F, Khodaei
+E, Abyari G, Behdadfar N, Raei B, Raesi R, **Nabavi N**, Hu P, Rashidi M, Taheriazam
+A, Entezari M. EZH2 as a potential therapeutic target for gastrointestinal
+cancers. Pathol Res Pract. 2024 Jan;253:154988. doi: 10.1016/j.prp.2023.154988.
+Epub 2023 Nov 29. [PMID: 38118215](https://pubmed.ncbi.nlm.nih.gov/38118215/)
+
+- Hashemi M, Esbati N, Rashidi M, Gholami S, Raesi R, Bidoki SS, Goharrizi
+MASB, Motlagh YSM, Khorrami R, Tavakolpournegari A, **Nabavi N**, Zou R,
+Mohammadnahal L, Entezari M, Taheriazam A, Hushmandi K. Biological landscape and
+nanostructural view in development and reversal of oxaliplatin resistance in
+colorectal cancer. Transl Oncol. 2024 Feb;40:101846. doi:
+10.1016/j.tranon.2023.101846. Epub 2023 Dec 1. [PMID: 38042134](https://pubmed.ncbi.nlm.nih.gov/38042134/)
+
+- Hashemi M, Khosroshahi EM, Chegini MK, Abedi M, Matinahmadi A, Hosnarody YSD,
+Rezaei M, Saghari Y, Fattah E, Abdi S, Entezari M, **Nabavi N**, Rashidi M, Raesi R,
+Taheriazam A. miRNAs and exosomal miRNAs in lung cancer: New emerging players in
+tumor progression and therapy response. Pathol Res Pract. 2023 Nov;251:154906.
+doi: 10.1016/j.prp.2023.154906. Epub 2023 Oct 26. [PMID: 37939448](https://pubmed.ncbi.nlm.nih.gov/37939448/)
+
+- Sadrkhanloo M, Paskeh MDA, Hashemi M, Raesi R, Bahonar A, Nakhaee Z,
+Entezari M, Beig Goharrizi MAS, Salimimoghadam S, Ren J, **Nabavi N**, Rashidi M,
+Dehkhoda F, Taheriazam A, Tan SC, Hushmandi K. New emerging targets in
+osteosarcoma therapy: PTEN and PI3K/Akt crosstalk in carcinogenesis. Pathol Res
+Pract. 2023 Nov;251:154902. doi: 10.1016/j.prp.2023.154902. Epub 2023 Oct 21.
+[PMID: 37922723](https://pubmed.ncbi.nlm.nih.gov/37922723/)
+
+- Hashemi M, Razzazan M, Bagheri M, Asadi S, Jamali B, Khalafi M, Azimi A, Rad
+S, Behroozaghdam M, **Nabavi N**, Rashidi M, Dehkhoda F, Taheriazam A, Entezari M.
+Versatile function of AMPK signaling in osteosarcoma: An old player with new
+emerging carcinogenic functions. Pathol Res Pract. 2023 Nov;251:154849. doi:
+10.1016/j.prp.2023.154849. Epub 2023 Oct 4. [PMID: 37837858](https://pubmed.ncbi.nlm.nih.gov/37837858/)
+
+- Yenki P, Bhasin S, Liu L, **Nabavi N**, Cheng CW, Tam KJ, Peacock JW, Adomat HH,
+Tombe T, Fazli L, Ivanova L, Dusek C, Khosravi S, Guns EST, Wang Y, Buttyan R,
+Gleave ME, Ong CJ. Semaphorin 3C promotes de novo steroidogenesis in prostate
+cancer cells. Endocr Relat Cancer. 2023 Nov 6;30(12):e230010. doi:
+10.1530/ERC-23-0010. [PMID: 37800655](https://pubmed.ncbi.nlm.nih.gov/37800655/)
+
+- Tehrany PM, Rahmanian P, Rezaee A, Ranjbarpazuki G, Sohrabi Fard F,
+Asadollah Salmanpour Y, Zandieh MA, Ranjbarpazuki A, Asghari S, Javani N, **Nabavi
+N**, Aref AR, Hashemi M, Rashidi M, Taheriazam A, Motahari A, Hushmandi K.
+Multifunctional and theranostic hydrogels for wound healing acceleration: An
+emphasis on diabetic-related chronic wounds. Environ Res. 2023 Dec 1;238(Pt
+1):117087. doi: 10.1016/j.envres.2023.117087. Epub 2023 Sep 15. [PMID: 37716390](https://pubmed.ncbi.nlm.nih.gov/37716390/)
+
+- Sadeghi MS, Sangrizeh FH, Jahani N, Abedin MS, Chaleshgari S, Ardakan AK,
+Baeelashaki R, Ranjbarpazuki G, Rahmanian P, Zandieh MA, **Nabavi N**, Aref AR,
+Salimimoghadam S, Rashidi M, Rezaee A, Hushmandi K. Graphene oxide
+nanoarchitectures in cancer therapy: Drug and gene delivery, phototherapy,
+immunotherapy, and vaccine development. Environ Res. 2023 Nov 15;237(Pt
+2):117027. doi: 10.1016/j.envres.2023.117027. Epub 2023 Sep 1. [PMID: 37659647](https://pubmed.ncbi.nlm.nih.gov/37659647/)
+
+- Zandieh MA, Farahani MH, Daryab M, Motahari A, Gholami S, Salmani F, Karimi
+F, Samaei SS, Rezaee A, Rahmanian P, Khorrami R, Salimimoghadam S, **Nabavi N**, Zou
+R, Sethi G, Rashidi M, Hushmandi K. Stimuli-responsive (nano)architectures for
+phytochemical delivery in cancer therapy. Biomed Pharmacother. 2023
+Oct;166:115283. doi: 10.1016/j.biopha.2023.115283. Epub 2023 Aug 9. [PMID:
+37567073](https://pubmed.ncbi.nlm.nih.gov/37567073/)
 
 - Rezaee A, Tehrany PM, Tirabadi FJ, Sanadgol N, Karimi AS, Ajdari A, Eydivandi
 S, Etemad S, Rajabi R, Rahmanian P, Khorrami R, **Nabavi N**, Aref AR, Fan X, Zou R,
