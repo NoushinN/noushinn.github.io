@@ -40,8 +40,7 @@ metastasis regulator determines chemotherapy response. Cancer Metastasis Rev.
 
 - Baniasadi M, Talebi S, Mokhtari K, Zabolian AH, Khosroshahi EM, Entezari M,
 Dehkhoda F, **Nabavi N**, Hashemi M. Role of non-coding RNAs in osteoporosis. Pathol
-Res Pract. 2024 Jan;253:155036. doi: 10.1016/j.prp.2023.155036. Epub 2023 Dec
-13. [PMID: 38134836](https://pubmed.ncbi.nlm.nih.gov/38134836/)
+Res Pract. 2024 Jan;253:155036. doi: 10.1016/j.prp.2023.155036. Epub 2023 Dec. [PMID: 38134836](https://pubmed.ncbi.nlm.nih.gov/38134836/)
 
 - Karimi B, Mokhtari K, Rozbahani H, Peymani M, **Nabavi N**, Entezari M, Rashidi
 M, Taheriazam A, Ghaedi K, Hashemi M. Pathological roles of miRNAs and
