@@ -65,35 +65,35 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 - **2002-2004:** Community outreach for [Best Buddies](http://individual.utoronto.ca/BestBuddies/contact.html) Canada Organization   
 
 ## Invited Conference Presentations
-
-1: Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, February 2021)   
-2: Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship (BC Quality Forum, February 2021)   
-3: Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future (BC Ministry of Health, Knowledge Exchange, Online, November 15, 2020)  
-4: Adapting to a New Normal: The Effect of Covid-19 on the Next Generation of Scientists (Canadian Science Policy Conference, Virtual, November 16-20, 2020)  
-5: Pandemics and postdocs: COVID survey findings (Postdoc Appreciation Week, Virtual, September 17, 2020)  
-6: CAPS survey findings related to COVID-19 (National meeting on postdoc affairs organized by the University of Western Ontario, Virtual, July 31, 2020)  
-7: Reproducible analytic workflows in the public service (Data and Analytics Conference, Vancouver, BC, February 15, 2020)  
-8: Health systems administrative data integration to support data-driven decision making (Ministry of Health’s Knowledge Exchange Talk Series, Government of BC, Victoria, BC, January 22, 2020)  
-9: Using administrative data to evaluate programs and services (Public Service Agency, Victoria, BC, January 21, 2020)  
-10: Delivering bundles of care through deciphering government programs and services (Academic Health Science Network, Victoria, BC, January 20, 2020)  
-11: Open source data and data science to enable integrated data projects (Island Health, Victoria, BC, September 2019)  
-12: Implementing reproducible analytic workflows in the public service (University of Victoria, Victoria, BC, August 2019)  
-13: From messy to tidy: reproducible analytic workflows for data analysis (BCDev Exchange, Victoria, BC, May 2019)  
-14: Healing old wounds, Institute of Public Administration of Canada, Policy Pitch (Victoria Event Centre, Victoria, BC, October 2018)  
-15: Expression and regulation of chondroitin sulfate in prostate cancer (American Association of Cancer Research, Chicago, IL, July 2018)  
-16: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Ottawa, ON, May 2018)  
-17: Comprehensive molecular characterization of peritoneal mesothelioma, Vancouver Prostate Centre Friday Seminar (Vancouver, BC, February 2017)  
-18: Cytochrome P450 degradation in hepatocytes and implications in drug metabolism, UCSF Postdoctoral Symposium, Gladstone, UCSF Mission Bay (San Francisco, CA,  June 2014)  
-19: SIRT2’s role in stem cell biology, Berkeley Stem Cell Center Retreat, Fred Farr Forum (Asilomar, CA,  April 2012 and 2013)  
-20: Rab-3 mediated collagen trafficking in differentiating osteoblasts, 16th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, June 3-5, 2010)  
-21: Delineating collagen trafficking pathway in differentiating osteoblasts, 15th Canadian Connective Tissue Conference (CCTC) (Calgary, July 17-18, 2009)  
-22: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 14th Canadian Connective Tissue Conference (CCTC) (Montreal, QC, June 5-7, 2008)  
-23: Osteoblast differentiation in microgravity environments, 14th Canadian Connective Tissue Conference (CCTC) (Halifax, NS, June 5-7, 2007)  
-24: Lysosome dispersion in osteoblasts accommodates enhanced collagen production during differentiation, 13th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, May 24-26, 2006)  
+1: Experimental Evidence of Biological Dark Energy and Transfer of Information (The Science of Consciousness, Tucson, AZ, April 2024)
+2: Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections (BC Quality Forum, February 2021)   
+3: Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship (BC Quality Forum, February 2021)   
+4: Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future (BC Ministry of Health, Knowledge Exchange, Online, November 15, 2020)  
+5: Adapting to a New Normal: The Effect of Covid-19 on the Next Generation of Scientists (Canadian Science Policy Conference, Virtual, November 16-20, 2020)  
+6: Pandemics and postdocs: COVID survey findings (Postdoc Appreciation Week, Virtual, September 17, 2020)  
+7: CAPS survey findings related to COVID-19 (National meeting on postdoc affairs organized by the University of Western Ontario, Virtual, July 31, 2020)  
+8: Reproducible analytic workflows in the public service (Data and Analytics Conference, Vancouver, BC, February 15, 2020)  
+9: Health systems administrative data integration to support data-driven decision making (Ministry of Health’s Knowledge Exchange Talk Series, Government of BC, Victoria, BC, January 22, 2020)  
+10: Using administrative data to evaluate programs and services (Public Service Agency, Victoria, BC, January 21, 2020)  
+11: Delivering bundles of care through deciphering government programs and services (Academic Health Science Network, Victoria, BC, January 20, 2020)  
+12: Open source data and data science to enable integrated data projects (Island Health, Victoria, BC, September 2019)  
+13: Implementing reproducible analytic workflows in the public service (University of Victoria, Victoria, BC, August 2019)  
+14: From messy to tidy: reproducible analytic workflows for data analysis (BCDev Exchange, Victoria, BC, May 2019)  
+15: Healing old wounds, Institute of Public Administration of Canada, Policy Pitch (Victoria Event Centre, Victoria, BC, October 2018)  
+16: Expression and regulation of chondroitin sulfate in prostate cancer (American Association of Cancer Research, Chicago, IL, July 2018)  
+17: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Ottawa, ON, May 2018)  
+18: Comprehensive molecular characterization of peritoneal mesothelioma, Vancouver Prostate Centre Friday Seminar (Vancouver, BC, February 2017)  
+19: Cytochrome P450 degradation in hepatocytes and implications in drug metabolism, UCSF Postdoctoral Symposium, Gladstone, UCSF Mission Bay (San Francisco, CA,  June 2014)  
+20: SIRT2’s role in stem cell biology, Berkeley Stem Cell Center Retreat, Fred Farr Forum (Asilomar, CA,  April 2012 and 2013)  
+21: Rab-3 mediated collagen trafficking in differentiating osteoblasts, 16th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, June 3-5, 2010)  
+22: Delineating collagen trafficking pathway in differentiating osteoblasts, 15th Canadian Connective Tissue Conference (CCTC) (Calgary, July 17-18, 2009)  
+23: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 14th Canadian Connective Tissue Conference (CCTC) (Montreal, QC, June 5-7, 2008)  
+24: Osteoblast differentiation in microgravity environments, 14th Canadian Connective Tissue Conference (CCTC) (Halifax, NS, June 5-7, 2007)  
+25: Lysosome dispersion in osteoblasts accommodates enhanced collagen production during differentiation, 13th Canadian Connective Tissue Conference (CCTC) (Toronto, ON, May 24-26, 2006)  
 
 ## Invited Conference Posters
 
-1: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
+1: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020/2022 - turned virtual for COVID)  
 2: Evaluation of Depression, Anxiety, Stress and Headache Indices in Migraine Patients During Conventional Therapies Under Influence of Consciousness Fields [in lieu of S. Behbudi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
 3: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. 12th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2018)  
 4: Expression and regulation of chondroitin sulfate in prostate cancer (Vancouver General Hospital, BC, 2018)  
@@ -116,8 +116,8 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 
 ## Community-level Volunteering
 
+- **2018-2024:** Victoria Jazz Festival, Victoria, BC
 - **2018-2023:** Fringe Theatre Festival, Victoria, BC  
-- **2018-2023:** Victoria Jazz Festival, Victoria, BC  
 - **2022:** Harbour Blues 'n' Roots, Victoria, BC  
 - **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
 - **2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
