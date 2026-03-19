@@ -93,32 +93,33 @@ organizing meetings, facilitate and initiate holding of workshops and symposia o
 
 ## Invited Conference Posters
 
-1: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020/2022 - turned virtual for COVID)  
-2: Evaluation of Depression, Anxiety, Stress and Headache Indices in Migraine Patients During Conventional Therapies Under Influence of Consciousness Fields [in lieu of S. Behbudi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
-3: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. 12th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2018)  
-4: Expression and regulation of chondroitin sulfate in prostate cancer (Vancouver General Hospital, BC, 2018)  
-5: Oncofetal glycosaminoglycan signature provides therapeutic potential for malignant mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment - Options conference (Vancouver General Hospital, Vancouver, BC, June 2017)  
-6: Comprehensive multi-omics characterization of the rare malignant peritoneal mesothelioma, 11th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2017)  
-7: An oncofetal glycosaminoglycan modification provides therapeutic access to mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment Options conference (Cancun, Mexico, March 2017)  
-8: Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Birmingham, UK, May 2016)  
-9: Molecular landscape of pleural mesothelioma poster presentation at 10th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2015-2016)  
-10: Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA,  June 2013)  
-11: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA,  December 11-15, 2010)  
-12: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego,  December 5-11, 2009)  
-13: In vitro Osteoclast Differentiation in Arthritis (IODA) project: Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
-14: Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON,  May 12-16, 2009)  
-15: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC,  September 12, 16, 2008)  
-16: Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC,  July 13-20, 2008)  
-17: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC,  September 12-16, 2008)  
-18: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C.,  December 1-5, 2007)  
-19: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, NS,  October 11-13, 2007)  
-20: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, December 9-13, 2006)  
+1: Alternative Molecular Models of Mind, (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 22 – 27, 2024)  
+2: Alleviative Effects Of Meta-therapy Consciousness Field On Triticumaestivum.l Under Salinity Stress [in lieu of S. Torabi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020/2022 - turned virtual for COVID)  
+3: Evaluation of Depression, Anxiety, Stress and Headache Indices in Migraine Patients During Conventional Therapies Under Influence of Consciousness Fields [in lieu of S. Behbudi & MA. Taheri] (The Science of Consciousness Conference, Lowes Ventana Canyon Resort, Tucson, AZ, April 13-18, 2020 - went virtual for COVID)  
+4: BAP1 creates a potential therapeutic vulnerability in malignant peritoneal mesothelioma. 12th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2018)  
+5: Expression and regulation of chondroitin sulfate in prostate cancer (Vancouver General Hospital, BC, 2018)  
+6: Oncofetal glycosaminoglycan signature provides therapeutic potential for malignant mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment - Options conference (Vancouver General Hospital, Vancouver, BC, June 2017)  
+7: Comprehensive multi-omics characterization of the rare malignant peritoneal mesothelioma, 11th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2017)  
+8: An oncofetal glycosaminoglycan modification provides therapeutic access to mesothelioma, poster presentation at Cell Death, Cell Stress and Metabolism Conference: From Basic Mechanisms to Novel Treatment Options conference (Cancun, Mexico, March 2017)  
+9: Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas poster presentation at International Mesothelioma Interest Group (Birmingham, UK, May 2016)  
+10: Molecular landscape of pleural mesothelioma poster presentation at 10th Lorne D. Sullivan Lectureship and Research Day (Vancouver General Hospital, Vancouver, BC, June 2015-2016)  
+11: Cytochrome P450 degradation in hepatocytes, UCSF Postdoctoral Symposium, UCSF Mission Bay, poster presentation (San Francisco, CA,  June 2013)  
+12: Rab mediated collagen trafficking in differentiating osteoblasts, 50th American Society for Cell Biology (ASCB) conference (Philadelphia, PA,  December 11-15, 2010)  
+13: Rab-1 mediated collagen trafficking in differentiating osteoblasts, 49th American Society for Cell Biology (ASCB) conference (San Diego,  December 5-11, 2009)  
+14: In vitro Osteoclast Differentiation in Arthritis (IODA) project: Osteoclastogenesis as a marker of presence and activity of disease in Arthritis, Canadian 2009 Annual Scientific Conference (Vancouver, BC, November 19-21, 2009)  
+15: Mechanism of collagen trafficking in bone cells, 48th Annual meeting of the Canadian Society of Zoologists (CSZ) (Toronto, ON,  May 12-16, 2009)  
+16: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, 30th international conference of ASBMR (Montreal, QC,  September 12, 16, 2008)  
+17: Compromised Adhesion of Osteoblasts in Microgravity Environment, 37th Committee on Space Research (COSPAR) conference (Montreal, QC,  July 13-20, 2008)  
+18: Cytoskeleton and adhesion alteration in osteoblasts in microgravity environment, the 30th ASBMR Annual Meeting (Montreal, QC,  September 12-16, 2008)  
+19: Modulation of the osteoblasts cytoskeleton in microgravity environment, the 47th American Society for Cell Biology (ASCB) conference (Washington D.C.,  December 1-5, 2007)  
+20: Lysosome secretion by bone cells under normal and pathological conditions including rheumatoid and osteoarthritis. Poster presentation at the Canadian Arthritis Network (CAN) Annual Scientific Conference (Halifax, NS,  October 11-13, 2007)  
+21: Cellular trafficking of lysosomes in osteoblasts, 46th American Society for Cell Biology (ASCB) conference (San Francisco, CA, December 9-13, 2006)  
 
 ## Community-level Volunteering
 
-- **2018-2024:** Victoria Jazz Festival, Victoria, BC
+- **2018-2026:** Victoria Jazz Festival, Victoria, BC
+- **2022-2026:** Harbour Blues 'n' Roots, Victoria, BC  
 - **2018-2023:** Fringe Theatre Festival, Victoria, BC  
-- **2022:** Harbour Blues 'n' Roots, Victoria, BC  
 - **2018:** Vancouver Opera Festival volunteer, Vancouver, BC  
 - **2015-2018:** Vancouver International Film Festival (VIFF), Vancouver, BC  
 - **2015-2018:** International Performing arts Festival (Push), Vancouver, BC  
