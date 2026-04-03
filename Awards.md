@@ -8,6 +8,7 @@ permalink: /Awards/
 
 | **Description**   |      **Location**      |  **Date** |
 |:----------|:-------------:|------:|
+| Wiley Top Cited Article Award Certificate | Journal of Cell Communication and Signaling | 2025 |
 | Canadian Mitacs Science Policy [Fellowship](https://www.mitacs.ca/en/newsroom/news-release/laboratory-legislature-fellowship-deploys-22-researchers-government) | UVic/BC Ministry of Health, Victoria, BC | 2019-2020  |
 | Finalist team for BC Premier’s Award in Evidence-Based Design for Children and Youth Mental Health Integrated data project |  BC Ministry of Citizens' Services, Victoria, BC | 2019 |
 | Third place for designing prosthetic hand tools at Health and Regenerative Medicine [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php) (donation of Award to Victoria Hand Project) | University of Victoria, Victoria, BC | 2019|
