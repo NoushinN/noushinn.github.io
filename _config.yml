@@ -17,4 +17,24 @@ header_pages:
   - professional-activities.md
   - awards.md
 
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: NoushinN
+  instagram:
+  linkedin: noushin-nabavi
+  orcid_id: 0000-0002-5471-6229
+  pinterest:
+  rss:
+  twitter: nabavinoushin
+  stackoverflow:
+  resume_google_scholar_url: "https://scholar.google.ca/citations?user=-HpjhzMAAAAJ&hl=en"
+  research_gate_profile: profile/Noushin-Nabavi-2
+  youtube:
+  tumblr:
+  tumblrr:
+  medium: "@nabavinoushin"
+
 google_analytics: G-5LJV5S16HQ

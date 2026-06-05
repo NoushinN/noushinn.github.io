@@ -8,77 +8,46 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 
 ## Science policy research, opinions, and perspectives
 
-- **Noushin Nabavi**, *Healthwiser: Monitoring and evaluation of surgical outcomes*, Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.
-
+- Healthwiser: Monitoring and evaluation of surgical outcomes, Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER), December 2020.
 - Canadian Association of Postdoctoral Scholars' Year in Review at Annual General Meeting, [CAPS-ACSP](https://www.caps-acsp.ca/wp-content/uploads/2020/09/CAPS-2020-AGM-Year-in-Review.pdf), December 2020.
-
-- McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R.; Woolfson, Kathlyn N.; **Nabavi, Noushin**. *Boosting the volume and speed of genetic sequencing comes with challenges*, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.
-
-- **Nabavi, Noushin**. *Initiating an Experiment*, Zenodo, 2020. doi:10.5281/zenodo.4083752, [OpenAIRE](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), October 2020.
-
-- **Noushin Nabavi**, *Coronavirus shining a spotlight on homo sapiens*, Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2020.
-
-- Christine Gibb, **Noushin Nabavi**, Qutuba Karwi, Emma Griffiths. *Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars*, Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 2020.
-
-- McGuirk, Shawn; Sultmanis, Stefanie; Westwood, Alana R.; Woolfson, Kathlyn N.; **Nabavi, Noushin**. *The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data*, Policy Memo, [Journal of Science Policy & Governance](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), April 2020.
+- Boosting the volume and speed of genetic sequencing comes with challenges, [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges), November 2020.
+- Initiating an Experiment, Zenodo, 2020. doi:10.5281/zenodo.4083752, [OpenAIRE](https://explore.openaire.eu/search/publication?articleId=od______2659::354cab8725d9a6d5277d24e9763c272b), October 2020.
+- Coronavirus shining a spotlight on homo sapiens, Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/), June 2020.
+- Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars, Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/), May 2020.
+- The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data, Policy Memo, [Journal of Science Policy & Governance](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html), April 2020.
 
 ## Public writing and blog posts
 
-- *On the Woman, Life, Freedom movement in Iran*, [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8), November 2022.
-
-- *Open and reproducible workflows in the public service*, [Booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.
-
-- *Make a résumé using code*, [Blog](https://noushinn.github.io/resume/), January 2021.
-
-- *Initiating an experiment in the public service*, [Booklet](https://noushinn.github.io/experimentation_course/), November 2020.
-
-- *To code or not to code*, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), April 13, 2020.
-
-- *Hacking Disease and Death*, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), June 30, 2019.
-
-- *From messy to tidy: the case for a data science workflow*, [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.
-
-- *Disruption by Design*, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), November 30, 2018.
-
-- *Technical Considerations for Longitudinal Data Analyses*, [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), October 24, 2018.
-
-- *Menu for preparing data & serving it cold*, [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), October 19, 2018.
-
-- *Metacognition in the Data Age*, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), October 6, 2018.
-
-- *Data Renaissance: Creating Data-driven Cultures*, [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), September 21, 2018.
-
-- *Many Career Paths for PhDs*, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.
-
-- *The Legend of Gilgamesh*, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 1, 2014.
-
-- *The Legend of Gilgamesh*, [Ancient Origins](https://www.ancient-origins.net/myths-legends/myth-gilgamesh-001927), August 2014.
-
+- On the Woman, Life, Freedom movement in Iran, [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8), November 2022.
+- Open and reproducible workflows in the public service, [Booklet](https://noushinn.github.io/reproducible_workflows/), February 2021.
+- Make a résumé using code, [Blog](https://noushinn.github.io/resume/), January 2021.
+- Initiating an experiment in the public service, [Booklet](https://noushinn.github.io/experimentation_course/), November 2020.
+- To code or not to code, [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04), April 13, 2020.
+- Hacking Disease and Death, [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5), June 30, 2019.
+- From messy to tidy: the case for a data science workflow, [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c), May 4, 2019.
+- Disruption by Design, [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3), November 30, 2018.
+- Technical Considerations for Longitudinal Data Analyses, [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e), October 24, 2018.
+- Menu for preparing data & serving it cold, [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695), October 19, 2018.
+- Metacognition in the Data Age, [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb), October 6, 2018.
+- Data Renaissance: Creating Data-driven Cultures, [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79), September 21, 2018.
+- Many Career Paths for PhDs, [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds), November 19, 2014.
+- The Legend of Gilgamesh, [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d), August 1, 2014.
+- The Legend of Gilgamesh, [Ancient Origins](https://www.ancient-origins.net/myths-legends/myth-gilgamesh-001927), August 2014.
 - Photoblog, [elephile](https://elephile.tumblr.com/).
-
-- Blog, [elephile](https://elephile.blogspot.com/), 2008–2017.
+- Blog, [elephile](https://elephile.blogspot.com/), 2008–2017..
 
 ## Media coverage and interviews
 
-- *Best of the WWEST podcast*, [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.
-
-- *AI powered Healthcare Solutions Against COVID19*, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.
-
-- *CO-SOL video for Zurich hackathon*, [YouTube](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.
-
-- *New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma*, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.
-
-- *Postdoc Careers Panel at Research Day*, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/), October 2018.
-
-- *R-Ladies at Open Source Summit North America*, IBM Developer, [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.
-
-- *Supporting Rare Disease Research with BeHeard Technology Award*, [Addgene Blog](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.
-
-- *First-person account: Graduate student turns rocket scientist*, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), January 28, 2008.
-
-- *Bone cells space out*, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.
-
-- *Blasting off: Professor's research goes up in space*, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), September 24, 2007.
+- Best of the WWEST podcast, [SFU](https://www.sfu.ca/wwest/projects/best-of-the-WWEST/episode-90-noushin-nabavi.html), February 2021.
+- AI powered Healthcare Solutions Against COVID19, [Women in Big Data](https://www.youtube.com/watch?v=QWkKINi8u4o), May 2020.
+- CO-SOL video for Zurich hackathon, [YouTube](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title), March 2020.
+- New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma, [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma), June 2019.
+- Postdoc Careers Panel at Research Day, [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/), October 2018.
+- R-Ladies at Open Source Summit North America, IBM Developer, [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/), October 2018.
+- Supporting Rare Disease Research with BeHeard Technology Award, [Addgene Blog](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017), 2017.
+- First-person account: Graduate student turns rocket scientist, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940), January 28, 2008.
+- Bone cells space out, [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html), March 6, 2008.
+- Blasting off: Professor's research goes up in space, [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683), September 24, 2007.
 
 ## Evaluation, advisory, and committee work
 
@@ -93,7 +62,7 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 | 2019–2020 | [Program committee member](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf); contributed to conference program development | Canadian Science Policy Centre |
 | 2019 | Vice Chair of Career Development; contributed to career development strategies for Canadian postdocs and helped organize the annual general meeting | Canadian Association of Postdoctoral Scholars, Dalhousie University, Halifax, NS |
 | 2019 | Participant and session facilitator | Chief Information Officer’s BC Connect conference, Victoria, BC |
-| 2019 | Facilitator | Policy Community of Practice, *Making it Real: Putting Policy into Practice*, Victoria, BC |
+| 2019 | Facilitator | Policy Community of Practice, Making it Real: Putting Policy into Practice, Victoria, BC |
 | 2018–2019 | [Evaluation and Survey committee member](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf); analyzed and reported conference survey data | Canadian Science Policy Centre |
 | 2018–2020 | Data and privacy analyst | Institute of Public Administration of Canada New Professionals, Victoria, BC |
 | 2018–2019 | Hackseq hackathon organizing committee member and team lead | University of British Columbia, Vancouver, BC |
@@ -144,96 +113,53 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 
 ## Invited conference presentations
 
-1. Experimental Evidence of Biological Dark Energy and Transfer of Information, *The Science of Consciousness*, Tucson, AZ, April 2024.
-
-2. Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections, *BC Quality Forum*, February 2021.
-
-3. Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship, *BC Quality Forum*, February 2021.
-
-4. Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future, *BC Ministry of Health Knowledge Exchange*, November 15, 2020.
-
-5. Adapting to a New Normal: The Effect of COVID-19 on the Next Generation of Scientists, *Canadian Science Policy Conference*, Virtual, November 16–20, 2020.
-
-6. Pandemics and Postdocs: COVID Survey Findings, *Postdoc Appreciation Week*, Virtual, September 17, 2020.
-
+1. Experimental Evidence of Biological Dark Energy and Transfer of Information, The Science of Consciousness, Tucson, AZ, April 2024.
+2. Long-Term Impacts of the Enhanced Recovery Collaborative on Colorectal Surgical Site Infections, BC Quality Forum, February 2021.
+3. Variation in Rates of Dispensing of Opioids After Surgery: Opportunities for Therapeutics Stewardship, BC Quality Forum, February 2021.
+4. Rapid Evaluation of Clinical Interventions: Lessons Learned and Thoughts for the Future, BC Ministry of Health Knowledge Exchange, November 15, 2020.
+5. Adapting to a New Normal: The Effect of COVID-19 on the Next Generation of Scientists, Canadian Science Policy Conference, Virtual, November 16–20, 2020.
+6. Pandemics and Postdocs: COVID Survey Findings, Postdoc Appreciation Week, Virtual, September 17, 2020.
 7. CAPS Survey Findings Related to COVID-19, national meeting on postdoctoral affairs organized by the University of Western Ontario, Virtual, July 31, 2020.
-
-8. Reproducible Analytic Workflows in the Public Service, *Data and Analytics Conference*, Vancouver, BC, February 15, 2020.
-
+8. Reproducible Analytic Workflows in the Public Service, Data and Analytics Conference, Vancouver, BC, February 15, 2020.
 9. Health Systems Administrative Data Integration to Support Data-Driven Decision Making, Ministry of Health Knowledge Exchange Talk Series, Government of BC, Victoria, BC, January 22, 2020.
-
 10. Using Administrative Data to Evaluate Programs and Services, Public Service Agency, Victoria, BC, January 21, 2020.
-
 11. Delivering Bundles of Care Through Deciphering Government Programs and Services, Academic Health Science Network, Victoria, BC, January 20, 2020.
-
 12. Open Source Data and Data Science to Enable Integrated Data Projects, Island Health, Victoria, BC, September 2019.
-
 13. Implementing Reproducible Analytic Workflows in the Public Service, University of Victoria, Victoria, BC, August 2019.
-
 14. From Messy to Tidy: Reproducible Analytic Workflows for Data Analysis, BCDev Exchange, Victoria, BC, May 2019.
-
 15. Healing Old Wounds, Institute of Public Administration of Canada Policy Pitch, Victoria, BC, October 2018.
-
 16. Expression and Regulation of Chondroitin Sulfate in Prostate Cancer, American Association for Cancer Research, Chicago, IL, July 2018.
-
 17. BAP1 Creates a Potential Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, International Mesothelioma Interest Group, Ottawa, ON, May 2018.
-
 18. Comprehensive Molecular Characterization of Peritoneal Mesothelioma, Vancouver Prostate Centre Friday Seminar, Vancouver, BC, February 2017.
-
 19. Cytochrome P450 Degradation in Hepatocytes and Implications in Drug Metabolism, UCSF Postdoctoral Symposium, San Francisco, CA, June 2014.
-
 20. SIRT2’s Role in Stem Cell Biology, Berkeley Stem Cell Center Retreat, Asilomar, CA, April 2012 and 2013.
-
 21. Rab-3 Mediated Collagen Trafficking in Differentiating Osteoblasts, 16th Canadian Connective Tissue Conference, Toronto, ON, June 3–5, 2010.
-
 22. Delineating Collagen Trafficking Pathway in Differentiating Osteoblasts, 15th Canadian Connective Tissue Conference, Calgary, AB, July 17–18, 2009.
-
 23. Cytoskeleton and Adhesion Alteration in Osteoblasts in Microgravity Environment, 14th Canadian Connective Tissue Conference, Montreal, QC, June 5–7, 2008.
-
 24. Osteoblast Differentiation in Microgravity Environments, 14th Canadian Connective Tissue Conference, Halifax, NS, June 5–7, 2007.
-
 25. Lysosome Dispersion in Osteoblasts Accommodates Enhanced Collagen Production During Differentiation, 13th Canadian Connective Tissue Conference, Toronto, ON, May 24–26, 2006.
 
 ## Invited conference posters
 
-1. Alternative Molecular Models of Mind, *The Science of Consciousness*, Tucson, AZ, April 22–27, 2024.
-
-2. Alleviative Effects of Meta-Therapy Consciousness Field on *Triticum aestivum* L. Under Salinity Stress, *The Science of Consciousness*, April 2020/2022.
-
+1. Alternative Molecular Models of Mind, The Science of Consciousness, Tucson, AZ, April 22–27, 2024.
+2. Alleviative Effects of Meta-Therapy Consciousness Field on *Triticum aestivum* L. Under Salinity Stress, The Science of Consciousness, April 2020/2022.
 3. Evaluation of Depression, Anxiety, Stress and Headache Indices in Migraine Patients During Conventional Therapies Under Influence of Consciousness Fields, *The Science of Consciousness*, April 2020.
-
 4. BAP1 Creates a Potential Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma, 12th Lorne D. Sullivan Lectureship and Research Day, Vancouver, BC, June 2018.
-
 5. Expression and Regulation of Chondroitin Sulfate in Prostate Cancer, Vancouver General Hospital, BC, 2018.
-
 6. Oncofetal Glycosaminoglycan Signature Provides Therapeutic Potential for Malignant Mesothelioma, Cell Death, Cell Stress and Metabolism Conference, Vancouver, BC, June 2017.
-
 7. Comprehensive Multi-omics Characterization of Rare Malignant Peritoneal Mesothelioma, 11th Lorne D. Sullivan Lectureship and Research Day, Vancouver, BC, June 2017.
-
 8. An Oncofetal Glycosaminoglycan Modification Provides Therapeutic Access to Mesothelioma, Cell Death, Cell Stress and Metabolism Conference, Cancun, Mexico, March 2017.
-
 9. Characterization of Intertumor Heterogeneity of Malignant Mesotheliomas, International Mesothelioma Interest Group, Birmingham, UK, May 2016.
-
 10. Molecular Landscape of Pleural Mesothelioma, 10th Lorne D. Sullivan Lectureship and Research Day, Vancouver, BC, 2015–2016.
-
 11. Cytochrome P450 Degradation in Hepatocytes, UCSF Postdoctoral Symposium, San Francisco, CA, June 2013.
-
 12. Rab-Mediated Collagen Trafficking in Differentiating Osteoblasts, 50th American Society for Cell Biology Conference, Philadelphia, PA, December 11–15, 2010.
-
 13. Rab-1 Mediated Collagen Trafficking in Differentiating Osteoblasts, 49th American Society for Cell Biology Conference, San Diego, CA, December 5–11, 2009.
-
 14. In Vitro Osteoclast Differentiation in Arthritis Project: Osteoclastogenesis as a Marker of Presence and Activity of Disease in Arthritis, Canadian Annual Scientific Conference, Vancouver, BC, November 19–21, 2009.
-
 15. Mechanism of Collagen Trafficking in Bone Cells, Canadian Society of Zoologists Annual Meeting, Toronto, ON, May 12–16, 2009.
-
 16. Cytoskeleton and Adhesion Alteration in Osteoblasts in Microgravity Environment, ASBMR Annual Meeting, Montreal, QC, September 12–16, 2008.
-
 17. Compromised Adhesion of Osteoblasts in Microgravity Environment, COSPAR Conference, Montreal, QC, July 13–20, 2008.
-
 18. Modulation of the Osteoblast Cytoskeleton in Microgravity Environment, 47th American Society for Cell Biology Conference, Washington, DC, December 1–5, 2007.
-
 19. Lysosome Secretion by Bone Cells Under Normal and Pathological Conditions Including Rheumatoid and Osteoarthritis, Canadian Arthritis Network Annual Scientific Conference, Halifax, NS, October 11–13, 2007.
-
 20. Cellular Trafficking of Lysosomes in Osteoblasts, 46th American Society for Cell Biology Conference, San Francisco, CA, December 9–13, 2006.
 
 ## Open science, hackathons, and public-sector data activities
