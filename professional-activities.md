@@ -11,9 +11,8 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 | Year | Title | Source |
 |:---|:---|:---|
 | 2020 | Healthwiser: Monitoring and evaluation of surgical outcomes | Human Health and Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER) |
-| 2020 | Canadian Association of Postdoctoral Scholars' Year in Review at Annual General Meeting | [CAPS-ACSP](https://www.caps-acsp.ca/wp-content/uploads/2020/09/CAPS-2020-AGM-Year-in-Review.pdf) |
+| 2020 | Canadian Association of Postdoctoral Scholars' Year in Review at Annual General Meeting | CAPS-ACSP|
 | 2020 | Boosting the volume and speed of genetic sequencing comes with challenges | [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges) |
-| 2020 | Initiating an Experiment | [Experimentation Works](https://noushinn.github.io/experimentation_course/) |
 | 2020 | Coronavirus shining a spotlight on homo sapiens | Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/) |
 | 2020 | Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars | Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/) |
 | 2020 | The Frontiers of DNA Regulation: Developing a National Policy Framework Encouraging Transparency, Security, and Cost-efficiency of Genetic Technology and Data | Policy Memo, [Journal of Science Policy & Governance](https://www.sciencepolicyjournal.org/article_1038126_jspg_16_01_08.html) |
@@ -23,8 +22,6 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 | Year | Title | Source |
 |:---|:---|:---|
 | 2022 | On the Woman, Life, Freedom movement in Iran | [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8) |
-| 2021 | Open and reproducible workflows in the public service | [Booklet](https://noushinn.github.io/reproducible_workflows/) |
-| 2021 | Make a résumé using code | [Blog](https://noushinn.github.io/resume/) |
 | 2020 | Initiating an experiment in the public service | [Booklet](https://noushinn.github.io/experimentation_course/) |
 | 2020 | To code or not to code | [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04) |
 | 2019 | Hacking Disease and Death | [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5) |
@@ -49,27 +46,22 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 | 2020 | CO-SOL video for Zurich hackathon | [YouTube](https://www.youtube.com/watch?v=92HGSBuMCHs&feature=emb_title) |
 | 2019 | New research suggests immunotherapy could help nearly 50 per cent of patients with rare mesothelioma | [Terry Fox News](https://www.tfri.ca/updates/news/news-item/new-research-suggests-immunotherapy-could-help-nearly-50-per-cent-of-patients-with-rare-mesothelioma) |
 | 2018 | Postdoc Careers Panel at Research Day | [UBC](http://blogs.ubc.ca/ubcpda/author/alexander-smith/) |
-| 2018 | R-Ladies at Open Source Summit North America | IBM Developer, [Blog](https://developer.ibm.com/technologies/data-science/blogs/r-ladies-at-open-source-summit-north-america/) |
 | 2017 | Supporting Rare Disease Research with BeHeard Technology Award | [Addgene Blog](https://blog.addgene.org/supporting-rare-disease-research-with-beheard-2017) |
-| 2008 | First-person account: Graduate student turns rocket scientist | [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=940) |
 | 2008 | Bone cells space out | [The Star](https://www.thestar.com/life/2008/03/06/bone_cells_space_out.html) |
-| 2007 | Blasting off: Professor's research goes up in space | [University of Toronto](https://ose.utsc.utoronto.ca/ose/story.php?id=683) |
 
 ## Evaluation, advisory, and committee work
 
 | Date | Role / Activity | Organization / Location |
 |:---|:---|:---|
-| 2021–2022 | Advisor | Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)) |
+| 2019–2022 | Advisor | Canadian Association of Postdoctoral Scholars (CAPS-ASCP) |
 | 2021 | Participating member | International Consortium of Research Staff Associations |
 | 2020–2021 | Expert assessor of funding applications, reviewing scientific methodology and merit | Health Canada |
 | 2020–2021 | Experimentation Works advisor | Treasury Board of Canada Secretariat |
 | 2020 | Vice Chair of Survey and Data; contributed to analytics, methodology development, and partnerships | Canadian Association of Postdoctoral Scholars ([CAPS](https://www.caps-acsp.ca/en/about-us/)) |
 | 2020 | Fellowship adjudication committee member; evaluated Canadian Science Policy Fellowship applications | Mitacs Inc. |
-| 2019–2020 | [Program committee member](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/11/CSPC-Magazine-2020-Singles-9.pdf); contributed to conference program development | Canadian Science Policy Centre |
-| 2019 | Vice Chair of Career Development; contributed to career development strategies for Canadian postdocs and helped organize the annual general meeting | Canadian Association of Postdoctoral Scholars, Dalhousie University, Halifax, NS |
+| 2018–2020 | Evaluation and Survey committee member | Canadian Science Policy Centre |
 | 2019 | Participant and session facilitator | Chief Information Officer’s BC Connect conference, Victoria, BC |
 | 2019 | Facilitator | Policy Community of Practice, Making it Real: Putting Policy into Practice, Victoria, BC |
-| 2018–2019 | [Evaluation and Survey committee member](https://cdn.sciencepolicy.ca/wp-content/uploads/2020/10/CSPC_Magazine_2019-Optimized.pdf); analyzed and reported conference survey data | Canadian Science Policy Centre |
 | 2018–2020 | Data and privacy analyst | Institute of Public Administration of Canada New Professionals, Victoria, BC |
 | 2018–2019 | Hackseq hackathon organizing committee member and team lead | University of British Columbia, Vancouver, BC |
 | 2018 | Career panel participant, discussing postdoctoral roles in academia and industry | University of British Columbia, Vancouver, BC |
@@ -81,7 +73,7 @@ This page summarizes my science-policy work, public scholarship, media coverage,
 | 2021–2022 | Visiting Research Associate/Scientist | Vancouver Prostate Centre |
 | 2020 | Lead data scientist for COVID-19 hackathon projects, including Devpost [Build for COVID](https://devpost.com/software/co-sol) and Biohackathon | Online / hackathon community |
 | 2015–2020 | Volunteer and mentor | Canada Learning Code, Vancouver/Victoria, BC |
-| 2018 | Mentor | Victoria Health [Hackathon](https://www.uvic.ca/research/centres/biomedical/events-outreach/health-and-regenerative-medicine-hackathon/index.php), Victoria, BC |
+| 2018 | Mentor | Victoria Health Hackathon, Victoria, BC |
 | 2016 | 3-Minute Thesis presentation | [University of British Columbia](https://blogs.ubc.ca/ubcpda/2016/06/the-3-minute-postdoc-slam-of-2016-event-review/0), Vancouver, BC |
 | 2014 | Science mentor | Phillip and Sala Burton Academic High School, San Francisco, CA |
 | 2013–2014 | Curriculum developer | City College of San Francisco Biotechnology Program, San Francisco, CA |
