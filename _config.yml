@@ -1,112 +1,20 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-# Site Settings
-locale : "en-US"
-name: Noushin Nabavi, PhD
-# Short bio or description (displayed in the header)
-description: cell biologist | data scientist
-location : "British Columbia, Canada"
-repository : "NoushinN/noushinn.github.io"
+locale: "en-US"
+name: "Noushin Nabavi, PhD"
+description: "Cell biologist | Data scientist"
+location: "British Columbia, Canada"
+repository: "NoushinN/noushinn.github.io"
 header: /images/mast.jpg
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/37668936?s=400&u=e4f7d5c6218a0ec4f71820f603f075805a944c03&v=4
+avatar: "https://avatars.githubusercontent.com/u/37668936?s=400&u=e4f7d5c6218a0ec4f71820f603f075805a944c03&v=4"
 
-# https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2019/07/noushin-nabavi-profile.jpg
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  flickr:
-  github:  NoushinN
-  linkedin: in/noushin-nabavi/
-  orcid_id: 0000-0002-5471-6229
-  research_gate_profile: profile/Noushin-Nabavi-2
-  resume_google_scholar_url: "https://scholar.google.ca/citations?user=-HpjhzMAAAAJ&hl=en"
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: nabavinoushin
-  #instagram: noushinn
-  #stackoverflow: users/10286702/noushin-nabavi
-  #facebook: noushinnabavi.photography
-  #youtube: channel/UCRpThp9XB1Dm9FwZ4sH3TZQ
-  #tumblr: ""
-  #tumblrr: ""
-  medium: "@nabavinoushin"
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-180732586-1
-google_analytics: G-5LJV5S16HQ
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://noushinn.github.io/
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+url: "https://noushinn.github.io"
 baseurl: ""
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+header_pages:
+  - about.md
+  - publications.md
+  - software.md
+  - professional-activities.md
+  - awards.md
 
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-  # Plug-ins
-
-plugins:
-  - jekyll-email-protect
-  - jekyll-github-metadata
-  - jekyll-paginate-v2
-  - jekyll/scholar
-  - jekyll-twitter-plugin
-  - jemoji
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  # - bootstrap
-  # - material-sass
-
-enable_darkmode: true
-
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-
-minimal_mistakes_skin    : "plum" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+google_analytics: G-5LJV5S16HQ
