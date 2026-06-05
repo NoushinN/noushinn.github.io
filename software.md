@@ -8,33 +8,12 @@ This page highlights my open-source software, educational R packages, hackathon 
 
 ## Educational R packages
 
-### lifesimulatoR
-
-Educational R package for simulating simplified origin-of-life processes, including molecular evolution, mutation, selection, protocells, and autocatalytic networks.
-
-[Package website](https://noushinn.github.io/lifesimulatoR/)  
-[GitHub repository](https://github.com/NoushinN/lifesimulatoR)
-
-### emergenceModelR
-
-Educational R package for simulating emergence, self-organization, cellular automata, agent interactions, network growth, and complexity.
-
-[Package website](https://noushinn.github.io/emergenceModelR/)  
-[GitHub repository](https://github.com/NoushinN/emergenceModelR)
-
-### artificialLifeR
-
-Educational R package for simulating artificial-life models involving agents, resources, reproduction, mutation, selection, and population dynamics.
-
-[Package website](https://noushinn.github.io/artificialLifeR/)  
-[GitHub repository](https://github.com/NoushinN/artificialLifeR)
-
-### consciousnessModelR
-
-Educational R package for simulating simplified computational models inspired by consciousness theories, including attention, broadcast, integration, and threshold-like awareness.
-
-[Package website](https://noushinn.github.io/consciousnessModelR/)  
-[GitHub repository](https://github.com/NoushinN/consciousnessModelR)
+| Package | Description | Links |
+|:---|:---|:---|
+| **lifesimulatoR** | Educational R package for simulating simplified origin-of-life processes, including molecular evolution, mutation, selection, protocells, and autocatalytic networks. | [Website](https://noushinn.github.io/lifesimulatoR/) / [GitHub](https://github.com/NoushinN/lifesimulatoR) |
+| **emergenceModelR** | Educational R package for simulating emergence, self-organization, cellular automata, agent interactions, network growth, and complexity. | [Website](https://noushinn.github.io/emergenceModelR/) / [GitHub](https://github.com/NoushinN/emergenceModelR) |
+| **artificialLifeR** | Educational R package for simulating artificial-life models involving agents, resources, reproduction, mutation, selection, and population dynamics. | [Website](https://noushinn.github.io/artificialLifeR/) / [GitHub](https://github.com/NoushinN/artificialLifeR) |
+| **consciousnessModelR** | Educational R package for simulating simplified computational models inspired by consciousness theories, including attention, broadcast, integration, and threshold-like awareness. | [Website](https://noushinn.github.io/consciousnessModelR/) / [GitHub](https://github.com/NoushinN/consciousnessModelR) |
 
 ## Public-sector data and policy analytics
 
@@ -51,7 +30,7 @@ These projects focus on public-sector data, reproducible analytics, policy analy
 - **[IPAC data analysis](https://noushinn.github.io/ipac_data_analysis/)**  
   Analysis of registration and participation data for Institute of Public Administration of Canada events.
 
-## COVID-19, health-data, and biomedical hackathon projects
+## COVID-19, health-data, and biomedical hackathon software projects
 
 These projects were developed through hackathons, open-data initiatives, or health-data collaborations.
 
@@ -70,6 +49,9 @@ These projects were developed through hackathons, open-data initiatives, or heal
   A Victoria Health Hackathon project from September 2018.
 - **[thegrip.design](https://noushinn.github.io/thegrip.design/)**  
   A Victoria Health Hackathon project focused on design and health-related innovation.
+- **[Health-in-a-Box](https://noushinn.github.io/Health-in-a-Box/)**  
+  A Mini-MBA teamwork project through the University of British Columbia Graduate Management Consulting Association.
+
 
 ## Teaching, open science, and learning resources
 
@@ -89,10 +71,6 @@ These projects support reproducible learning, science communication, open workfl
   A project exploring and critically comparing major theories of consciousness across neuroscience, philosophy, cognitive science, artificial intelligence, and physics.
 - **[GenAI Assistant](https://noushinn.github.io/genai-assistant/)**  
   A practical guide to generative AI for assistive technology, including prompts, examples, review methods, and governance considerations.
-
-## Other applied software and design projects
-
-- **[Health-in-a-Box](https://noushinn.github.io/Health-in-a-Box/)**  
-  A Mini-MBA teamwork project through the University of British Columbia Graduate Management Consulting Association.
 - **[Make a résumé using code](https://noushinn.github.io/resume/)**  
   A small reproducible example showing how to prepare a résumé using code.
+

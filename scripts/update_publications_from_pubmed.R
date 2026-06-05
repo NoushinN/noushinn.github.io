@@ -12,6 +12,10 @@ pubmed_query <- '"Noushin Nabavi"[Full Author Name] OR "Nabavi Noushin"[Full Aut
 
 out_file <- "_includes/publications.md"
 
+if (!dir.exists("_includes")) {
+  dir.create("_includes", recursive = TRUE)
+}
+
 search <- entrez_search(
   db = "pubmed",
   term = pubmed_query,
@@ -29,6 +33,7 @@ if (length(ids) == 0) {
       "<!-- This section is generated from PubMed. Do not edit manually. -->",
       "",
       paste0("<!-- PubMed query: ", pubmed_query, " -->"),
+      paste0("<!-- Last updated: ", Sys.Date(), " -->"),
       "",
       "_No PubMed records were found for the current full-name query._"
     ),
@@ -130,7 +135,7 @@ format_article <- function(article) {
   doi <- format_doi(article)
   
   citation <- paste0(
-    "- ", authors, ". ",
+    authors, ". ",
     title, ". ",
     journal, ". ",
     date
@@ -152,7 +157,7 @@ format_article <- function(article) {
       " doi: ",
       doi,
       ". ",
-      "[Link](https://doi.org/",
+      "[DOI](https://doi.org/",
       doi,
       ")"
     )
@@ -170,16 +175,20 @@ format_article <- function(article) {
 
 citations <- vapply(articles, format_article, character(1))
 
+# Convert to numbered list
+citations <- paste0(seq_along(citations), ". ", citations)
+
 header <- c(
   "## Peer-reviewed research contributions",
   "",
   "<!-- This section is generated from PubMed. Do not edit manually. -->",
-  "",
   paste0("<!-- PubMed query: ", pubmed_query, " -->"),
+  paste0("<!-- Last updated: ", Sys.Date(), " -->"),
+  "",
+  paste0("_This list was last updated on ", Sys.Date(), "._"),
   ""
 )
 
 writeLines(c(header, citations), out_file)
 
-message("Wrote ", length(citations), " PubMed publications to: ", out_file)
-
+message("Wrote ", length(citations), " numbered PubMed publications to: ", out_file)
