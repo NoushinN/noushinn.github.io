@@ -255,27 +255,29 @@ nav {
   float: right;
   margin-top: 25px;
   font-family: $helveticaNeue;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   text-align: center;
+  white-space: nowrap;
 
   @include mobile {
     float: none;
     margin-top: 15px;
     display: block;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
+    white-space: normal;
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 12px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 
     @include mobile {
-      margin: 0 10px;
+      margin: 0 8px;
       color: $blue;
     }
   }
