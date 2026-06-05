@@ -44,9 +44,9 @@ These projects focus on public-sector data, reproducible analytics, policy analy
   A public-sector data-cleaning and reproducible workflow project developed with the BC Ministry of Citizens' Services.
 - **[Developing economic indices using national tax data](https://github.com/bcgov/bc-econ-status-indices)**  
   A data-science project focused on developing economic-status indicators using national tax data.
-- **[CAPS survey analysis](https://noushinn.github.io/caps_surveys_analysis/)**  
+- **[CAPS survey analysis](https://github.com/NoushinN/caps_surveys_analysis)**  
   Data analysis and visualization work related to Canadian Association of Postdoctoral Scholars survey data.
-- **[CSPC data analysis](https://noushinn.github.io/cspc_data_analysis/)**  
+- **[CSPC data analysis](https://noushinn.github.io/CSPC-2018/)**  
   R scripts for importing, cleaning, analyzing, and visualizing Canadian Science Policy Conference survey data.
 - **[IPAC data analysis](https://noushinn.github.io/ipac_data_analysis/)**  
   Analysis of registration and participation data for Institute of Public Administration of Canada events.
@@ -60,7 +60,7 @@ These projects were developed through hackathons, open-data initiatives, or heal
   [Devpost project](https://devpost.com/software/co-sol)
 - **[codevscovid19](https://noushinn.github.io/codevscovid19/)**  
   A simulation project exploring hospital supply and demand during COVID-19 as part of the Zurich Hackathon.
-- **[COVID-19 open-data analysis](https://noushinn.github.io/covid_19_analysis/)**  
+- **[COVID-19 open-data analysis](https://github.com/NoushinN/covid_19_analysis)**  
   Analysis of open COVID-19 data for British Columbia using data released by the Johns Hopkins University Center for Systems Science and Engineering.
 - **[Anatomy of Morbidity](https://noushinn.github.io/Anatomy-of-Morbidity/)**  
   A Hackseq Hackathon project at the University of British Columbia focused on biomedical and morbidity-related data exploration.
