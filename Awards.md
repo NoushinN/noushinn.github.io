@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-## Awards, fellowships, and recognitions
+## Awards, fellowships, & recognitions
 
 | **Award / Recognition** | **Institution / Location** | **Date** |
 |:---|:---|:---|
