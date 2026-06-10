@@ -373,36 +373,56 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+@import "highlights";
+@import "svg-icons";
+
+/**********************/
+/* COLLAPSIBLE BLOCKS */
+/**********************/
+
+details {
+  margin: 18px 0;
+}
+
 details summary {
-  display: block;
+  display: block !important;
   cursor: pointer;
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  color: $darkGray;
-  border: 1px solid $darkGray;
-  border-bottom: 3px dotted $darkGray;
-  border-radius: 0 0 35px 35px;
+  font-family: Sofia, serif;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  text-align: center !important;
+  color: $black;
+  background-color: #F5F5F5;
+  border: double;
+  border-bottom-style: dotted;
+  border-bottom-right-radius: 50px 20px;
+  border-bottom-left-radius: 50px 20px;
   padding: 8px 12px;
   margin: 18px 0 14px 0;
-  list-style: none;
+  opacity: 0.8;
+  text-shadow: 2px 2px lightgrey;
+  text-transform: capitalize;
+  list-style: none !important;
+}
+
+details summary strong {
+  font-weight: bold !important;
 }
 
 details summary::-webkit-details-marker {
-  display: none;
+  display: none !important;
+}
+
+details summary::marker {
+  content: "" !important;
 }
 
 details summary::before {
   content: "▸ ";
   float: left;
+  text-shadow: none;
 }
 
 details[open] summary::before {
   content: "▾ ";
 }
-
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
