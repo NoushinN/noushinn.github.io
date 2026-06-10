@@ -381,28 +381,29 @@ table tr td :last-child {
 /**********************/
 
 details {
-  margin: 18px 0;
+  margin: 14px 0;
 }
 
 details summary {
   display: block !important;
   cursor: pointer;
   font-family: Sofia, serif;
-  font-size: 20px !important;
+  font-size: 19px !important;
   font-weight: bold !important;
   text-align: center !important;
   color: $black;
-  background-color: #F5F5F5;
+  background-color: rgba(245, 245, 245, 0.85);
   border: double;
   border-bottom-style: dotted;
-  border-bottom-right-radius: 50px 20px;
-  border-bottom-left-radius: 50px 20px;
-  padding: 8px 12px;
-  margin: 18px 0 14px 0;
-  opacity: 0.8;
-  text-shadow: 2px 2px lightgrey;
+  border-bottom-right-radius: 38px 16px;
+  border-bottom-left-radius: 38px 16px;
+  padding: 5px 12px;
+  margin: 12px 0 10px 0;
+  opacity: 0.9;
+  text-shadow: 1px 1px lightgrey;
   text-transform: capitalize;
   list-style: none !important;
+  position: relative;
 }
 
 details summary strong {
@@ -418,11 +419,15 @@ details summary::marker {
 }
 
 details summary::before {
-  content: "▸ ";
-  float: left;
+  content: "▸";
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 15px;
   text-shadow: none;
 }
 
 details[open] summary::before {
-  content: "▾ ";
+  content: "▾";
 }
