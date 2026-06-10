@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-This page highlights my open-source software, educational R packages, hackathon projects, data-science tools, and technical learning resources.
+This page highlights my open-source software, educational R packages, data-science projects, hackathon work, and technical learning resources.  
 
 ## Educational R packages
 
@@ -16,7 +16,7 @@ This page highlights my open-source software, educational R packages, hackathon 
 | **consciousnessModelR** | Educational R package for simulating simplified computational models inspired by consciousness theories, including attention, broadcast, integration, and threshold-like awareness. | [Website](https://noushinn.github.io/consciousnessModelR/) / [GitHub](https://github.com/NoushinN/consciousnessModelR) |
 
 <details markdown="1">
-<summary><strong>Public-sector data & policy analytics</strong></summary>
+<summary>Public-sector data & policy analytics</summary>
 
 These projects focus on public-sector data, reproducible analytics, policy analysis, survey analysis, and economic indicators.
 
@@ -31,7 +31,7 @@ These projects focus on public-sector data, reproducible analytics, policy analy
 </details>
 
 <details markdown="1">
-<summary><strong>COVID-19, health-data, & biomedical hackathon software projects</strong></summary>
+<summary>COVID-19, health-data, & biomedical hackathon software projects</summary>
 
 These projects were developed through hackathons, open-data initiatives, or health-data collaborations.
 
@@ -49,7 +49,7 @@ These projects were developed through hackathons, open-data initiatives, or heal
 </details>
 
 <details markdown="1">
-<summary><strong>Teaching, open science, & learning resources</strong></summary>
+<summary>Teaching, open science, & learning resources</summary>
 
 These projects support reproducible learning, science communication, open workflows, and educational content.
 

@@ -4,12 +4,12 @@ title: Awards
 permalink: /awards/
 ---
 
-This page lists selected awards, fellowships, grants, recognitions, scholarships, and professional distinctions received across academic, research, policy, data-science, and community-based work.
+This page lists selected awards, fellowships, grants, recognitions, scholarships, and professional distinctions across academic, research, policy, data-science, and community-based work.   
 
 ## Selected awards, fellowships, & recognitions
 
 <details markdown="1">
-<summary><strong>Recent recognitions & professional awards</strong></summary>
+<summary>Recent recognitions & professional awards</summary>
 
 | Award / Recognition | Institution / Location | Date |
 |:---|:---|:---|
@@ -22,7 +22,7 @@ This page lists selected awards, fellowships, grants, recognitions, scholarships
 </details>
 
 <details markdown="1">
-<summary><strong>Fellowships, grants, & research awards</strong></summary>
+<summary>Fellowships, grants, & research awards</summary>
 
 | Award / Recognition | Institution / Location | Date |
 |:---|:---|:---|
@@ -39,7 +39,7 @@ This page lists selected awards, fellowships, grants, recognitions, scholarships
 </details>
 
 <details markdown="1">
-<summary><strong>Hackathon, innovation, & entrepreneurship awards</strong></summary>
+<summary>Hackathon, innovation, & entrepreneurship awards</summary>
 
 | Award / Recognition | Institution / Location | Date |
 |:---|:---|:---|
@@ -52,7 +52,7 @@ This page lists selected awards, fellowships, grants, recognitions, scholarships
 </details>
 
 <details markdown="1">
-<summary><strong>Travel awards, scholarships, & early academic awards</strong></summary>
+<summary>Travel awards, scholarships, & early academic awards</summary>
 
 | Award / Recognition | Institution / Location | Date |
 |:---|:---|:---|

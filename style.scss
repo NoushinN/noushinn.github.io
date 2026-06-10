@@ -373,6 +373,35 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+details summary {
+  display: block;
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: $darkGray;
+  border: 1px solid $darkGray;
+  border-bottom: 3px dotted $darkGray;
+  border-radius: 0 0 35px 35px;
+  padding: 8px 12px;
+  margin: 18px 0 14px 0;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸ ";
+  float: left;
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

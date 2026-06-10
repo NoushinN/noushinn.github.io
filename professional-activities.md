@@ -4,10 +4,10 @@ title: Professional Activities
 permalink: /professional-activities/
 ---
 
-This page highlights my professional service, media coverage, advisory & committee work, science outreach, mentorship, teaching contributions, invited presentations, conference posters, & community-level volunteering.
+This page highlights my professional service, media coverage, advisory and committee work, science outreach, mentorship, teaching contributions, invited presentations, conference posters, and community-level volunteering.
 
 <details markdown="1">
-<summary><strong>Media coverage & interviews</strong></summary>
+<summary>Media coverage & interviews</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
@@ -22,7 +22,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Evaluation, advisory, & committee work</strong></summary>
+<summary>Evaluation, advisory, & committee work</summary>
 
 | Date | Role / Activity | Organization / Location |
 |:---|:---|:---|
@@ -42,7 +42,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Science outreach, mentorship, & community engagement</strong></summary>
+<summary>Science outreach, mentorship, & community engagement</summary>
 
 | Date | Role / Activity | Organization / Location |
 |:---|:---|:---|
@@ -64,7 +64,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Teaching & learning development</strong></summary>
+<summary>Teaching & learning development</summary>
 
 | Date | Activity | Organization / Location |
 |:---|:---|:---|
@@ -90,7 +90,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Invited conference presentations</strong></summary>
+<summary>Invited conference presentations</summary>
 
 | Year | Presentation | Event / Location |
 |:---|:---|:---|
@@ -123,7 +123,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Invited conference posters</strong></summary>
+<summary>Invited conference posters</summary>
 
 | Year | Poster | Event / Location |
 |:---|:---|:---|
@@ -151,7 +151,7 @@ This page highlights my professional service, media coverage, advisory & committ
 </details>
 
 <details markdown="1">
-<summary><strong>Community-level volunteering</strong></summary>
+<summary>Community-level volunteering</summary>
 
 | Date | Activity | Location |
 |:---|:---|:---|

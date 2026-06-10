@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-This page lists my thesis, peer-reviewed research contributions, book chapter contributions, preprints, reviews, abstracts, policy publications, public scholarship, essays, commentary, and selected creative publications.
+This page brings together my academic publications, thesis, book contributions, preprints, policy writing, public scholarship, and selected creative work.   
 
 ## Thesis
 
@@ -17,18 +17,18 @@ My peer-reviewed publications are generated from PubMed.
 [View full peer-reviewed publication list](https://noushinn.github.io/peer-reviewed-publications/)
 
 <details markdown="1">
-<summary><strong>Book chapter contributions</strong></summary>
+<summary>Book chapter contributions</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
-| 2024 | Contributor, Autophagy, Apoptosis, and Ferroptosis in Oncology | [Google Books](https://www.worldscientific.com/doi/epdf/10.1142/14017) |
-| 2023 | Contributor, Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications | [WorldCat](https://search.worldcat.org/title/1375549171) |
-| 2017 | Contributor, Tumor Dormancy & Recurrence | [Cancer Drug Discovery & Development](https://link.springer.com/book/10.1007/978-3-319-59242-8) |
+| 2024 | Autophagy, Apoptosis, and Ferroptosis in Oncology | [Google Books](https://www.worldscientific.com/doi/epdf/10.1142/14017) |
+| 2023 | Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications | [WorldCat](https://search.worldcat.org/title/1375549171) |
+| 2017 | Tumor Dormancy & Recurrence | [Cancer Drug Discovery & Development](https://link.springer.com/book/10.1007/978-3-319-59242-8) |
 
 </details>
 
 <details markdown="1">
-<summary><strong>Preprints, reviews, & abstracts</strong></summary>
+<summary>Preprints, reviews, & abstracts</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
@@ -45,7 +45,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary><strong>Policy publications, public scholarship, & perspectives</strong></summary>
+<summary>Policy publications, public scholarship, & perspectives</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
@@ -59,7 +59,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary><strong>Public writing, essays, & commentary</strong></summary>
+<summary>Public writing, essays, & commentary</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
@@ -80,7 +80,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary><strong>Creative publications</strong></summary>
+<summary>Creative publications</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
