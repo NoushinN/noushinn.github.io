@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 bg: purple
+hide_title: true
 ---
 
 ## Short Biography

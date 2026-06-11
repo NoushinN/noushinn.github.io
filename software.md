@@ -2,11 +2,15 @@
 layout: page
 title: Software
 permalink: /software/
+hide_title: true
 ---
+
+## Software
 
 This page highlights my open-source software, educational R packages, data-science projects, hackathon work, and technical learning resources.  
 
-## Educational R packages
+<details markdown="1">
+<summary>Educational R packages</summary>
 
 | Package | Description | Links |
 |:---|:---|:---|
@@ -14,6 +18,8 @@ This page highlights my open-source software, educational R packages, data-scien
 | **emergenceModelR** | Educational R package for simulating emergence, self-organization, cellular automata, agent interactions, network growth, and complexity. | [Website](https://noushinn.github.io/emergenceModelR/) / [GitHub](https://github.com/NoushinN/emergenceModelR) |
 | **artificialLifeR** | Educational R package for simulating artificial-life models involving agents, resources, reproduction, mutation, selection, and population dynamics. | [Website](https://noushinn.github.io/artificialLifeR/) / [GitHub](https://github.com/NoushinN/artificialLifeR) |
 | **consciousnessModelR** | Educational R package for simulating simplified computational models inspired by consciousness theories, including attention, broadcast, integration, and threshold-like awareness. | [Website](https://noushinn.github.io/consciousnessModelR/) / [GitHub](https://github.com/NoushinN/consciousnessModelR) |
+
+</details>
 
 <details markdown="1">
 <summary>Public-sector data & policy analytics</summary>

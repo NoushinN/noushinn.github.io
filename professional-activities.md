@@ -2,9 +2,11 @@
 layout: page
 title: Professional Activities
 permalink: /professional-activities/
+hide_title: true
 ---
+## Professional Activities
 
-This page highlights my professional service, media coverage, advisory and committee work, science outreach, mentorship, teaching contributions, invited presentations, conference posters, and community-level volunteering.
+This page highlights my professional service, media coverage, advisory and committee work, science outreach, mentorship, teaching contributions, invited presentations, conference posters, and community volunteering.  
 
 <details markdown="1">
 <summary>Media coverage & interviews</summary>

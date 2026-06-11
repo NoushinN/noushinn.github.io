@@ -2,11 +2,12 @@
 layout: page
 title: Awards
 permalink: /awards/
+hide_title: true
 ---
+## Selected awards, fellowships, & recognitions
 
 This page lists selected awards, fellowships, grants, recognitions, scholarships, and professional distinctions across academic, research, policy, data-science, and community-based work.   
 
-## Selected awards, fellowships, & recognitions
 
 <details markdown="1">
 <summary>Recent recognitions & professional awards</summary>

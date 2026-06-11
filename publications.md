@@ -2,19 +2,27 @@
 layout: page
 title: Publications
 permalink: /publications/
+hide_title: true
 ---
+## Publications  
 
 This page brings together my academic publications, thesis, book contributions, preprints, policy writing, public scholarship, and selected creative work.   
 
-## Thesis
+<details markdown="1">
+<summary>Thesis</summary>
 
 - Mobilization of Procollagen and Lysosomes during Osteoblast Stimulation with Ascorbic Acid, 2012, [UofT Library](https://tspace.library.utoronto.ca/bitstream/1807/33894/1/Nabavi_Noushin_201206_PhD_thesis.pdf).
 
-## Peer-reviewed research contributions
+</details>
+
+<details markdown="1">
+<summary>Peer-reviewed research contributions</summary>
 
 My peer-reviewed publications are generated from PubMed.
 
 [View full peer-reviewed publication list](https://noushinn.github.io/peer-reviewed-publications/)
+
+</details>
 
 <details markdown="1">
 <summary>Book chapter contributions</summary>
