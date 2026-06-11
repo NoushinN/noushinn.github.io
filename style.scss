@@ -447,3 +447,36 @@ details table {
 details table {
   margin-top: 6px;
 }
+
+/************************/
+/* NESTED CHAPTER LISTS */
+/************************/
+
+details.chapter-list {
+  margin: 8px 0 14px 18px;
+}
+
+details.chapter-list summary {
+  font-size: 15px !important;
+  font-weight: normal !important;
+  font-style: italic;
+  background-color: rgba(255, 255, 255, 0.55);
+  border: none !important;
+  border-left: 3px solid #cccccc !important;
+  border-radius: 0 !important;
+  padding: 5px 10px 5px 28px !important;
+  margin: 8px 0 !important;
+  text-align: left !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+
+details.chapter-list summary::before {
+  left: 10px !important;
+  font-size: 12px !important;
+}
+
+details.chapter-list table {
+  font-size: 15px;
+  margin-left: 0;
+}

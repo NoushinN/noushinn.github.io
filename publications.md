@@ -27,13 +27,63 @@ My peer-reviewed publications are generated from PubMed.
 <details markdown="1">
 <summary>Book chapter contributions</summary>
 
-| Year | Title | Source |
+| Year | Contribution | Source |
 |:---|:---|:---|
-| 2024 | Autophagy, Apoptosis, and Ferroptosis in Oncology | [Google Books](https://www.worldscientific.com/doi/epdf/10.1142/14017) |
-| 2023 | Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications | [WorldCat](https://search.worldcat.org/title/1375549171) |
-| 2017 | Tumor Dormancy & Recurrence | [Cancer Drug Discovery & Development](https://link.springer.com/book/10.1007/978-3-319-59242-8) |
+| 2025 | Contributor to all 20 chapters in *Autophagy, Apoptosis and Ferroptosis in Oncology* | World Scientific, pages 1–747 |
+| 2023 | Contributor to selected chapters in *Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications* | [WorldCat](https://search.worldcat.org/title/1375549171) |
+| 2017 | Contributor to two chapters in *Tumor Dormancy & Recurrence* | Springer, pages 17–29 and 51–60 |
+
+<details class="chapter-list" markdown="1">
+<summary>View chapter list for <em>Autophagy, Apoptosis and Ferroptosis in Oncology</em></summary>
+
+| Chapter | Pages |
+|:---|:---|
+| Autophagy: Basics and Role in Pathological Diseases | 1–30 |
+| Autophagy Mechanism in Cancer: Overall View and Recent Advances | 31–58 |
+| Autophagy in the Regulation of Cancer Proliferation | 59–81 |
+| Autophagy in the Regulation of Cancer Metastasis | 83–112 |
+| Autophagy in the Regulation of Drug Resistance | 113–141 |
+| Autophagy in the Regulation of Radio-Resistance | 143–173 |
+| Non-Coding RNAs in the Regulation of Autophagy | 175–208 |
+| Autophagy and Cancer Stem Cells | 209–235 |
+| Nanoparticles in the Regulation of Autophagy for Cancer Therapy | 237–263 |
+| Apoptosis: Basics and Role in Pathological Diseases | 265–315 |
+| Apoptosis Mechanism in Cancer: Overview and Recent Advances | 317–377 |
+| Apoptosis and Autophagy Interaction in Cancer | 379–432 |
+| Apoptosis and Cancer Drug Resistance | 433–467 |
+| Apoptosis and Cancer Radio-Resistance | 469–502 |
+| Non-Coding RNAs in the Regulation of Apoptosis in Cancer | 503–565 |
+| Natural Products in the Treatment of Cancer by Targeting Apoptosis | 567–604 |
+| Nanoparticles in the Stimulation of Apoptosis in Cancer Therapy | 605–635 |
+| Ferroptosis: Basics and Role in Pathological Diseases | 637–670 |
+| Ferroptosis Mechanism in Cancer: An Overview of Resistance Mechanisms | 671–708 |
+| Ferroptosis and Autophagy Interactions in Cancer | 709–747 |
 
 </details>
+
+<details class="chapter-list" markdown="1">
+<summary>View chapter list for <em>Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications</em></summary>
+
+| Chapter | Pages |
+|:---|:---|
+| MicroRNAs (miRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | starts page 1 |
+| MicroRNAs (miRNAs) in Cancer Metastasis: Molecular Interactions and Possible Therapeutic Targets | starts page 29 |
+| Long Non-coding RNAs (lncRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | starts page 103 |
+
+</details>
+
+
+<details class="chapter-list" markdown="1">
+<summary>View chapter list for <em>Tumor Dormancy & Recurrence</em></summary>
+
+| Chapter | Pages |
+|:---|:---|
+| Biological and Clinical Evidence for Metabolic Dormancy in Solid Tumors Post Therapy | 17–29 |
+| Immuno-oncology of Dormant Tumours | 51–60 |
+
+</details>
+</details>
+
 
 <details markdown="1">
 <summary>Preprints, reviews, & abstracts</summary>
@@ -72,7 +122,6 @@ My peer-reviewed publications are generated from PubMed.
 | Year | Title | Source |
 |:---|:---|:---|
 | 2022 | On the Woman, Life, Freedom movement in Iran | [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8) |
-| 2020 | Initiating an experiment in the public service | [Booklet](https://noushinn.github.io/experimentation_course/) |
 | 2020 | To code or not to code | [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04) |
 | 2019 | Hacking Disease & Death | [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5) |
 | 2019 | From messy to tidy: the case for a data science workflow | [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c) |
