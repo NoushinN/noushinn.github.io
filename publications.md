@@ -29,9 +29,10 @@ My peer-reviewed publications are generated from PubMed.
 
 | Year | Contribution | Source |
 |:---|:---|:---|
-| 2025 | Contributor to all 20 chapters in *Autophagy, Apoptosis and Ferroptosis in Oncology* | World Scientific, pages 1–747 |
-| 2023 | Contributor to selected chapters in *Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications* | [WorldCat](https://search.worldcat.org/title/1375549171) |
-| 2017 | Contributor to two chapters in *Tumor Dormancy & Recurrence* | Springer, pages 17–29 and 51–60 |
+| 2025 | Contributor to twenty chapters in *Autophagy, Apoptosis and Ferroptosis in Oncology* | [World Scientific](https://www.worldscientific.com/doi/epdf/10.1142/14017), pages 1–747 |
+| 2023 | Contributor to three chapters in *Non-coding RNA Transcripts in Cancer Therapy: Pre-clinical & Clinical Implications* | [WorldCat](https://search.worldcat.org/title/1375549171) |
+| 2017 | Contributor to two chapters in *Tumor Dormancy & Recurrence* | [Springer](https://link.springer.com/book/10.1007/978-3-319-59242-8), pages 17–29 and 51–60 |
+
 
 <details class="chapter-list" markdown="1">
 <summary>View chapter list for <em>Autophagy, Apoptosis and Ferroptosis in Oncology</em></summary>
