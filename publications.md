@@ -67,9 +67,9 @@ My peer-reviewed publications are generated from PubMed.
 
 | Chapter | Pages |
 |:---|:---|
-| MicroRNAs (miRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | starts page 1 |
-| MicroRNAs (miRNAs) in Cancer Metastasis: Molecular Interactions and Possible Therapeutic Targets | starts page 29 |
-| Long Non-coding RNAs (lncRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | starts page 103 |
+| MicroRNAs (miRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | start page 1 |
+| MicroRNAs (miRNAs) in Cancer Metastasis: Molecular Interactions and Possible Therapeutic Targets | start page 29 |
+| Long Non-coding RNAs (lncRNAs) in Cancer Proliferation: Molecular Interactions and Possible Therapeutic Targets | start page 103 |
 
 </details>
 
@@ -87,12 +87,13 @@ My peer-reviewed publications are generated from PubMed.
 
 
 <details markdown="1">
-<summary>Preprints, reviews, & abstracts</summary>
+<summary>Preprints & reviews</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
 | 2021 | Influence of Fara-darmani Consciousness Field on Bacterial Population Growth | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.426007v1) [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.01.08.426007-blue)](https://doi.org/10.1101/2021.01.08.426007) | 
-| 2020 | Global Analysis of Human SARS-CoV-2 Infection & Host-Virus Interaction | [BioHackrXiv](https://biohackrxiv.org/b4zkp/) [![DOI](https://img.shields.io/badge/DOI-10.37044%2Fosf.io%2Fb4zkp-blue)](https://doi.org/10.37044/osf.io/b4zkp) || 2018 | Expression & Regulation of Chondroitin Sulfate in Prostate Cancer | American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229) |
+| 2020 | Global Analysis of Human SARS-CoV-2 Infection & Host-Virus Interaction | [BioHackrXiv](https://biohackrxiv.org/b4zkp/) [![DOI](https://img.shields.io/badge/DOI-10.37044%2Fosf.io%2Fb4zkp-blue)](https://doi.org/10.37044/osf.io/b4zkp) |
+| 2018 | Expression & Regulation of Chondroitin Sulfate in Prostate Cancer | American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229) |
 | 2018 | Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma | [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2) [![DOI](https://img.shields.io/badge/DOI-10.1101%2F243477-blue)](https://doi.org/10.1101/243477) |
 | 2015 | Organelles Enter the Game of Aging Related Aggregation & Retention of Misfolded Proteins | Journal of Postdoctoral Research [PDJ](https://scispace.com/pdf/organelles-enter-the-game-of-aging-related-aggregation-and-4t611m7ste.pdf) |
 | 2014 | Protein Turnover: To Self-Eat or Not to Self-Eat, That’s the Question | Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/Protein-turnover%3A-to-self-eat-or-not-to-self-eat%2C-Journal-Nabavi/044e23a34cca782079533fe5507f323110031932) |
