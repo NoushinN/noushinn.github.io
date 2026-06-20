@@ -1,13 +1,10 @@
-# scripts/update_publications_from_pubmed.R
 
-# Install once if needed:
-# install.packages(c("rentrez", "xml2", "stringr"))
+# scripts/update_publications_from_pubmed.R
 
 library(rentrez)
 library(xml2)
 library(stringr)
 
-# Search PubMed using full author-name fields only.
 pubmed_query <- '"Noushin Nabavi"[Full Author Name] OR "Nabavi Noushin"[Full Author Name]'
 
 out_file <- "_includes/publications.md"
@@ -15,6 +12,8 @@ out_file <- "_includes/publications.md"
 if (!dir.exists("_includes")) {
   dir.create("_includes", recursive = TRUE)
 }
+
+citations <- character(0)
 
 search <- entrez_search(
   db = "pubmed",
@@ -31,7 +30,6 @@ if (length(ids) == 0) {
       "## Peer-reviewed research contributions",
       "",
       "<!-- This section is generated from PubMed. Do not edit manually. -->",
-      "",
       paste0("<!-- PubMed query: ", pubmed_query, " -->"),
       paste0("<!-- Last updated: ", Sys.Date(), " -->"),
       "",
@@ -51,77 +49,150 @@ records_raw <- entrez_fetch(
 )
 
 records_xml <- read_xml(records_raw)
-
 articles <- xml_find_all(records_xml, ".//PubmedArticle")
 
 get_text <- function(node, path) {
-  value <- xml_text(xml_find_first(node, path), trim = TRUE)
-  if (length(value) == 0 || is.na(value)) "" else value
+  found <- xml_find_first(node, path)
+  value <- xml_text(found, trim = TRUE)
+  
+  if (length(value) == 0 || is.na(value)) {
+    ""
+  } else {
+    value
+  }
 }
 
-format_authors <- function(article) {
+clean_title <- function(title) {
+  title |>
+    str_squish() |>
+    str_remove("\\.+$") |>
+    str_remove("\\s+$")
+}
+
+format_authors <- function(article, max_before_cut = 3) {
   author_nodes <- xml_find_all(article, ".//AuthorList/Author")
+  
+  if (length(author_nodes) == 0) {
+    return("")
+  }
   
   authors <- vapply(author_nodes, function(a) {
     last <- get_text(a, ".//LastName")
     initials <- get_text(a, ".//Initials")
+    collective <- get_text(a, ".//CollectiveName")
     
-    if (last == "" && initials == "") {
-      collective <- get_text(a, ".//CollectiveName")
+    if (last == "" && initials == "" && collective != "") {
       return(collective)
     }
     
-    paste(last, initials)
+    paste(c(last, initials)[c(last, initials) != ""], collapse = " ")
   }, character(1))
   
   authors <- authors[authors != ""]
   
+  # Highlight Nabavi if present
   authors <- str_replace_all(authors, "^Nabavi N$", "**Nabavi N**")
   authors <- str_replace_all(authors, "^Nabavi Noushin$", "**Nabavi Noushin**")
   authors <- str_replace_all(authors, "^Noushin Nabavi$", "**Noushin Nabavi**")
   
-  paste(authors, collapse = ", ")
+  nabavi_index <- which(str_detect(authors, "Nabavi"))
+  
+  # Short author list for readability
+  if (length(authors) <= 6) {
+    return(paste(authors, collapse = ", "))
+  }
+  
+  if (length(nabavi_index) > 0 && nabavi_index[1] > max_before_cut) {
+    shown_authors <- c(
+      authors[1:max_before_cut],
+      "...",
+      authors[nabavi_index[1]],
+      "et al."
+    )
+  } else {
+    shown_authors <- c(
+      authors[1:max_before_cut],
+      "et al."
+    )
+  }
+  
+  paste(shown_authors, collapse = ", ")
 }
 
-format_date <- function(article) {
+format_year <- function(article) {
   year <- get_text(article, ".//JournalIssue/PubDate/Year")
-  month <- get_text(article, ".//JournalIssue/PubDate/Month")
-  day <- get_text(article, ".//JournalIssue/PubDate/Day")
   
-  paste(c(year, month, day)[c(year, month, day) != ""], collapse = " ")
+  if (year == "") {
+    year <- get_text(article, ".//ArticleDate/Year")
+  }
+  
+  year
 }
 
 format_pages <- function(article) {
   pages <- get_text(article, ".//Pagination/MedlinePgn")
-  if (pages == "") "" else paste0(":", pages)
+  pages <- str_squish(pages)
+  pages
 }
 
 format_volume_issue <- function(article) {
   volume <- get_text(article, ".//JournalIssue/Volume")
   issue <- get_text(article, ".//JournalIssue/Issue")
   
-  if (volume != "" && issue != "") return(paste0(volume, "(", issue, ")"))
-  if (volume != "") return(volume)
+  if (volume != "" && issue != "") {
+    return(paste0(volume, "(", issue, ")"))
+  }
+  
+  if (volume != "") {
+    return(volume)
+  }
+  
   ""
 }
 
 format_doi <- function(article) {
   article_ids <- xml_find_all(article, ".//ArticleIdList/ArticleId")
-  doi <- ""
+  
+  if (length(article_ids) == 0) {
+    return("")
+  }
   
   for (id in article_ids) {
-    if (xml_attr(id, "IdType") == "doi") {
-      doi <- xml_text(id, trim = TRUE)
-      break
+    if (!is.na(xml_attr(id, "IdType")) && xml_attr(id, "IdType") == "doi") {
+      return(str_squish(xml_text(id, trim = TRUE)))
     }
   }
   
-  if (doi == "") "" else doi
+  ""
+}
+
+format_doi_badge <- function(doi) {
+  if (doi == "") {
+    return("")
+  }
+  
+  doi_clean <- str_squish(doi)
+  doi_encoded <- URLencode(doi_clean, reserved = TRUE)
+  
+  badge_url <- paste0(
+    "https://img.shields.io/static/v1?",
+    "label=DOI",
+    "&message=", doi_encoded,
+    "&color=blue"
+  )
+  
+  paste0(
+    "[![DOI](",
+    badge_url,
+    ")](https://doi.org/",
+    doi_encoded,
+    ")"
+  )
 }
 
 format_article <- function(article) {
   pmid <- get_text(article, ".//PMID")
-  title <- get_text(article, ".//ArticleTitle")
+  title <- clean_title(get_text(article, ".//ArticleTitle"))
   journal <- get_text(article, ".//Journal/ISOAbbreviation")
   
   if (journal == "") {
@@ -129,24 +200,29 @@ format_article <- function(article) {
   }
   
   authors <- format_authors(article)
-  date <- format_date(article)
+  year <- format_year(article)
   vol_issue <- format_volume_issue(article)
   pages <- format_pages(article)
   doi <- format_doi(article)
   
   citation <- paste0(
-    authors, ". ",
-    title, ". ",
-    journal, ". ",
-    date
+    authors,
+    " (",
+    year,
+    "). ",
+    title,
+    ". ",
+    "*",
+    journal,
+    "*"
   )
   
   if (vol_issue != "") {
-    citation <- paste0(citation, ";", vol_issue)
+    citation <- paste0(citation, ", ", vol_issue)
   }
   
   if (pages != "") {
-    citation <- paste0(citation, pages)
+    citation <- paste0(citation, ", ", pages)
   }
   
   citation <- paste0(citation, ".")
@@ -154,28 +230,39 @@ format_article <- function(article) {
   if (doi != "") {
     citation <- paste0(
       citation,
-      " doi: ",
-      doi,
-      ". ",
-      "[DOI](https://doi.org/",
-      doi,
-      ")"
-    )
-  } else {
-    citation <- paste0(
-      citation,
-      " [PubMed](https://pubmed.ncbi.nlm.nih.gov/",
-      pmid,
-      "/)"
+      " ",
+      format_doi_badge(doi)
     )
   }
+  
+  citation <- paste0(
+    citation,
+    " ",
+    "[PubMed](https://pubmed.ncbi.nlm.nih.gov/",
+    pmid,
+    "/)"
+  )
   
   citation
 }
 
-citations <- vapply(articles, format_article, character(1))
+if (length(articles) > 0) {
+  citations <- vapply(articles, function(article) {
+    tryCatch(
+      format_article(article),
+      error = function(e) {
+        pmid <- get_text(article, ".//PMID")
+        paste0(
+          "Publication record could not be fully formatted. ",
+          "[PubMed](https://pubmed.ncbi.nlm.nih.gov/",
+          pmid,
+          "/)"
+        )
+      }
+    )
+  }, character(1))
+}
 
-# Convert to numbered list
 citations <- paste0(seq_along(citations), ". ", citations)
 
 header <- c(

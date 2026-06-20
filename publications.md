@@ -91,25 +91,23 @@ My peer-reviewed publications are generated from PubMed.
 
 | Year | Title | Source |
 |:---|:---|:---|
-| 2021 | Influence of Fara-darmani Consciousness Field on Bacterial Population Growth | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.426007v1), doi:10.1101/2021.01.08.426007 |
-| 2020 | Global Analysis of Human SARS-CoV-2 Infection & Host-Virus Interaction | [BioHackrXiv](https://biohackrxiv.org/b4zkp/), doi:10.37044/osf.io/b4zkp |
-| 2018 | Expression & Regulation of Chondroitin Sulfate in Prostate Cancer | American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229) |
-| 2018 | Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma | [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2) |
-| 2015 | Organelles Enter the Game of Aging Related Aggregation & Retention of Misfolded Proteins | Journal of Postdoctoral Research, [PDJ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1049.9698&rep=rep1&type=pdf) |
+| 2021 | Influence of Fara-darmani Consciousness Field on Bacterial Population Growth | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.426007v1) [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.01.08.426007-blue)](https://doi.org/10.1101/2021.01.08.426007) | 
+| 2020 | Global Analysis of Human SARS-CoV-2 Infection & Host-Virus Interaction | [BioHackrXiv](https://biohackrxiv.org/b4zkp/) [![DOI](https://img.shields.io/badge/DOI-10.37044%2Fosf.io%2Fb4zkp-blue)](https://doi.org/10.37044/osf.io/b4zkp) || 2018 | Expression & Regulation of Chondroitin Sulfate in Prostate Cancer | American Association for [Cancer Research](https://cancerres.aacrjournals.org/content/78/13_Supplement/5229) |
+| 2018 | Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma | [bioRxiv](https://www.biorxiv.org/content/10.1101/243477v2) [![DOI](https://img.shields.io/badge/DOI-10.1101%2F243477-blue)](https://doi.org/10.1101/243477) |
+| 2015 | Organelles Enter the Game of Aging Related Aggregation & Retention of Misfolded Proteins | Journal of Postdoctoral Research [PDJ](https://scispace.com/pdf/organelles-enter-the-game-of-aging-related-aggregation-and-4t611m7ste.pdf) |
 | 2014 | Protein Turnover: To Self-Eat or Not to Self-Eat, That’s the Question | Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/Protein-turnover%3A-to-self-eat-or-not-to-self-eat%2C-Journal-Nabavi/044e23a34cca782079533fe5507f323110031932) |
-| 2014 | YAP/TAZ Join the Play with β-Catenin to Orchestrate Wnt Signaling | Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/758/yap-taz-join-the-play-with-%C3%9F-catenin-to-orchestrate-wnt-signaling.htm) |
+| 2014 | YAP/TAZ Join the Play with β-Catenin to Orchestrate Wnt Signaling | Journal of Postdoctoral Research, [PDJ](https://www.semanticscholar.org/paper/YAP-TAZ-Join-the-Play-with-%CE%B2-catenin-to-Orchestrate-Journal-Nabavi/ae8c802fc06b67f91bc7000321f2d67d7b176ee4) |
 | 2014 | Can Aging Be Reversed? | Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/675/can-aging-be-reversed-.htm) |
 | 2014 | Cancer-Associated PTEN: Structural & Functional Characterization | Journal of Postdoctoral Research, [PDJ](http://www.postdocjournal.com/archives/738/cancer-associated-pten-structural-and-functional-characterization.htm) |
 
 </details>
 
 <details markdown="1">
-<summary>Policy publications, public scholarship, & perspectives</summary>
+<summary>Policy publications & perspectives</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
 | 2020 | Healthwiser: Monitoring & evaluation of surgical outcomes | Human Health & Services Library at the BC Ministry of Health, [BC-Gov](http://sirsi.hlth.gov.bc.ca/uhtbin/cgisirsi.exe/x/0/0/57/5/0?searchdata1=53917%7BCKEY%7D&searchfield1=GENERAL%5ESUBJECT%5EGENERAL%5E%5E&user_id=WEBSERVER) |
-| 2020 | Canadian Association of Postdoctoral Scholars' Year in Review at Annual General Meeting | [CAPS-ACSP](https://www.caps-acsp.ca/wp-content/uploads/2020/09/CAPS-2020-AGM-Year-in-Review.pdf) |
 | 2020 | Boosting the volume & speed of genetic sequencing comes with challenges | [iPolitics](https://ipolitics.ca/2020/11/03/boosting-the-volume-and-speed-of-genetic-sequencing-comes-with-challenges) |
 | 2020 | Coronavirus shining a spotlight on homo sapiens | Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/coronavirus-shining-a-spotlight-on-homo-sapiens/) |
 | 2020 | Limiting the negative impact of the COVID-19 pandemic on Canadian postdoctoral scholars | Canadian Science Policy Centre, [Editorial](https://sciencepolicy.ca/posts/limiting-the-negative-impact-of-the-covid-19-pandemic-on-canadian-postdoctoral-scholars/) |
@@ -118,7 +116,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary>Public writing, essays, & commentary</summary>
+<summary>Essays & commentary</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
