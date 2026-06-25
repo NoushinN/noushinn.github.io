@@ -16,7 +16,7 @@ This page brings together my academic publications, thesis, book contributions, 
 </details>
 
 <details markdown="1">
-<summary>Peer-reviewed research contributions</summary>
+<summary>Peer-reviewed research papers</summary>
 
 My peer-reviewed publications are generated from PubMed.
 
@@ -25,7 +25,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary>Book chapter contributions</summary>
+<summary>Book chapters</summary>
 
 | Year | Contribution | Source |
 |:---|:---|:---|
@@ -104,7 +104,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary>Policy publications & perspectives</summary>
+<summary>Policy perspectives</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
@@ -131,18 +131,17 @@ My peer-reviewed publications are generated from PubMed.
 | 2018 | Metacognition in the Data Age | [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb) |
 | 2018 | Data Renaissance: Creating Data-driven Cultures | [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79) |
 | 2014 | Many Career Paths for PhDs | [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds) |
-| 2014 | The Legend of Gilgamesh | [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d) |
-| 2014 | The Legend of Gilgamesh | [Ancient Origins](https://www.ancient-origins.net/myths-legends/myth-gilgamesh-001927) |
-
 </details>
 
 <details markdown="1">
-<summary>Creative publications</summary>
+<summary>Creative works</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
-| 2014 | Red, Black, & White Paintings, a collection | [Amazon](https://www.amazon.com/Black-White-Paintings-Noushin-Nabavi/dp/1320121594) |
 | 2008–2017 | Blog | [elephile](https://elephile.blogspot.com/) |
+| 2014 | Red, Black, & White Paintings, a collection | [Amazon](https://www.amazon.com/Black-White-Paintings-Noushin-Nabavi/dp/1320121594) |
+| 2014 | The Legend of Gilgamesh | [Medium](https://medium.com/@nabavinoushin/the-legend-of-gilgamesh-931d3b30d68d) |
+| 2014 | The Legend of Gilgamesh | [Ancient Origins](https://www.ancient-origins.net/myths-legends/myth-gilgamesh-001927) |
 | n.d. | Photoblog | [elephile](https://elephile.tumblr.com/) |
 
 </details>

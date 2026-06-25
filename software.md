@@ -7,10 +7,10 @@ hide_title: true
 
 ## Software
 
-This page highlights my open-source software, educational R packages, data-science projects, hackathon work, and technical learning resources.  
+This page highlights my open-source software, R packages, Python/Streamlit apps, data-science projects, hackathon work, and technical learning resources.
 
 <details markdown="1">
-<summary>Educational R packages</summary>
+<summary> R packages</summary>
 
 | Package                 | Description                                                                                                                                                                         | Links                                                                                                                                                                                                                                |
 | :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,6 +20,17 @@ This page highlights my open-source software, educational R packages, data-scien
 | **consciousnessModelR** | Educational R package for simulating simplified computational models inspired by consciousness theories, including attention, broadcast, integration, and threshold-like awareness. | [Website](https://noushinn.github.io/consciousnessModelR/) / [GitHub](https://github.com/NoushinN/consciousnessModelR) / [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20766470.svg)](https://doi.org/10.5281/zenodo.20766470) |
 
 </details>
+
+<details markdown="1">
+<summary>Python & Streamlit app</summary>
+
+| Project                              | Description                                                                                                                                                                                                                                                                                                                                         | Links                                                                                                                                                                                                                                             |
+| :----------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Quantum and Particle Physics Lab** | Beginner-friendly Python and Streamlit learning app for exploring quantum physics, quantum computing, and particle physics. Includes interactive visualizations, NumPy-based quantum-circuit simulations, wavefunction models, particle tables, quizzes, worksheets, notebooks, PDG-referenced starter data, and CERN Open Data learning resources. | [Website](https://quantum-particle-physics-lab.streamlit.app/) / [GitHub](https://github.com/NoushinN/quantum-particle-physics-lab) / [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20838189.svg)](https://doi.org/10.5281/zenodo.20838189) |
+
+</details>
+
+
 
 <details markdown="1">
 <summary>Public-sector data & policy analytics</summary>
@@ -37,7 +48,7 @@ These projects focus on public-sector data, reproducible analytics, policy analy
 </details>
 
 <details markdown="1">
-<summary>COVID-19, health-data, & biomedical hackathon software projects</summary>
+<summary> Biomedical hackathon software projects</summary>
 
 These projects were developed through hackathons, open-data initiatives, or health-data collaborations.
 
@@ -55,7 +66,7 @@ These projects were developed through hackathons, open-data initiatives, or heal
 </details>
 
 <details markdown="1">
-<summary>Teaching, open science, & learning resources</summary>
+<summary>Teaching & learning resources</summary>
 
 These projects support reproducible learning, science communication, open workflows, and educational content.
 
