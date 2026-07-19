@@ -117,7 +117,7 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary>Essays & commentary</summary>
+<summary>Essays &amp; commentary</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
