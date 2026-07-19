@@ -117,20 +117,21 @@ My peer-reviewed publications are generated from PubMed.
 </details>
 
 <details markdown="1">
-<summary>Essays &amp; commentary</summary>
+<summary>Essays and commentary</summary>
 
 | Year | Title | Source |
 |:---|:---|:---|
-| 2022 | On the Woman, Life, Freedom movement in Iran | [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684?fbclid=IwAR34koMnpAiebXHKi7ZTr18nnA4hl4Za26Q8KafHIOYMVeGUd1owpp9jdg8) |
+| 2022 | On the Woman, Life, Freedom movement in Iran | [The Conversation](https://theconversation.com/iran-is-using-every-effort-to-crush-protesters-intent-on-a-revolution-except-hearing-them-out-193684) |
 | 2020 | To code or not to code | [Data Driven Investor](https://medium.com/datadriveninvestor/to-code-or-not-to-code-144e0ffd5d04) |
-| 2019 | Hacking Disease & Death | [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5) |
+| 2019 | Hacking Disease and Death | [Medium](https://medium.com/@nabavinoushin/hacking-disease-and-death-data-driven-investor-b0c3df1c4ed5) |
 | 2019 | From messy to tidy: the case for a data science workflow | [Data Driven Investor](https://medium.com/datadriveninvestor/from-messy-to-tidy-the-case-for-a-data-science-workflow-4190b409ed4c) |
 | 2018 | Disruption by Design | [Data Driven Investor](https://medium.com/datadriveninvestor/disruption-by-design-77a8347cbaa3) |
 | 2018 | Technical Considerations for Longitudinal Data Analyses | [Data Driven Investor](https://medium.com/datadriveninvestor/technical-considerations-for-longitudinal-data-analyses-e9e056ffcc7e) |
-| 2018 | Menu for preparing data & serving it cold | [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695) |
+| 2018 | Menu for preparing data and serving it cold | [Data Driven Investor](https://medium.com/datadriveninvestor/menu-for-preparing-data-serving-it-cold-37916134b695) |
 | 2018 | Metacognition in the Data Age | [Data Driven Investor](https://medium.com/datadriveninvestor/metacognition-in-the-data-age-89ffdcd92feb) |
 | 2018 | Data Renaissance: Creating Data-driven Cultures | [Data Driven Investor](https://medium.com/datadriveninvestor/data-renaissance-6fb182ae1f79) |
 | 2014 | Many Career Paths for PhDs | [UCSF Synapse](https://synapse.ucsf.edu/articles/2014/11/19/many-career-paths-phds) |
+
 </details>
 
 <details markdown="1">
